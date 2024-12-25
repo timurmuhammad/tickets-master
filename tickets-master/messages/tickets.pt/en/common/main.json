@@ -1,0 +1,79 @@
+{
+  "header": {
+    "header_banner_text": "Broaden Your Travel Horizons with TICKETS.PT",
+    "bonus_title": "Earn Rewards ✈️ with Every Booking on TICKETS",
+    "bonus_sub": "Join our rewards program and save even more on flights, hotels, and experiences with TICKETS.PT!"
+  },
+  "home": {
+    "h1": "Discover the Best Flight Deals Across Portugal and Worldwide",
+    "top_destinations": "Top Travel Destinations in Portugal",
+    "top_destinations_sub": "Effortlessly find affordable flights to popular destinations with unbeatable offers",
+    "city_card_hover": "Curious about ticket prices from {{destinationFrom}} to {{destinationTo}}? Click here for more! 🚀",
+    "counter_subtitle": "TICKETS.PT makes it easy to explore and compare flights from top airlines, helping you find the best deals for your next adventure.",
+
+    "flights_near_you": "Affordable Flights Departing from Your Local Airports",
+    "flights_near_you_sub": "Our advanced search shows the best flights from nearby airports, highlighting top destinations in Portugal, Europe, and beyond.",
+    "loading_affordable_flights": "Searching for top deals from your nearest airports...",
+    "no_flights_to_destination": "We couldn't find flights from {{destination1}} to {{destination2}}. Why not check options from {{destination3}} instead?",
+
+    "continent_destinations_title": "Explore Global Flight Options",
+    "continent_destinations_sub": "Enjoy fantastic prices on international flights with detailed route and airline options.",
+
+    "partners_title": "Our Trusted Partners: Connecting You to Leading Airlines Worldwide",
+
+    "about_title": "Seamless Booking with TICKETS.PT: Flights, Hotels, and More",
+    "about_sub": "Plan your next journey effortlessly—find great flight deals, book the best hotels, and enjoy hassle-free travel planning with us.",
+    "cheap_destinations_title": "Best Flight Deals to Popular Destinations",
+    "cheap_destinations_sub": "Find exclusive deals on flights to your favorite cities across Portugal and Europe."
+  },
+  "flights": {
+    "flights_title": "Book the Best Flight for Your Journey",
+    "intro_title": "Travel Smart, Save Big",
+    "intro_descr": "TICKETS.PT makes finding your ideal flight easy. Compare options, choose what suits you best, and book with confidence."
+  },
+  "destinations": {
+    "destinations_title_part_1": "Explore",
+    "destinations_title_part_2": "Your Next Destination",
+    "destinations_img_alt": "Find Exciting Global Destinations with TICKETS.PT",
+    "destinations_sub": "Discover popular spots and hidden gems worldwide with budget-friendly flights to suit any traveler.",
+    "seo_title": "Discover Cheap Flights Across Portugal and Beyond",
+    "seo_sub": "Unlock the best deals on flights from Portugal to Europe, the Americas, and beyond.",
+    "seo_text_1": "Looking for affordable flights from Portugal? TICKETS.PT brings you great rates on flights to both popular and lesser-known destinations.",
+    "seo_text_2": "From Lisbon to the Algarve, find low-cost options for both domestic and international flights with TICKETS.PT.",
+    "seo_text_3": "Get travel tips, find budget-friendly destinations, and make the most of every journey with TICKETS.PT—your go-to platform for cheap flights.",
+    "seo_text_4": "Whether it’s a city break in Porto or a beach getaway to the Algarve, TICKETS.PT has the top deals for your next adventure.",
+    "continents_title": "Explore Affordable Flights Across Every Continent",
+    "continents_sub": "Find cost-effective flights to top destinations worldwide, including Europe, Asia, and the Americas.",
+    "flights_title": "Flights for Every Kind of Traveler",
+    "flights_sub": "Use our advanced search features to customize your experience and find the best flight deals globally."
+  },
+  "destinations_country": {
+    "destinations_title": "Top Flights to {{country}}",
+    "destinations_description": "Find affordable flights to {{country}} with personalized recommendations for a memorable trip."
+  },
+  "destinations_city": {
+    "flights_search_banner": {
+      "banner_title": "Discover the Best Flight Deals to {{destination}}",
+      "banner_description": "Browse over 1,200 airlines to secure the best prices for your journey to {{destination}}."
+    },
+    "destinations_desc": "Plan your trip to {{city}} with our exclusive deals and use our calendar for the best dates and rates."
+  },
+  "404": {
+    "title": "Oops! Page Not Found",
+    "subtitle": "Sorry, we can’t locate the page you’re looking for. Try searching or explore our menu options."
+  },
+  "badges": {
+    "flight_deals_badge": "from €10"
+  },
+  "alert": {
+    "best_price_guarantee_title": "Guaranteed Best Prices with TICKETS.PT",
+    "best_price_guarantee_sub": "Book confidently, knowing you're getting top deals on flights, hotels, and more."
+  },
+  "pagination": {
+    "show_more_expensive_dates": "View Flights for Alternate Dates"
+  },
+  "call_to_actions": {
+    "signup_title": "Stay Updated with the Best Travel Deals",
+    "signup_sub": "Subscribe now to get exclusive offers and save big on your next travel adventure."
+  }
+}

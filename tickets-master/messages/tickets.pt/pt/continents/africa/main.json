@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore África com TICKETS ✈️",
+      "description": "Planeie uma viagem inesquecível por África com a TICKETS.PT. Descubra os melhores destinos, tesouros culturais, voos económicos e muito mais com ofertas exclusivas de viagem e opções de reserva fáceis."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubra África a partir de Portugal",
+    "banner_sub": "Obtenha ofertas exclusivas, guias informativos e explore paisagens deslumbrantes por toda a África",
+
+    "intro_title": "Guia de Viagem para África",
+    "intro_content": "África espera por si com paisagens inesquecíveis, rica história e culturas diversas. Com a TICKETS.PT, planear a sua aventura nunca foi tão fácil. Compare voos das principais companhias aéreas, encontre opções económicas e explore tudo o que África tem para oferecer com confiança.",
+
+    "winter_celsius": "5°C a 20°C",
+    "winter_fahrenheit": "41°F a 68°F",
+    "spring_celsius": "15°C a 30°C",
+    "spring_fahrenheit": "59°F a 86°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "15°C a 30°C",
+    "autumn_fahrenheit": "59°F a 86°F",
+
+    "timezone_range": "UTC-1 a UTC+4",
+    "timezone_note": "Vários fusos horários",
+    "tourists_range": "67,1 milhões",
+    "tourists_note": "Turistas Internacionais, 2019",
+    "demographics_countries": "54",
+    "demographics_population": "1,37 mil milhões",
+    "heritage_range": "154",
+    "heritage_note": "Sítios do Património Mundial da UNESCO",
+
+    "destinations_title": "Encontre Ofertas Imbatíveis de Voos para África",
+    "destinations_description": "Explore as melhores rotas e opções de viagem acessíveis para os destinos mais cativantes de África. Quer esteja à procura de aventura, vida selvagem ou experiências culturais, a TICKETS.PT está aqui para si.",
+
+    "faq": {
+      "1_answer": "Alguns dos principais destinos de África incluem Cidade do Cabo, na África do Sul, conhecida pela icónica Montanha da Mesa e praias deslumbrantes; as Pirâmides de Gizé no Egito; o exuberante Delta do Okavango no Botsuana; Marrakech em Marrocos; e as majestosas Cataratas Vitória, na fronteira entre a Zâmbia e o Zimbabué.",
+      "2_answer": "Para encontrar voos económicos para África, utilize a ferramenta de datas flexíveis da TICKETS.PT, reserve com antecedência e considere voar a meio da semana. Também pode configurar alertas para acompanhar as reduções de preços nas rotas desejadas.",
+      "3_answer": "Geralmente, a estação seca, de maio a outubro, é ideal para observar a vida selvagem, especialmente na África Oriental e Austral. Para países do Norte de África, como Marrocos e Egito, os meses mais frescos de novembro a março oferecem condições agradáveis para viajar.",
+      "4_answer": "As principais companhias aéreas com voos frequentes para África incluem a Emirates, Qatar Airways, Turkish Airlines e Ethiopian Airlines. Estas oferecem uma rede extensa em todo o continente, tornando a viagem flexível e acessível.",
+      "5_answer": "Para garantir voos económicos durante períodos de grande procura, tente reservar o mais cedo possível, utilizando a ferramenta de comparação da TICKETS.PT, e esteja aberto a escalas. Datas de viagem flexíveis também podem ajudar a encontrar preços melhores.",
+      "6_answer": "Normalmente, os viajantes para países africanos precisam de um passaporte válido e, em alguns casos, de um visto de turista. Alguns destinos podem exigir comprovativo de vacinação, como a febre amarela. Verifique os requisitos de entrada para o seu destino específico com antecedência.",
+      "7_answer": "Principais atrações em África incluem o Serengeti e Maasai Mara para safáris, os mercados movimentados de Marrakech, as ruínas antigas do Egito, as Cataratas Vitória e as praias de Zanzibar. Cada local oferece experiências únicas e inesquecíveis.",
+      "8_answer": "Para viagens entre países africanos, as principais companhias aéreas como Kenya Airways e South African Airways oferecem rotas confiáveis. Para distâncias curtas, considere opções de autocarro e comboio, especialmente em países bem conectados como a África do Sul.",
+      "9_answer": "Sim, várias companhias aéreas económicas operam em África, como a FlySafair na África do Sul, Fastjet na África Oriental e a Mango Airlines. A TICKETS.PT permite-lhe comparar preços de companhias low-cost e principais transportadoras para encontrar a melhor oferta.",
+      "10_answer": "As orientações de saúde e segurança variam de país para país. Muitos exigem comprovativo de vacinação contra a COVID-19 ou um teste negativo recente. Mantenha-se informado sobre os requisitos de entrada antes de partir para garantir uma viagem tranquila.",
+      "11_answer": "A TICKETS.PT oferece uma funcionalidade de ofertas de última hora que ajuda a encontrar voos com desconto próximos das datas de viagem. Fique atento ao nosso site para atualizações em tempo real sobre lugares disponíveis e preços.",
+      "12_answer": "Ao fazer as malas para África, considere itens essenciais como um passaporte válido, seguro de viagem, roupa leve e respirável, protetor solar, repelente de insetos e um kit de primeiros socorros. Adapte a sua bagagem à região específica que vai visitar, pois o clima varia.",
+      "13_answer": "Para economizar na acomodação em África, considere ficar em pousadas locais, hostels ou eco-lodges. Reservar com antecedência, usar plataformas como Airbnb ou escolher datas de viagem fora da época também pode ajudar a reduzir custos.",
+      "14_answer": "Emirates, Qatar Airways e Turkish Airlines são algumas das melhores escolhas para voos de longo curso para África. Estas companhias oferecem um serviço de alta qualidade, conforto e opções de rota extensas.",
+      "15_answer": "O tempo de voo de Portugal para África varia amplamente consoante o destino. Voos diretos para o norte de África podem demorar cerca de 4-5 horas, enquanto voos para a África Austral geralmente incluem escalas e podem durar entre 10 e 15 horas.",
+      "16_answer": "Para aproveitar uma viagem económica a África, use a TICKETS.PT para encontrar voos acessíveis, opte por comer em restaurantes locais, fique em acomodações económicas e considere o transporte público ou tours em grupo para poupar nas despesas de viagem.",
+      "17_answer": "Voos diretos de Portugal para África estão disponíveis para regiões do norte, como Marrocos e Tunísia. Para outras partes de África, os voos geralmente incluem escalas, normalmente em hubs europeus ou do Médio Oriente.",
+      "18_answer": "O litoral de África oferece locais belíssimos como as praias da Cidade do Cabo, Zanzibar, o Mar Vermelho no Egito e a ilha Maurícia. Estes locais são perfeitos para relaxamento, desportos aquáticos e exploração da vida marinha.",
+      "19_answer": "Junte-se aos programas de milhas das companhias aéreas que servem África, como Emirates Skywards, Qatar Privilege Club ou Turkish Miles&Smiles, para ganhar pontos e poupar em voos futuros.",
+      "20_answer": "Os custos dos voos para África variam entre aproximadamente 600€ e 1.500€ para voos de ida e volta, dependendo da época, destino e companhia aérea. Reservar com antecedência e usar as ferramentas de comparação da TICKETS.PT pode ajudar a garantir os melhores preços."
+    }
+  }
+}

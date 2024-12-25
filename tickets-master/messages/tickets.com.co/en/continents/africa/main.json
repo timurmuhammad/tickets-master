@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 30°C",
+    "spring_fahrenheit": "59°F to 86°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 30°C",
+    "autumn_fahrenheit": "59°F to 86°F",
+
+    "timezone_range": "UTC-1 to UTC+4",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "67.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "54",
+    "demographics_population": "1.37 billion",
+    "heritage_range": "154",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "When visiting Africa, be sure to explore iconic places such as the pyramids of Egypt, the savannahs of Kenya, Cape Town in South Africa, and the stunning landscapes of Morocco. Each region offers a unique experience that showcases Africa's rich culture and natural beauty.",
+      "2_answer": "To find affordable flights to Africa, use flight comparison tools, book tickets in advance, or take advantage of special deals and promotions on TICKETS. Midweek flights and avoiding peak seasons can also help you find better deals.",
+      "3_answer": "The ideal time to visit Africa depends on the country, but typically, the dry seasons (from June to October in East and Southern Africa) are the best for safaris, while North Africa is most pleasant in the cooler months from October to April.",
+      "4_answer": "Major airlines that frequently fly to Africa include Ethiopian Airlines, South African Airways, Kenya Airways, and Qatar Airways. These carriers offer direct and connecting flights to various destinations across the continent.",
+      "5_answer": "Start by booking early, as prices tend to rise closer to the travel date. Use flight aggregator TICKETS to compare prices from multiple airlines and set up price alerts to get notified of any drops. Consider flying on weekdays, which often have lower fares, and explore connecting flights rather than direct routes to save money.",
+      "6_answer": "Travelers to African countries typically need a valid passport, and in some cases, a visa. Additionally, some countries may require proof of vaccinations, such as yellow fever. It's essential to check entry requirements for each destination before traveling.",
+      "7_answer": "Must-see tourist spots in Africa include the Serengeti National Park in Tanzania, Victoria Falls on the Zambia-Zimbabwe border, the Great Sphinx of Giza, and the stunning beaches of Zanzibar.",
+      "8_answer": "The best options for traveling between countries in Africa are via regional flights or by using inter-country bus services. Some countries also have well-developed rail systems. TICKETS offers various regional flight options for easy travel between African nations.",
+      "9_answer": "Yes, low-cost airlines such as FlySafair, Fastjet, and Jambojet operate in several African countries, offering affordable flights to and within the continent.",
+      "10_answer": "COVID-19 guidelines for travelers to Africa vary by country, but typically include proof of vaccination or a negative PCR test result. Be sure to check the latest regulations for your specific destination on TICKETS before booking your trip.",
+      "11_answer": "For last-minute flight offers to Africa, check TICKETS for real-time discounts and promotions. Last-minute deals are often available for flexible travelers who can depart on short notice.",
+      "12_answer": "When traveling to Africa, it’s essential to bring items like sunscreen, insect repellent, a first-aid kit, comfortable clothing, and sturdy walking shoes. Depending on the region, you may also need warm clothing for cooler nights and high-altitude destinations.",
+      "13_answer": "To reduce accommodation costs in Africa, consider staying in budget-friendly hotels, guesthouses, or hostels. You can also look for travel packages that bundle flights and accommodations on TICKETS for better savings.",
+      "14_answer": "For long-distance flights to Africa, airlines such as Emirates, Turkish Airlines, and Qatar Airways offer comfortable and well-connected routes from Colombia with high-quality in-flight services.",
+      "15_answer": "Flight times to Africa from Colombia vary depending on your destination. Direct flights are rare, but with connections, it typically takes between 16 to 24 hours to reach major cities in Africa.",
+      "16_answer": "Budget-friendly travel in Africa can be achieved by booking flights in advance, staying in local guesthouses, traveling by public transport, and eating at local markets. Using TICKETS to compare flights can also help save money on airfare.",
+      "17_answer": "Non-stop flights from Colombia to Africa are uncommon, but many connecting flights are available through major hubs in Europe and the Middle East. Use TICKETS to find the most efficient routes for your journey.",
+      "18_answer": "Some of the best coastal spots in Africa include the pristine beaches of Seychelles, the coral reefs of Mauritius, and the scenic coastlines of South Africa's Garden Route. These destinations offer breathtaking views and relaxing seaside experiences.",
+      "19_answer": "To earn airline rewards while flying to Africa, join frequent flyer programs such as Qatar Airways Privilege Club, Turkish Airlines Miles&Smiles, or South African Airways Voyager. Many of these programs offer points that can be redeemed for future flights booked on TICKETS.",
+      "20_answer": "Flight prices to Africa vary based on the season and destination, but the typical price range from Colombia to Africa is between $800 and $1,500 for economy class, depending on the airline and time of booking."
+    }
+  }
+}

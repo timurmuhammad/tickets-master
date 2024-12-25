@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Jelajahi {{continent}} bersama {{domain}} ✈️",
+      "description": "Rencanakan petualangan terbaik di {{continent}} bersama {{domain}}. Temukan tips perjalanan untuk destinasi populer, pengalaman budaya, opsi ramah anggaran, kuliner lokal, saran keselamatan, atraksi wajib, dan banyak lagi."
+    }
+  },
+  "continent": {
+    "banner_title": "Jelajahi {{title}} dengan TICKETS",
+    "banner_sub": "Nikmati penawaran penerbangan eksklusif, tips perjalanan, dan pengalaman tak terlupakan di seluruh {{title}}",
+
+    "intro_title": "Panduan Perjalanan ke {{continent}}",
+    "intro_content": "Nikmati keragaman Amerika Utara, mulai dari kota-kota yang semarak hingga pemandangan alam yang menakjubkan. Dengan TICKETS, Anda dapat menjelajahi segala yang ditawarkan benua luar biasa ini sambil menemukan penawaran penerbangan terbaik dan wawasan perjalanan.",
+
+    "winter_celsius": "-20°C hingga 10°C",
+    "winter_fahrenheit": "-4°F hingga 50°F",
+    "spring_celsius": "0°C hingga 20°C",
+    "spring_fahrenheit": "32°F hingga 68°F",
+    "summer_celsius": "20°C hingga 35°C",
+    "summer_fahrenheit": "68°F hingga 95°F",
+    "autumn_celsius": "10°C hingga 20°C",
+    "autumn_fahrenheit": "50°F hingga 68°F",
+
+    "timezone_range": "UTC-10 hingga UTC-3",
+    "timezone_note": "Beberapa zona waktu",
+    "tourists_range": "137.9 juta",
+    "tourists_note": "Turis Internasional, 2019",
+    "demographics_countries": "23",
+    "demographics_population": "579 juta",
+    "heritage_range": "23",
+    "heritage_note": "Situs Warisan Dunia UNESCO",
+
+    "destinations_title": "Temukan Penawaran Penerbangan Terbaik ke {{continent}}",
+    "destinations_description": "Jelajahi rute yang terjangkau dan kunjungi destinasi populer maupun tersembunyi di seluruh {{continent}} dengan opsi perjalanan yang dikurasi, sempurna untuk setiap petualang.",
+
+    "faq": {
+      "1_answer": "Untuk menemukan penerbangan termurah ke Amerika Utara, gunakan alat perbandingan penerbangan TICKETS.CO.ID. Masukkan tanggal perjalanan dan tujuan Anda untuk melihat penawaran terbaik dari maskapai ternama. Fleksibilitas tanggal dapat membantu Anda mendapatkan harga lebih rendah.",
+      "2_answer": "Waktu terbaik untuk memesan penerbangan ke Amerika Utara adalah selama musim perjalanan yang tidak terlalu ramai, seperti akhir musim dingin atau awal musim semi. Memesan 1–3 bulan sebelumnya juga dapat membantu Anda mendapatkan tarif terendah.",
+      "3_answer": "Maskapai terbaik yang menyediakan penerbangan langsung ke Amerika Utara termasuk American Airlines, Delta, dan United Airlines. TICKETS.CO.ID memungkinkan Anda memfilter dan membandingkan opsi penerbangan langsung untuk menghemat waktu dan usaha.",
+      "4_answer": "Ya, maskapai murah seperti JetBlue, Southwest Airlines, dan Frontier menawarkan penerbangan terjangkau ke Amerika Utara. Gunakan TICKETS.CO.ID untuk menemukan dan membandingkan opsi ini agar perjalanan Anda tetap hemat.",
+      "5_answer": "Musim perjalanan ramai di Amerika Utara adalah musim panas (Juni hingga Agustus) dan liburan musim dingin (Desember hingga Januari). Pesan jauh-jauh hari selama waktu ini untuk mendapatkan penerbangan yang terjangkau.",
+      "6_answer": "Durasi penerbangan ke Amerika Utara tergantung pada asal dan tujuan Anda. Dari Indonesia, penerbangan biasanya memakan waktu antara 15 hingga 20 jam, termasuk transit. TICKETS.CO.ID menyediakan waktu perjalanan yang akurat untuk kenyamanan Anda.",
+      "7_answer": "Destinasi terbaik di Amerika Utara termasuk New York City, Los Angeles, dan Cancun. Pecinta alam akan menyukai Taman Nasional Yosemite dan Grand Canyon, sementara pencari budaya dapat menjelajahi Washington D.C. dan Toronto.",
+      "8_answer": "Wisatawan ke Amerika Utara biasanya membutuhkan paspor yang masih berlaku dan, tergantung pada tujuannya, visa atau Otorisasi Perjalanan Elektronik (eTA). Periksa persyaratan terbaru di TICKETS.CO.ID sebelum memesan.",
+      "9_answer": "Kebijakan bagasi bervariasi tergantung pada maskapai. Sebagian besar maskapai mengizinkan satu tas kabin dan satu bagasi terdaftar untuk penerbangan internasional. Selalu konfirmasi kebijakan bagasi selama proses pemesanan di TICKETS.CO.ID.",
+      "10_answer": "Ya, TICKETS.CO.ID memungkinkan Anda memesan penerbangan multi-destinasi di seluruh Amerika Utara. Rencanakan perjalanan Anda dan jelajahi beberapa kota dalam satu pengalaman pemesanan yang mulus.",
+      "11_answer": "Penawaran penerbangan menit terakhir ke Amerika Utara dapat ditemukan di TICKETS.CO.ID. Gunakan fitur ‘Tanggal Fleksibel’ untuk membandingkan harga dan mendapatkan tiket diskon untuk perjalanan spontan.",
+      "12_answer": "Untuk penerbangan jarak jauh ke Amerika Utara, maskapai seperti Qatar Airways dan Emirates menawarkan layanan premium dan kenyamanan. Bandingkan penawaran mereka di TICKETS.CO.ID untuk perjalanan bebas stres.",
+      "13_answer": "Asuransi perjalanan sangat disarankan untuk perjalanan ke Amerika Utara. Ini mencakup pembatalan tak terduga, keadaan darurat medis, dan bagasi yang hilang. Beberapa opsi tersedia selama proses pemesanan di TICKETS.CO.ID.",
+      "14_answer": "Persyaratan visa untuk Amerika Utara tergantung pada kewarganegaraan Anda. Wisatawan Indonesia mungkin memerlukan visa untuk Amerika Serikat, Kanada, atau Meksiko. Kunjungi situs web kedutaan atau TICKETS.CO.ID untuk panduan.",
+      "15_answer": "Penerbangan langsung ke pusat utama Amerika Utara seperti Los Angeles dan New York tersedia dari beberapa maskapai. Gunakan filter TICKETS.CO.ID untuk menemukan opsi penerbangan langsung untuk perjalanan Anda.",
+      "16_answer": "Atraksi wajib di Amerika Utara termasuk Patung Liberty, Air Terjun Niagara, dan Taman Nasional Yellowstone. Jelajahi landmark budaya yang beragam dan keajaiban alam dengan tips perjalanan dari TICKETS.CO.ID.",
+      "17_answer": "Untuk menemukan penerbangan terjangkau selama musim permintaan tinggi, pesan lebih awal, dan pertimbangkan bandara atau tanggal perjalanan alternatif. Alat perbandingan harga TICKETS.CO.ID membantu Anda menemukan penawaran terbaik.",
+      "18_answer": "Periksa peringatan perjalanan terbaru untuk Amerika Utara di situs web pemerintah resmi. TICKETS.CO.ID menyediakan tautan dan pembaruan untuk membantu Anda tetap mendapat informasi tentang pembatasan atau langkah keselamatan apa pun.",
+      "19_answer": "Rute penerbangan pemandangan populer ke Amerika Utara termasuk penerbangan di atas Rockies, Grand Canyon, dan garis pantai California. Pesan pengalaman ini di TICKETS.CO.ID untuk pemandangan menakjubkan.",
+      "20_answer": "Bandara yang nyaman di Amerika Utara termasuk Bandara Internasional Los Angeles (LAX), JFK di New York, dan Pearson di Toronto. Gunakan TICKETS.CO.ID untuk menemukan penerbangan ke pusat utama ini."
+    }
+  }
+}

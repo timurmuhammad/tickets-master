@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja a través de {{continent}} con {{domain}} ✈️",
+      "description": "Planifica la aventura definitiva por {{continent}} con {{domain}}. Obtén consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, cocina local, consejos de seguridad, atracciones imperdibles y mucho más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Descubre ofertas exclusivas de viajes, guías de expertos y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viajes de {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C a 10°C",
+    "winter_fahrenheit": "14°F a 50°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "10°C a 20°C",
+    "autumn_fahrenheit": "50°F a 68°F",
+
+    "timezone_range": "UTC+4 a UTC+10",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "348,5 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4,64 mil millones",
+    "heritage_range": "705",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos poco convencionales en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+
+    "faq": {
+      "1_answer": "Asia ofrece una gran variedad de destinos diversos. Asegúrate de visitar los templos históricos de Angkor Wat en Camboya, las bulliciosas calles de Tokio, Japón, y las hermosas playas de Bali, Indonesia. La Gran Muralla China y el Taj Mahal en India también son lugares icónicos imperdibles para los viajeros que exploran este vibrante continente.",
+      "2_answer": "Para encontrar vuelos asequibles a Asia, utiliza las herramientas de comparación de vuelos de TICKETS para buscar las mejores ofertas. Configurar alertas de tarifas, reservar con anticipación y ser flexible con las fechas de viaje puede ayudarte a asegurar precios más bajos. Además, volar a grandes centros como Bangkok, Singapur o Kuala Lumpur puede ofrecer opciones más económicas.",
+      "3_answer": "El momento ideal para viajar a Asia depende de la región. El sudeste asiático se visita mejor entre noviembre y febrero para disfrutar de un clima más fresco y seco, mientras que el este de Asia (como Japón y Corea) es hermoso en primavera y otoño. Es recomendable evitar la temporada de monzones (junio a octubre) en muchas partes de Asia para una experiencia de viaje más tranquila.",
+      "4_answer": "Las principales aerolíneas que vuelan frecuentemente a Asia desde Colombia incluyen Avianca (vía conexiones), Qatar Airways, Emirates, Turkish Airlines y American Airlines. Dependiendo de tu destino, probablemente necesitarás una escala en centros como Estambul, Dubái o Doha para llegar a tu ubicación final en Asia.",
+      "5_answer": "Comienza reservando con anticipación, ya que los precios tienden a aumentar a medida que se acerca la fecha de viaje. Utiliza el agregador de vuelos TICKETS para comparar precios de varias aerolíneas y configurar alertas de precios para recibir notificaciones sobre caídas de tarifas. Considera volar entre semana, que generalmente tiene tarifas más bajas, y explora vuelos con escalas en lugar de rutas directas para ahorrar dinero.",
+      "6_answer": "Los documentos requeridos para ingresar a países de Asia dependen de tu nacionalidad y destino. Normalmente, necesitarás un pasaporte válido con al menos seis meses de vigencia. Algunos países, como Tailandia y Japón, pueden no requerir visa para estadías cortas, pero otros, como China e India, sí. Siempre verifica los requisitos específicos de visa para cada país que planeas visitar.",
+      "7_answer": "Asia alberga algunos de los principales destinos turísticos del mundo. No te pierdas los monumentos icónicos como el Taj Mahal en India, la Gran Muralla en China, el Monte Fuji en Japón y la Bahía de Halong en Vietnam. Para una experiencia cultural, los antiguos templos de Bagan en Myanmar y el moderno horizonte de Hong Kong son visitas obligadas.",
+      "8_answer": "Para viajar entre países en Asia, aerolíneas de bajo costo como AirAsia, Scoot y Jetstar ofrecen opciones asequibles. Los trenes de alta velocidad están disponibles en países como Japón y China para viajes rápidos y cómodos. Los autobuses de larga distancia y los ferries también son excelentes formas de explorar Asia mientras te mantienes dentro del presupuesto.",
+      "9_answer": "Sí, varias aerolíneas de bajo costo operan vuelos a Asia. Compañías como AirAsia, Jetstar y Scoot ofrecen opciones asequibles para vuelos dentro de y hacia Asia desde los principales centros. Estas aerolíneas frecuentemente ofrecen tarifas económicas y promociones, lo que facilita viajar por el continente sin gastar demasiado.",
+      "10_answer": "Las pautas de COVID-19 para los viajeros a Asia varían según el país. La mayoría de las naciones requieren prueba de vacunación, mientras que otras también pueden requerir una prueba PCR negativa o cuarentena al llegar. Es esencial verificar los últimos requisitos de entrada para tu destino antes de reservar, ya que las regulaciones pueden cambiar con frecuencia.",
+      "11_answer": "Para ofertas de vuelos de última hora a Asia, consulta las ofertas en tiempo real de TICKETS y las ventas relámpago. Muchas aerolíneas ofrecen tarifas con descuento cerca de la fecha de salida para llenar asientos vacíos. También puedes suscribirte a boletines o seguir canales en redes sociales para obtener ofertas exclusivas de última hora.",
+      "12_answer": "Cuando viajes a Asia, es esencial llevar ropa ligera y transpirable, protector solar, repelente de insectos y zapatos cómodos para hacer turismo. No olvides traer los medicamentos necesarios y siempre lleva un adaptador universal de viaje para cargar tus dispositivos electrónicos en varios países.",
+      "13_answer": "Para reducir los costos de alojamiento en Asia, considera hospedarte en hostales, casas de huéspedes o hoteles económicos, especialmente en las ciudades turísticas populares. Reservar a través de los socios de TICKETS o usar puntos de recompensa también puede ofrecer descuentos. Otra opción es explorar estadías en casas o alquileres de Airbnb, que suelen ser más baratos que los hoteles tradicionales.",
+      "14_answer": "Para vuelos de larga distancia a Asia, aerolíneas como Emirates, Qatar Airways, Turkish Airlines y Singapore Airlines son conocidas por su excelente servicio y vuelos cómodos. Estas aerolíneas suelen ofrecer precios competitivos, junto con servicios premium para los viajeros de larga distancia.",
+      "15_answer": "La duración del vuelo desde Colombia a Asia depende del destino específico. Por ejemplo, un vuelo de Bogotá a Tokio suele tardar entre 22 y 25 horas con una o dos escalas, mientras que un vuelo a Bangkok o Singapur puede llevar un tiempo similar. Los vuelos con conexión a través de centros principales como Estambul, Dubái o Doha afectarán el tiempo total de viaje.",
+      "16_answer": "Para viajar con bajo presupuesto en Asia, usa aerolíneas de bajo costo para vuelos regionales, cena en mercados locales y alójate en alojamientos económicos como hostales o casas de huéspedes. Reservar con anticipación y viajar durante la temporada baja también puede ayudar a ahorrar en costos. Aprovecha el transporte público o alquila bicicletas en las ciudades para reducir los gastos de transporte.",
+      "17_answer": "Sí, es posible reservar vuelos sin escalas desde Colombia a ciertos destinos en Asia, pero generalmente requieren al menos una escala. Los centros principales como Dubái o Estambul son comunes para los vuelos de conexión desde Colombia a Asia, lo que garantiza un viaje sin problemas con solo una escala.",
+      "18_answer": "Algunos de los mejores destinos costeros para visitar en Asia incluyen las playas prístinas de las Islas Phi Phi en Tailandia, los resorts de lujo de las Maldivas, los famosos puntos de surf en Bali y la costa virgen de la isla Phu Quoc en Vietnam. Cada uno ofrece una experiencia única, desde escondites tranquilos hasta animados pueblos costeros.",
+      "19_answer": "Para ganar recompensas de aerolíneas mientras vuelas a Asia, inscríbete en programas de viajero frecuente con aerolíneas principales como Emirates Skywards, Qatar Airways Privilege Club o Turkish Airlines Miles&Smiles. Muchos programas de tarjetas de crédito también ofrecen millas por vuelos, que se pueden canjear por mejoras, vuelos gratuitos u otros beneficios.",
+      "20_answer": "El rango de precios para vuelos a Asia varía según el destino y el momento de la reserva. En promedio, los vuelos desde Colombia a Asia pueden oscilar entre $900 y $1,500 para clase económica, con precios fluctuando según la temporada y la demanda. Reservar con anticipación y ser flexible con las fechas puede ayudarte a encontrar las mejores ofertas."
+    }
+  }
+}

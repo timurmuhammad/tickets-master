@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "{{appName}} App",
+    "banner_description": "Reserve com inteligência com {{appName}}! Nossa aplicação iOS intuitiva oferece acesso rápido às melhores ofertas de voos em Portugal. Compare as principais companhias aéreas e plataformas de viagem para garantir as tarifas mais baixas em rotas nacionais e internacionais. Explore, compare e reserve — tudo com apenas alguns toques!",
+    "banner_img_alt": "{{appName}} App",
+    "banner_button": "App Store"
+  }
+}

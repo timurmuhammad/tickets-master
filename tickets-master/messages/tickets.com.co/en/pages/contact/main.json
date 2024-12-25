@@ -1,0 +1,87 @@
+{
+  "contact": {
+    "invalid_email_address": "Please enter a valid email address",
+    "please_fill_all_fields": "Ensure all fields are filled out",
+    "please_complete_form": "Please complete the form fully before submitting it again",
+    "thanks_for_contact": "Thank you for contacting us! If there's a genuine issue, we'll get back to you shortly.",
+    "something_went_wrong": "Oops, something went wrong. Please try again.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Send a message",
+    "your_name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "your_message": "Your Message",
+    "submit": "Submit",
+    "get_in_touch": "Get in Touch",
+    "our_registration_address": "Our registration address",
+    "address": "71-75 Shelton Street, London WC2H 9JQ, United Kingdom",
+    "customer_support": "Customer Assistance",
+    "partner_contact": "Business Inquiries",
+    "social_follow": "Connect with us on social media",
+    "title_faq": "Frequently Asked Questions",
+    "subtitle_faq": "Find answers to common questions here"
+  },
+  "faq": {
+    "1": "How do I look for flights on your site?",
+    "1_answer": "Simply enter your travel information, and we’ll scan through a wide range of airlines and travel providers to show you the best options.",
+
+    "2": "What details do I need to provide for booking?",
+    "2_answer": "Enter your departure city, destination, and travel dates. After selecting a flight, you'll be directed to the airline or travel provider to finalize your booking.",
+
+    "3": "Are there any hidden charges not shown in the price?",
+    "3_answer": "We display the base prices, and any additional fees or taxes will be visible on our partner’s final checkout page.",
+
+    "4": "Can I change or cancel my flight? Will there be fees?",
+    "4_answer": "The ability to modify or cancel your booking depends on the policies of the airline or travel company. Check their terms for specifics.",
+
+    "5": "Which payment methods can I use?",
+    "5_answer": "Payments are handled by our travel partners, and they usually accept credit cards and various online payment methods.",
+
+    "6": "Can I book a hotel or rental car alongside my flight?",
+    "6_answer": "Yes, you can explore hotel and car rental options through our partners for a complete travel package.",
+
+    "7": "How do I get my booking confirmation and ticket?",
+    "7_answer": "Once your booking is completed on the partner site, a confirmation email and e-ticket will be sent directly to you.",
+
+    "8": "What should I do if my flight is delayed or canceled?",
+    "8_answer": "For any flight issues, you should contact the airline directly. Their customer service information will be in your booking details.",
+
+    "9": "Do you offer loyalty programs or frequent traveler discounts?",
+    "9_answer": "Many airlines provide loyalty programs. You can check the airline’s offers to see if they align with your travel preferences.",
+
+    "10": "Do I need an account to book a flight?",
+    "10_answer": "You don’t need an account with us, but you may need one with the airline or provider to complete the booking.",
+
+    "11": "What is my baggage allowance for flights?",
+    "11_answer": "Baggage policies vary by airline, so check the specific details during your booking process.",
+
+    "12": "Who do I contact if there’s an issue or emergency during my trip?",
+    "12_answer": "For any emergencies or travel issues, contact the airline or provider directly. Their contact details will be provided in your booking confirmation.",
+
+    "13": "Are there any travel restrictions or visa requirements I should be aware of?",
+    "13_answer": "Always verify travel restrictions and visa requirements with official authorities before your trip. Our platform does not provide this information.",
+
+    "14": "Can I choose my seat when booking?",
+    "14_answer": "Seat selection depends on the airline. You will see your options during the booking process on the partner's website.",
+
+    "15": "What health or safety protocols are in place for flights?",
+    "15_answer": "Airlines provide specific guidelines for health and safety measures. Review these protocols when booking your flight.",
+
+    "16": "Are there any current deals or promotions available?",
+    "16_answer": "We list the latest promotions and special deals offered by our partners. Visit our website for current offers.",
+
+    "17": "When is the best time to book flights for lower prices?",
+    "17_answer": "Prices can vary, so it’s best to monitor deals regularly. Book when you find a price that suits your budget.",
+
+    "18": "Do you offer travel insurance?",
+    "18_answer": "Some of our partners offer travel insurance. Review their options during the booking process.",
+
+    "19": "What ID is needed for international flights?",
+    "19_answer": "Ensure you meet the entry requirements of your destination. Check with official sources for visa and identification rules.",
+
+    "20": "How can I track my flight status?",
+    "20_answer": "Check your flight status directly on the airline’s website or by using their customer service."
+    
+  }
+}

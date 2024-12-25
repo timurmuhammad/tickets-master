@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Top Frequently Asked Questions About Flights to {{continent}}",
+    "faq": {
+      "1": "What are the best travel destinations in {{title}}?",
+      "2": "How can I find cheap flights to {{title}}?",
+      "3": "When is the best time to visit {{title}}?",
+      "4": "What are the most popular airlines flying to {{title}}?",
+      "5": "How can I book a multi-city flight across {{title}}?",
+      "6": "What are the visa requirements for traveling to countries in {{title}}?",
+      "7": "What are the top tourist attractions in {{title}}?",
+      "8": "How can I travel between countries within {{title}}?",
+      "9": "Are there budget airlines that fly to {{title}}?",
+      "10": "What are the COVID-19 travel restrictions for {{title}}?",
+      "11": "How do I find last-minute flight deals to {{title}}?",
+      "12": "What should I pack for a trip to {{title}}?",
+      "13": "How can I save money on accommodation in {{title}}?",
+      "14": "What are the best airlines for long-haul flights to {{title}}?",
+      "15": "How long does it take to fly to {{title}} from Sweden?",
+      "16": "What is the best way to explore {{title}} on a budget?",
+      "17": "Are there direct flights from Sweden to {{title}}?",
+      "18": "What are the top beach destinations in {{title}}?",
+      "19": "How can I earn frequent flyer miles when traveling to {{title}}?",
+      "20": "What is the average cost of flights to {{title}}?"
+    }
+  }
+}

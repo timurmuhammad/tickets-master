@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Explore {{appName}}",
+    "hero_sub": "Seamlessly plan your trips with exclusive flight deals across Indonesia and the globe",
+    "hero_imgAlt": "Discover the benefits of {{appName}}",
+
+    "content": "At {{appName}}, we are committed to transforming the way you travel. Our flight aggregator platform empowers you to find, compare, and book the best flight options effortlessly. With a wide selection of local and international flights, we ensure that your travel planning is smooth, cost-effective, and tailored to your needs. Whether you’re jetting off for a quick getaway or embarking on a global adventure, {{appName}} connects you with top airlines and providers for a truly seamless experience.",
+
+    "quote": "Our promise: To provide an unrivaled flight search and booking experience. Start your journey with {{appName}} today.",
+    "quote_imgAlt": "Happy traveler holding a suitcase and boarding pass at the airport",
+
+    "content_title": "Why Choose {{appName}}",
+    "content_sub": "Your Reliable Travel Partner for Every Destination",
+    "content_description_1": "{{appName}} simplifies the complexities of flight search by compiling all essential details in one place. From flight prices and schedules to baggage policies and onboard services, you get a complete picture to make informed decisions. Whether you’re exploring the beauty of Indonesia or traveling internationally, we provide personalized options to match your preferences and budget.",
+    "content_description_2": "Our cutting-edge technology ensures that you can compare flights across leading airlines and travel providers. Save time, save money, and find the best deals effortlessly with {{appName}}. From flexible booking options to real-time updates, we’re here to make every step of your journey stress-free and enjoyable.",
+    "content_imgAlt": "Map highlighting Indonesia with global flight routes connecting major cities",
+
+    "counter_1": "Top Airline Partners",
+    "counter_2": "Global and Local Destinations",
+    "counter_3": "Satisfied Searches Annually",
+    "counter_4": "Round-the-Clock Customer Support"
+  }
+}

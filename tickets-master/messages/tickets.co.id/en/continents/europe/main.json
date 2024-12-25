@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore Europe with TICKETS.CO.ID ✈️",
+      "description": "Plan your dream journey across Europe with TICKETS.CO.ID. Discover top travel tips, unbeatable flight deals, cultural experiences, and must-see attractions. Compare prices from leading airlines for a seamless booking experience."
+    }
+  },
+  "continent": {
+    "banner_title": "Your Gateway to Europe",
+    "banner_sub": "Unlock exclusive deals and travel insights to explore Europe’s most iconic destinations.",
+    
+    "intro_title": "The Ultimate Europe Travel Guide",
+    "intro_content": "Europe is a traveler’s paradise, offering a blend of history, culture, and natural beauty. With TICKETS.CO.ID, planning your European adventure has never been easier. From romantic escapes in Paris to thrilling explorations of the Swiss Alps, find the best flight deals and start your journey effortlessly.",
+    
+    "winter_celsius": "-10°C to 5°C",
+    "winter_fahrenheit": "14°F to 41°F",
+    "spring_celsius": "5°C to 20°C",
+    "spring_fahrenheit": "41°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "5°C to 15°C",
+    "autumn_fahrenheit": "41°F to 59°F",
+
+    "timezone_range": "UTC-1 to UTC+3",
+    "timezone_note": "Spanning multiple time zones",
+    "tourists_range": "743.1 million",
+    "tourists_note": "Annual international tourists (2019)",
+    "demographics_countries": "44",
+    "demographics_population": "747 million",
+    "heritage_range": "445",
+    "heritage_note": "UNESCO World Heritage Sites across Europe",
+
+    "destinations_title": "Your Ticket to Europe’s Hidden Gems",
+    "destinations_description": "Discover affordable flights to Europe’s iconic cities and lesser-known treasures. Whether it’s a city break, cultural tour, or nature escape, TICKETS.CO.ID helps you compare top airlines and find the perfect travel deals.",
+
+    "faq": {
+      "1_answer": "Find the cheapest flights to Europe by comparing multiple airlines on TICKETS.CO.ID. Use fare alerts and flexible date options to secure the lowest prices, whether traveling for leisure or business.",
+      "2_answer": "Book your flights 2–3 months in advance for the best prices to Europe. Avoid peak holiday seasons and consider mid-week departures to save more on your trip.",
+      "3_answer": "Major airlines providing direct flights to Europe include Lufthansa, British Airways, and Air France. They offer frequent connections to key destinations like London, Paris, and Frankfurt.",
+      "4_answer": "Yes, Europe is well-served by budget airlines like Ryanair, EasyJet, and Wizz Air. These carriers provide affordable options for exploring Europe’s most popular cities and beyond.",
+      "5_answer": "The peak travel season for Europe is summer (June to August) when the weather is warm and festivals are abundant. Spring and autumn are also popular for their pleasant climates and fewer crowds.",
+      "6_answer": "Flights to Europe from Indonesia typically range from 14 to 18 hours, depending on your final destination and whether it’s a direct or connecting flight.",
+      "7_answer": "Top destinations in Europe include the Eiffel Tower in Paris, the Colosseum in Rome, and the canals of Venice. Nature lovers will enjoy the Swiss Alps, while beachgoers can explore the Mediterranean coasts of Spain and Greece.",
+      "8_answer": "Indonesian travelers need a valid passport and may require a Schengen visa to visit most European countries. Check specific entry requirements before booking your trip.",
+      "9_answer": "Baggage policies vary by airline, so it’s important to check weight and size limits when booking your ticket on TICKETS.CO.ID. Many budget airlines have stricter rules for carry-on and checked luggage.",
+      "10_answer": "Yes, TICKETS.CO.ID allows you to book multi-destination flights, making it easy to explore several European cities in one trip. Compare airlines for the best prices and routes.",
+      "11_answer": "Discover last-minute deals to Europe by regularly checking TICKETS.CO.ID. Activate fare alerts to be the first to know about discounts and limited-time offers.",
+      "12_answer": "For long-distance flights to Europe, airlines like Emirates, Qatar Airways, and Singapore Airlines offer premium services, comfortable seating, and excellent in-flight entertainment.",
+      "13_answer": "Travel insurance is highly recommended for trips to Europe. It provides coverage for medical emergencies, trip cancellations, and unexpected delays, ensuring peace of mind during your journey.",
+      "14_answer": "Indonesian citizens require a Schengen visa for most European countries. Ensure you meet all the application requirements and allow sufficient time for processing before your trip.",
+      "15_answer": "Non-stop flights to Europe are available from major airlines like Garuda Indonesia and Qatar Airways, offering quick and direct routes to cities like Amsterdam and London.",
+      "16_answer": "Must-see attractions in Europe include the Louvre in Paris, the Acropolis in Athens, and the historic streets of Prague. For nature enthusiasts, the Norwegian fjords and Tuscany’s rolling hills are unmissable.",
+      "17_answer": "During high-demand seasons, booking early and flying mid-week can save you money. Use TICKETS.CO.ID’s fare comparison tools to identify the most affordable options.",
+      "18_answer": "Stay updated on the latest travel advisories and restrictions for Europe through official government websites. Requirements can include proof of vaccination or negative COVID-19 tests.",
+      "19_answer": "Routes to Europe with stunning views include flights over the Alps or the Mediterranean coastline. Consider window seats for unforgettable vistas during your journey.",
+      "20_answer": "Convenient airports for European travel include Heathrow in London, Charles de Gaulle in Paris, and Schiphol in Amsterdam. These hubs offer excellent connectivity to other cities."
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Jämför & Boka Billiga Flyg i Skandinavien ✈️ {{domain}}",
+      "description": "Hitta de bästa erbjudandena på billiga flyg över Sverige, Danmark, Norge och Finland. Boka din nästa resa med trygghet genom {{domain}}:s omfattande flygjämförelseverktyg",
+      "img_alt": "Billiga Flyg | {{domain}}"
+    },
+    "flights": {
+      "title": "Billiga Flyg till Sverige, Danmark, Norge & Finland ✈️ {{domain}}",
+      "description": "Sök och jämför billiga flyg från toppflygbolag till dina favoritdestinationer i Skandinavien. Boka lågprisbiljetter för både inrikes och internationella resor med {{domain}}",
+      "img_alt": "Flygerbjudanden | {{domain}}"
+    },
+    "destinations": {
+      "title": "Upptäck Billiga Flyg till Populära Resmål ✈️ {{domain}}",
+      "description": "Utforska oslagbara flygerbjudanden till de mest populära städerna och dolda pärlor över hela världen. Använd {{domain}} för att hitta de billigaste rutterna och boka ditt nästa äventyr",
+      "img_alt": "Globala Resmål | {{domain}}"
+    },
+    "continent": {
+      "title": "Billiga Flyg över {{continent}} ✈️ Boka med {{domain}}",
+      "description": "Upptäck de bästa flygerbjudandena för att utforska {{continent}}. Spara på flygbiljetter till spännande destinationer över hela kontinenten med {{domain}}:s avancerade sök- och bokningsverktyg",
+      "img_alt": "Upptäck {{continent}} med Billiga Flyg | {{domain}}"
+    },
+    "country": {
+      "title": "Boka Billiga Flyg till {{country}} ✈️ Utforska med {{domain}}",
+      "description": "Flyg till {{country}} med de bästa erbjudandena tillgängliga. {{domain}} ger dig prisvärda flyg till städer över hela {{country}}, så att du kan utforska utan att spräcka budgeten",
+      "img_alt": "Flyg till {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Billiga Flyg till {{city}} från Endast 17 USD ✈️ Erbjudanden på {{domain}}",
+      "title_1": "Hitta Billiga Flyg till {{city}} | Flygerbjudanden från 17 USD ✈️ {{domain}}",
+      "description": "Letar du efter prisvärda flyg till {{city}}? Jämför priser per datum och boka den billigaste flygbiljetten med {{domain}}:s användarvänliga kalenderverktyg",
+      "description_1": "Lås upp oslagbara flygerbjudanden till {{city}}. Använd vår datum-sorterade jämförelse för att hitta de bästa priserna för dina resedatum",
+      "img_alt": "Prisvärda Flyg till {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "Om Oss | Upptäck de Bästa Flygerbjudandena med {{domain}}",
+      "description": "Lär dig mer om {{domain}}, din go-to plattform för att hitta och boka billiga flyg till resmål världen över. Spara på din nästa resa med vår pålitliga tjänst",
+      "img_alt": "Om Oss | {{domain}}"
+    },
+    "contact": {
+      "title": "Kontakta Oss | Få Hjälp & Support hos {{domain}}",
+      "description": "Behöver du hjälp med din bokning eller har frågor? Kontakta {{domain}}:s supportteam för experthjälp och svar på alla dina resefrågor",
+      "img_alt": "Kontakta Kundsupport | {{domain}}"
+    }
+  }
+}

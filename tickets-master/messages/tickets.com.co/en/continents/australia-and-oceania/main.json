@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 25°C",
+    "spring_fahrenheit": "59°F to 77°F",
+    "summer_celsius": "25°C to 35°C",
+    "summer_fahrenheit": "77°F to 95°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC+8 to UTC+10",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "Varies by country",
+    "tourists_note": "Australia - 9.3 million",
+    "demographics_countries": "14",
+    "demographics_population": "41 million",
+    "heritage_range": "35",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "When visiting Australia and Oceania, be sure to explore iconic places like the Great Barrier Reef, Sydney Opera House, New Zealand’s Fiordland National Park, and Bora Bora in French Polynesia. These destinations offer a blend of natural beauty, cultural experiences, and adventure.",
+      "2_answer": "To find affordable flights to Australia and Oceania, use fare comparison tools like {{domain}}. Set fare alerts, book in advance, and consider traveling during off-peak seasons for the best deals.",
+      "3_answer": "The ideal time to visit Australia and Oceania varies by region. For Australia and New Zealand, visit during the spring (September to November) or autumn (March to May) for mild weather. Pacific Islands like Fiji are best visited from May to October when the climate is drier and more pleasant.",
+      "4_answer": "Major airlines flying to Australia and Oceania include Qantas, Air New Zealand, Fiji Airways, and Virgin Australia. These carriers offer regular flights from major cities worldwide.",
+      "5_answer": "Start by booking early, as prices tend to rise closer to the travel date. Use flight aggregator TICKETS to compare prices from multiple airlines and set up price alerts to get notified of any drops. Consider flying on weekdays, which often have lower fares, and explore connecting flights rather than direct routes to save money.",
+      "6_answer": "Entry requirements for countries in Australia and Oceania vary. Most travelers will need a valid passport, and certain countries, like Australia and New Zealand, require an electronic visa (ETA) or eVisitor visa. Always check visa requirements before traveling.",
+      "7_answer": "Must-see tourist spots in Australia and Oceania include the Great Barrier Reef, Uluru, Milford Sound in New Zealand, and the beaches of Fiji. For adventure seekers, consider visiting Mount Cook or surfing along Australia's Gold Coast.",
+      "8_answer": "The best options for traveling between countries in Australia and Oceania are flights, with short routes between major cities like Sydney and Auckland. For Pacific islands, ferries and small aircraft also connect certain islands.",
+      "9_answer": "Yes, several low-cost airlines operate flights to Australia and Oceania. Airlines like Jetstar, Scoot, and Virgin Australia offer budget-friendly options for both domestic and international travel.",
+      "10_answer": "COVID-19 guidelines for Australia and Oceania vary by country. It’s important to check each country’s entry requirements, vaccination policies, and quarantine rules on official government websites before your trip.",
+      "11_answer": "For last-minute flight offers to Australia and Oceania, check {{domain}} regularly. Many airlines release discounted fares a few days before departure, especially during off-peak travel periods.",
+      "12_answer": "When traveling to Australia and Oceania, essentials include sunscreen, insect repellent, a reusable water bottle, lightweight clothing for the hot climate, and sturdy shoes for hiking and outdoor activities.",
+      "13_answer": "To reduce accommodation costs in Australia and Oceania, consider staying in hostels, vacation rentals, or budget hotels. Booking early and exploring shared accommodations can also save money, especially in expensive cities like Sydney or Auckland.",
+      "14_answer": "Qantas, Emirates, and Air New Zealand are known for offering excellent long-distance flights to Australia and Oceania, providing superior in-flight services and direct routes from various global hubs.",
+      "15_answer": "A non-stop flight from Colombia to Australia or Oceania is currently not available, but connecting flights through the U.S. or Europe can take approximately 20 to 25 hours, depending on your layovers and final destination.",
+      "16_answer": "For budget-friendly travel in Australia and Oceania, consider using public transportation, eating at local markets, and opting for free activities such as hiking and exploring beaches. Booking flights and accommodation in advance also helps cut costs.",
+      "17_answer": "Direct flights from Colombia to Australia and Oceania are not common. Most routes require a layover in cities such as Los Angeles, Dallas, or Santiago before reaching your final destination.",
+      "18_answer": "Top coastal spots to visit in Australia and Oceania include Bondi Beach in Sydney, Whitehaven Beach in the Whitsundays, Coral Bay in Western Australia, and the pristine beaches of Tahiti and Fiji.",
+      "19_answer": "You can earn airline rewards while flying to Australia and Oceania by enrolling in frequent flyer programs like Qantas Frequent Flyer or Air New Zealand Airpoints. Additionally, booking flights with affiliated airlines can help you accumulate points faster.",
+      "20_answer": "The typical price range for flights to Australia and Oceania varies by season and departure point, but you can expect round-trip flights from Colombia to cost between $1,200 and $2,500, depending on the airline and booking time."
+    }
+  }
+}

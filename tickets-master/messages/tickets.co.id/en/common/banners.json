@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "{{appName}} App",
+    "banner_description": "Discover incredible flight deals with {{appName}}! Our user-friendly app simplifies your travel planning by comparing fares from hundreds of airlines and travel platforms, ensuring you always get the best prices for your next adventure.",
+    "banner_img_alt": "{{appName}} App",
+    "banner_button": "App Store"
+  }
+}

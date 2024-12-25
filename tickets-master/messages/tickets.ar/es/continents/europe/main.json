@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planifica la aventura definitiva por {{continent}} con {{domain}}. Obtén consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, gastronomía local, consejos de seguridad, atracciones imprescindibles y mucho más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}} desde Argentina",
+    "banner_sub": "Encuentra ofertas exclusivas de viaje, guías de expertos y actividades emocionantes en todo {{title}}",
+
+    "intro_title": "Guía de Viaje por {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C a 5°C",
+    "winter_fahrenheit": "14°F a 41°F",
+    "spring_celsius": "5°C a 20°C",
+    "spring_fahrenheit": "41°F a 68°F",
+    "summer_celsius": "20°C a 35°C",
+    "summer_fahrenheit": "68°F a 95°F",
+    "autumn_celsius": "5°C a 15°C",
+    "autumn_fahrenheit": "41°F a 59°F",
+
+    "timezone_range": "UTC-1 a UTC+3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "743,1 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 millones",
+    "heritage_range": "445",
+    "heritage_note": "Sitios Patrimonio de la Humanidad de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos fuera de lo común en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+    
+    "faq": {
+      "1_answer": "Europa ofrece innumerables destinos increíbles. Los lugares imperdibles incluyen París por su arte y romanticismo, Roma por su historia antigua, Barcelona por su arquitectura impresionante y Ámsterdam por sus pintorescos canales. No te pierdas la belleza de los Alpes Suizos o la costa escénica de Grecia y Croacia, ideales para relajarse y vivir aventuras.",
+      "2_answer": "Para encontrar vuelos económicos a Europa, reserva con anticipación, utiliza fechas flexibles y configura alertas de tarifas en TICKETS.AR. Compara precios de varias aerolíneas y considera aeropuertos cercanos para maximizar el ahorro en tu viaje a Europa.",
+      "3_answer": "El momento ideal para visitar Europa depende de tus intereses. La primavera (abril a junio) y el otoño (septiembre a octubre) ofrecen clima agradable, menos multitudes y precios más bajos. El verano es la temporada alta, perfecta para destinos de playa, mientras que el invierno es ideal para visitar mercados navideños y estaciones de esquí.",
+      "4_answer": "Las aerolíneas populares que vuelan desde Argentina a Europa incluyen Iberia, Air France, Lufthansa y British Airways. Muchas ofrecen conexiones convenientes y una variedad de comodidades, facilitando el acceso a diferentes destinos europeos.",
+      "5_answer": "Encontrar ofertas durante las temporadas altas puede ser un desafío, pero reservar con anticipación y utilizar fechas flexibles puede ayudar. Configura alertas de tarifas en TICKETS.AR y considera vuelos a mitad de semana, que suelen ser más económicos que los de fin de semana. Además, mantente atento a las promociones estacionales.",
+      "6_answer": "Para la mayoría de los países europeos, necesitarás un pasaporte válido con al menos seis meses de vigencia. Algunos países pueden requerir una visa Schengen. Asegúrate de verificar los requisitos específicos de visa según tu itinerario, ya que pueden variar según el país.",
+      "7_answer": "Los lugares turísticos más destacados de Europa incluyen la Torre Eiffel en París, el Coliseo en Roma, la Sagrada Familia en Barcelona y el Big Ben en Londres. Los amantes de la naturaleza deben explorar los fiordos de Noruega, mientras que los aficionados al arte disfrutarán de los museos en Ámsterdam y Florencia.",
+      "8_answer": "Viajar entre países europeos es fácil con opciones como trenes de alta velocidad, aerolíneas de bajo costo y servicios de autobús convenientes. El pase Eurail ofrece viajes en tren extensos por varios países, ideal para quienes desean explorar varios destinos.",
+      "9_answer": "Sí, Europa tiene varias aerolíneas de bajo costo, como Ryanair, EasyJet y Wizz Air, que ofrecen vuelos económicos entre ciudades importantes y destinos turísticos populares. Asegúrate de reservar con anticipación para obtener los mejores precios y revisar las políticas de equipaje.",
+      "10_answer": "Las pautas de COVID-19 para Europa varían según el país y se actualizan con frecuencia. Consulta los requisitos de salud y entrada de cada país antes de viajar. Muchos países aún requieren comprobante de vacunación o una prueba negativa reciente, por lo que es esencial mantenerse informado sobre las regulaciones actuales.",
+      "11_answer": "Para encontrar ofertas de vuelos de última hora a Europa, revisa TICKETS.AR con frecuencia ya que actualizamos ofertas de las principales aerolíneas. Suscribirte a boletines y alertas de tarifas también puede ayudarte a aprovechar ofertas espontáneas en vuelos.",
+      "12_answer": "Para un viaje a Europa, lleva elementos esenciales como un adaptador de corriente universal, artículos de tocador de viaje, zapatos cómodos para caminar, ropa adecuada para el clima y tu pasaporte. También se recomienda contar con un seguro de viaje y un pequeño botiquín de primeros auxilios.",
+      "13_answer": "Para ahorrar en alojamiento, considera hospedarte en hostales, hoteles económicos o alquileres a corto plazo. Reservar con anticipación y explorar fuera de temporada también puede ayudar. Plataformas como Airbnb y Booking.com ofrecen opciones de alojamiento asequibles en toda Europa.",
+      "14_answer": "Aerolíneas como Lufthansa, British Airways y KLM ofrecen vuelos de larga distancia altamente calificados desde Argentina a Europa, conocidos por su comodidad, excelente servicio y comodidades a bordo. Muchas también ofrecen conexiones directas o con una escala a los principales centros europeos.",
+      "15_answer": "El tiempo de vuelo desde Argentina a Europa varía según el destino. Los vuelos directos a ciudades como Madrid suelen tardar alrededor de 12-13 horas, mientras que los vuelos con una escala a otras partes de Europa pueden demorar 15 horas o más.",
+      "16_answer": "Para un viaje económico en Europa, utiliza transporte público, come en mercados locales y explora atracciones gratuitas como parques y museos. Viajar fuera de temporada y utilizar aerolíneas de bajo costo o pases de tren pueden ayudarte a estirar tu presupuesto.",
+      "17_answer": "Sí, hay vuelos directos desde Argentina a Europa, principalmente a Madrid, con aerolíneas como Aerolíneas Argentinas e Iberia. Los vuelos directos ofrecen la ruta más rápida, ideal para quienes buscan ahorrar tiempo en su viaje.",
+      "18_answer": "Europa cuenta con impresionantes zonas costeras como la Costa Amalfitana en Italia, la Riviera Francesa, la Costa Brava en España y las Islas Griegas. Estas áreas son famosas por sus hermosas playas, aguas turquesas y encantadores pueblos, perfectas para una escapada junto al mar.",
+      "19_answer": "Muchas aerolíneas ofrecen programas de viajero frecuente, que te permiten acumular puntos en vuelos a Europa. Programas como Miles & More de Lufthansa y Flying Blue de Air France-KLM brindan recompensas que pueden canjearse para futuros viajes, mejoras y más.",
+      "20_answer": "El rango de precios típico para vuelos a Europa desde Argentina varía según la temporada, el destino y el momento de la reserva. En promedio, los precios de ida y vuelta oscilan entre $800 y $1,200 USD. Reservar con anticipación y estar atento a las promociones puede ayudar a reducir los costos."
+    }
+  }
+}

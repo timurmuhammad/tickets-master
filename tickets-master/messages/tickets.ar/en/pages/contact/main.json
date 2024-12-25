@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "invalid_email_address": "Please enter a valid email address",
+    "please_fill_all_fields": "Ensure all fields are filled out",
+    "please_complete_form": "Please complete the form fully before submitting it again",
+    "thanks_for_contact": "Thank you for contacting us! If there's a genuine issue, we'll get back to you shortly.",
+    "something_went_wrong": "Oops, something went wrong. Please try again.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Send a message",
+    "your_name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "your_message": "Your Message",
+    "submit": "Submit",
+    "get_in_touch": "Get in Touch",
+    "our_registration_address": "Our registration address",
+    "address": "71-75 Shelton Street, London WC2H 9JQ, United Kingdom",
+    "customer_support": "Customer Assistance",
+    "partner_contact": "Business Inquiries",
+    "social_follow": "Connect with us on social media",
+    "title_faq": "Frequently Asked Questions",
+    "subtitle_faq": "Find answers to common questions here"
+  },
+  "faq": {
+    "1": "How do I search for flights on TICKETS.AR?",
+    "1_answer": "Simply enter your departure and destination cities along with your travel dates. Our system will compare options from top airlines to bring you the best deals available.",
+
+    "2": "What information do I need to book a flight?",
+    "2_answer": "Provide your departure location, destination, travel dates, and traveler details. Once you choose a flight, you’ll be redirected to complete the booking with our partner airline or provider.",
+
+    "3": "Are there any additional fees or hidden costs?",
+    "3_answer": "We display upfront prices from our partners. Any extra fees, such as features or luggage costs, will be shown on the partner's final checkout page.",
+
+    "4": "Can I cancel or change my flight after booking?",
+    "4_answer": "Cancellations or changes depend on the airline's policy. Review their terms and conditions for details on fees and processes.",
+
+    "5": "What payment methods are accepted?",
+    "5_answer": "Payments are processed by our travel partners. Most accept credit cards, and some offer other options such as PayPal or online wallets.",
+
+    "6": "Can I book hotels or car rentals on TICKETS.AR?",
+    "6_answer": "Yes, you can view hotel and car rental options provided by our partners to complete your travel arrangements.",
+
+    "7": "How will I receive my booking confirmation?",
+    "7_answer": "Once you’ve completed your booking, a confirmation email with your ticket details will be sent directly to your provided email address.",
+
+    "8": "What should I do if my flight is delayed or canceled?",
+    "8_answer": "If your flight is delayed or canceled, contact the airline directly. They will provide assistance and any rebooking options if available.",
+
+    "9": "Does TICKETS.AR offer loyalty programs or discounts for frequent travelers?",
+    "9_answer": "While we don’t have our own loyalty program, many airlines offer frequent flyer rewards. Check each airline's loyalty options when booking.",
+
+    "10": "Do I need to create an account to book a flight?",
+    "10_answer": "No account is needed with us, but some of our partners may require one for booking and managing your tickets.",
+
+    "11": "What is my baggage allowance for flights?",
+    "11_answer": "Baggage allowances vary by airline and fare type. Check the baggage policy details during the booking process.",
+
+    "12": "Who should I contact if I need help during my trip?",
+    "12_answer": "For any issues during your trip, contact the airline or provider directly. Their contact details will be included in your booking confirmation.",
+
+    "13": "Are there travel restrictions or visa requirements?",
+    "13_answer": "Always check travel restrictions and visa requirements for your destination with official sources before booking. TICKETS.AR does not provide this information.",
+
+    "14": "Can I select my seat when booking a flight?",
+    "14_answer": "Seat selection availability depends on the airline. You’ll see options during the booking process if the airline allows seat selection.",
+
+    "15": "What health and safety measures are in place for flights?",
+    "15_answer": "Each airline has its own health protocols. You can find details on their safety measures when completing your booking.",
+
+    "16": "Are there any special deals or promotions on flights?",
+    "16_answer": "Yes! We feature the latest promotions and discounts from our partners. Visit our site regularly to catch current deals.",
+
+    "17": "When is the best time to book flights for the lowest prices?",
+    "17_answer": "Flight prices can fluctuate, so we recommend booking in advance and monitoring fares to find the best deal for your trip.",
+
+    "18": "Does TICKETS.AR offer travel insurance?",
+    "18_answer": "Some of our partners provide travel insurance options. Review the choices available at checkout for added peace of mind.",
+
+    "19": "What identification do I need for international travel?",
+    "19_answer": "Check the official entry requirements of your destination country to ensure you have the correct visa and identification.",
+
+    "20": "How can I check my flight status?",
+    "20_answer": "Visit the airline’s website or use their app to monitor your flight status, or contact their customer service team for real-time updates."
+  }
+}

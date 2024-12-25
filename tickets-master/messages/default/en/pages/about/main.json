@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "About {{appName}}",
+    "hero_sub": "Discover the best flight deals, helping you travel locally and globally with ease",
+    "hero_imgAlt": "About {{appName}}",
+
+    "content": "At {{appName}}, we provide a powerful platform that allows users to find and compare cheap domestic and international flights. Our mission is to simplify the process of travel planning by bringing all available options from major airlines and ticket sellers into one place. With us, you can explore the world without breaking the bank.",
+
+    "quote": "\"Traveling should be affordable, convenient, and accessible to everyone. Let us help you make your next journey unforgettable.\"",
+    "quote_imgAlt": "Person holding a passport and boarding pass",
+
+    "content_title": "Why Choose {{appName}}?",
+    "content_sub": "Your One-Stop Solution for Flight Comparisons",
+    "content_description_1": "We understand the frustration of endlessly searching for the best flight deals across different platforms. With {{appName}}, you can easily find the best options that suit your travel needs, whether for a business trip, vacation, or quick getaway.",
+    "content_description_2": "Our platform aggregates flights from multiple airlines and travel providers, presenting you with the cheapest and most convenient options. Whether you're looking for local or global flights, we've got you covered.",
+    "content_imgAlt": "Illustration of a world map with flight routes",
+
+    "counter_1": "Tickets Providers",
+    "counter_2": "Destinations Covered",
+    "counter_3": "Searches Annually",
+    "counter_4": "Customer Support"
+  }
+}

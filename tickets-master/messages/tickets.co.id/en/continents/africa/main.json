@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through Africa with TICKETS.CO.ID ✈️",
+      "description": "Plan the ultimate adventure across Africa with TICKETS.CO.ID. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more."
+    }
+  },
+  "continent": {
+    "banner_title": "Discover Africa with TICKETS.CO.ID",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across Africa",
+
+    "intro_title": "The Africa Travel Handbook",
+    "intro_content": "Explore Africa's breathtaking landscapes, vibrant cultures, and world-famous wildlife. TICKETS.CO.ID is your gateway to finding the best flight deals, from budget-friendly airlines to luxury travel options, ensuring a seamless journey to the continent of wonders.",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 30°C",
+    "spring_fahrenheit": "59°F to 86°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 30°C",
+    "autumn_fahrenheit": "59°F to 86°F",
+
+    "timezone_range": "UTC-1 to UTC+4",
+    "timezone_note": "Africa spans multiple time zones, offering a diverse range of experiences across the continent.",
+    "tourists_range": "67.1 million",
+    "tourists_note": "Africa welcomed 67.1 million international tourists in 2019, highlighting its appeal to global travelers.",
+    "demographics_countries": "54",
+    "demographics_population": "1.37 billion",
+    "heritage_range": "154",
+    "heritage_note": "Home to 154 UNESCO World Heritage Sites, Africa is rich in history and culture.",
+
+    "destinations_title": "Find the Best Flight Deals to Africa",
+    "destinations_description": "Explore affordable routes, hidden gems, and must-visit destinations throughout Africa with TICKETS.CO.ID. Whether you’re planning a safari or a city escape, we’ll help you find the perfect travel option.",
+
+    "faq": {
+      "1_answer": "With TICKETS.CO.ID, finding the cheapest flights to Africa is easy. Use our flexible search tool to compare prices from top airlines and set alerts to track fare drops. We’ll help you book at the right time to secure the best deal.",
+      "2_answer": "For the lowest prices, plan your trip to Africa during the off-peak season or mid-week. Use TICKETS.CO.ID’s fare comparison feature to find the best time to book and save big.",
+      "3_answer": "Direct flights to Africa are available with airlines like Ethiopian Airlines, Qatar Airways, and Emirates. TICKETS.CO.ID allows you to filter by airline to easily find direct flight options.",
+      "4_answer": "Yes, affordable budget airlines like FlySafair and Mango operate in select regions within Africa. TICKETS.CO.ID helps you compare prices from these airlines for the best savings.",
+      "5_answer": "Peak travel seasons in Africa depend on the region. For safaris, the dry season from May to October is ideal. Northern Africa sees more tourists from November to March due to cooler weather.",
+      "6_answer": "Flights to Africa vary in duration depending on your location. From Asia, flights typically range from 10 to 15 hours with layovers. TICKETS.CO.ID offers detailed flight itineraries to help you plan.",
+      "7_answer": "Top destinations in Africa include the pyramids of Egypt, the wildlife reserves of Kenya, the beaches of Zanzibar, and the cultural hubs of Morocco. Explore these and more with TICKETS.CO.ID.",
+      "8_answer": "Travel to Africa requires a valid passport and may require a visa or vaccination proof, such as for yellow fever. Check entry requirements for your specific destination through TICKETS.CO.ID.",
+      "9_answer": "Most airlines flying to Africa have specific baggage policies. TICKETS.CO.ID provides clear baggage information during the booking process to help you plan accordingly.",
+      "10_answer": "Yes, TICKETS.CO.ID supports multi-destination flight bookings, making it easy to explore multiple countries across Africa. Plan your journey effortlessly with our intuitive tools.",
+      "11_answer": "Find last-minute flight deals to Africa on TICKETS.CO.ID by regularly checking our website. We update fares in real-time, ensuring you never miss out on great savings.",
+      "12_answer": "Long-distance flights to Africa are best with airlines like Emirates, Qatar Airways, and Turkish Airlines, known for their exceptional service and comfortable long-haul options.",
+      "13_answer": "Travel insurance is highly recommended for trips to Africa to cover unexpected events. Some airlines offer insurance at checkout through TICKETS.CO.ID for your convenience.",
+      "14_answer": "Visa requirements for Africa vary by country. Use TICKETS.CO.ID to access resources and links to official government sites for accurate and updated information.",
+      "15_answer": "Non-stop flights to Africa are available from various international hubs. Use TICKETS.CO.ID to find direct flight options tailored to your travel plans.",
+      "16_answer": "Must-see attractions in Africa include the Serengeti, Victoria Falls, Cape Town’s Table Mountain, and the ancient city of Timbuktu. Explore these wonders with help from TICKETS.CO.ID.",
+      "17_answer": "Affordable flights during high-demand seasons are possible with TICKETS.CO.ID. Book early, use our flexible date search, and monitor prices to secure the best deals.",
+      "18_answer": "Stay updated on travel advisories and restrictions for Africa using TICKETS.CO.ID’s travel resources. Check entry requirements and health protocols for a smooth journey.",
+      "19_answer": "Routes to Africa often feature stunning aerial views of deserts, forests, and coastlines. Use TICKETS.CO.ID to discover flights offering scenic journeys.",
+      "20_answer": "Africa’s busiest and most convenient airports include OR Tambo International in Johannesburg, Cairo International in Egypt, and Jomo Kenyatta in Nairobi. TICKETS.CO.ID helps you choose the best airport for your needs."
+    }
+  }
+}

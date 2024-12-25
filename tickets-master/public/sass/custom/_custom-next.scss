@@ -1,0 +1,260 @@
+.xl-100vh {
+    @media (min-width: 1920px) {
+        height: 100vh;
+    }
+}
+.user-select-none {
+    pointer-events: none;
+}
+
+.row {
+    --bs-gutter-x: 30px;
+}
+
+.form-select {
+    border: none;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+.form-select:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.js-testimonials-slider-3 {
+    .slick-dots {
+        text-align: left;
+    }
+}
+
+// inside properties slider css for dots
+.inside-slider {
+    .slick-dots {
+        position: absolute;
+        bottom: 10px;
+
+        li {
+            background: rgba(255, 255, 255, 0.13);
+            &.slick-active {
+                width: 8px;
+                background: #fff;
+            }
+        }
+    }
+    &:hover {
+        .slick-dots li {
+            &:not(.slick-active) {
+                background: rgba(255, 255, 255, 0.43);
+            }
+        }
+    }
+}
+
+// scroll top
+.scroll-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 9;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    background-color: #f6f6f6;
+    color: var(--color-black);
+    transition: all 0.3s ease;
+
+    .icon {
+        transform: rotate(-45deg);
+        display: inline-block;
+        font-size: 14px;
+    }
+    &:hover {
+        background: var(--color-dark-4);
+        color: #fff;
+    }
+}
+
+.min-width-400 {
+    min-width: 400px;
+    @media (max-width: 575px) {
+        min-width: 350px;
+    }
+}
+
+// map
+.map-canvas {
+    height: 700px;
+    overflow: hidden;
+    background-color: #f9f9f9;
+
+    @media (max-width: 991px) {
+        height: 400px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+// terms tab
+.tabs__controls {
+    .react-tabs__tab--selected {
+      color: var(--color-dark-4) !important;
+      background-color: color-opac(blue-1, 0.05);
+        &:focus {
+            outline: none;
+        }
+    }
+    li {
+        cursor: pointer;
+    }
+}
+
+// blog details large image sizing
+.img_large_details {
+    height: 600px;
+    object-fit: cover;
+}
+
+// header 2 search
+.js-liverSearch .header-search::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #dedede;
+}
+
+// footer blue bg text white issue
+.footer-blue_custom {
+    a {
+        transition: 0.3s;
+        &:hover {
+            color: #fff;
+            transform: translateX(4px);
+        }
+    }
+}
+
+// car gallery css
+.slider .swiper-container1 {
+    width: 100%;
+    height: 100%;
+}
+.slider .swiper-container2 {
+    width: 100%;
+    height: 100%;
+}
+.slider__flex {
+    display: flex;
+    align-items: flex-start;
+}
+
+.slider__prev:focus,
+.slider__next:focus {
+    outline: none;
+}
+.slider__thumbs {
+    height: 380px;
+}
+.slider__thumbs .slider__image {
+    transition: 0.25s;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+.slider__thumbs .swiper-slide-thumb-active .slider__image {
+    border-color: #051036;
+}
+
+.slider__images {
+    height: 400px;
+    width: 100%;
+}
+.slider__images .slider__image img {
+    transition: 3s;
+}
+.slider__images .slider__image:hover img {
+    transform: scale(1.1);
+}
+.slider__image {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.slider__image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+.carsSlider .carsSlider-slider img {
+    border: none;
+}
+.carsSlider-slider {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+@media (max-width: 767.98px) {
+    .slider__flex {
+        flex-direction: column-reverse;
+    }
+    .slider__col {
+        flex-direction: row;
+        align-items: center;
+        margin-right: 0;
+        margin-top: 24px;
+        width: 100%;
+    }
+    .slider__images {
+        width: 100%;
+    }
+    .slider__thumbs {
+        height: 60px;
+        width: 304px;
+        margin: auto;
+    }
+}
+
+// counter box border
+.counter-box {
+    > .row + .border-top-light:last-child {
+        display: inline;
+    }
+}
+
+// class for fixed element
+.fixed {
+    position: fixed;
+    top: 150;
+}
+
+.bg-blue-1:disabled {
+    pointer-events: none;
+    opacity: 0.65;
+}
+
+.collapsed-divider {
+  margin: 10px 0;
+  width: 100%;
+}
+
+.input-deals {
+    max-width: unset;
+    width: unset !important;
+    margin-left: 10px;
+    letter-spacing: 0.02em;
+    border-bottom: 2px solid var(--color-dark-1)  !important;
+    caret-color: var(--color-dark-1);    
+}
+
+.vertical {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}

@@ -1,0 +1,10 @@
+{
+  "faq": {
+    "destinations": {
+      "continents": {
+        "1_title": "What are the must-visit destinations in {title}?",
+        "north-america_1_content": "From the Grand Canyon to New York City, North America boasts iconic destinations. Explore diverse landscapes, rich history, and vibrant cultures across the continent."
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Compare & Book Cheap Flights in Scandinavia ✈️ | {{domain}}",
+      "description": "Find the best deals on cheap flights across Sweden, Denmark, Norway, and Finland. Book your next trip with confidence using {{domain}}'s comprehensive flight comparison tool",
+      "img_alt": "Affordable Flights | {{domain}}"
+    },
+    "flights": {
+      "title": "Cheap Flights to Sweden, Denmark, Norway & Finland ✈️ | {{domain}}",
+      "description": "Search and compare cheap flights from top airlines to your favorite Scandinavian destinations. Book low-cost tickets for domestic and international travel with {{domain}}",
+      "img_alt": "Flight Deals | {{domain}}"
+    },
+    "destinations": {
+      "title": "Discover Cheap Flights to Top Global Destinations ✈️ | {{domain}}",
+      "description": "Explore unbeatable flight deals to the most popular cities and hidden gems worldwide. Use {{domain}} to find the cheapest routes and book your next adventure.",
+      "img_alt": "Global Travel Destinations | {{domain}}"
+    },
+    "continent": {
+      "title": "Cheap Flights Across {{continent}} ✈️ | Book with {{domain}}",
+      "description": "Uncover the best flight deals to explore {{continent}}. Save on airfare to exciting destinations across the continent with {{domain}}'s advanced search and booking tools",
+      "img_alt": "Explore {{continent}} with Cheap Flights | {{domain}}"
+    },
+    "country": {
+      "title": "Book Cheap Flights to {{country}} ✈️ | Explore with {{domain}}",
+      "description": "Fly to {{country}} with the best deals available. {{domain}} brings you affordable flights to cities across {{country}}, so you can explore without breaking the bank",
+      "img_alt": "Flights to {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Cheap Flights to {{city}} from Just $17 ✈️ | Deals on {{domain}}",
+      "title_1": "Find Cheap Flights to {{city}} | Flight Deals from $17 ✈️ {{domain}}",
+      "description": "Searching for affordable flights to {{city}}? Compare prices by date and book the lowest airfare with {{domain}}'s easy-to-use calendar tool",
+      "description_1": "Unlock unbeatable deals on flights to {{city}}. Use our date-sorted comparison to find the best fares for your travel dates",
+      "img_alt": "Affordable Flights to {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "About Us | Discover the Best Flight Deals with {{domain}}",
+      "description": "Learn more about {{domain}}, your go-to platform for finding and booking cheap flights to destinations worldwide. Save on your next journey with our trusted service",
+      "img_alt": "About Us | {{domain}}"
+    },
+    "contact": {
+      "title": "Contact Us | Get Support & Assistance at {{domain}}",
+      "description": "Need help with your booking or have questions? Contact {{domain}}'s support team for expert assistance and answers to all your travel inquiries",
+      "img_alt": "Contact Customer Support | {{domain}}"
+    }
+  }
+}

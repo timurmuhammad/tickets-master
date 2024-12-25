@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Find & Compare Cheap Flights Across Colombia ✈️ | {{domain}}",
+      "description": "Discover great deals on affordable flights throughout Colombia and beyond. Use {{domain}} to compare prices and book your next trip with ease.",
+      "img_alt": "Cheap Flights Across Colombia | {{domain}}"
+    },
+    "flights": {
+      "title": "Low-Cost Flights to Popular Colombian Destinations ✈️ | {{domain}}",
+      "description": "Search and compare budget-friendly flights to top cities in Colombia. Find the best deals for both domestic and international travel with {{domain}}.",
+      "img_alt": "Budget Flights to Colombia | {{domain}}"
+    },
+    "destinations": {
+      "title": "Explore Affordable Flights to Global Destinations ✈️ | {{domain}}",
+      "description": "Browse and book flights to amazing destinations around the world at unbeatable prices. With {{domain}}, finding cheap airfare to your dream location has never been easier.",
+      "img_alt": "Worldwide Flight Deals | {{domain}}"
+    },
+    "continent": {
+      "title": "Find Cheap Flights Across {{continent}} ✈️ | Book Now with {{domain}}",
+      "description": "Save big on flights across {{continent}}. {{domain}} helps you find the most affordable options to explore exciting cities and regions all over {{continent}}.",
+      "img_alt": "Cheap Flights to {{continent}} | {{domain}}"
+    },
+    "country": {
+      "title": "Affordable Flights to {{country}} ✈️ | Plan Your Trip with {{domain}}",
+      "description": "Get the best flight deals to travel across {{country}}. With {{domain}}, you can book low-cost flights to major cities and hidden gems in {{country}}.",
+      "img_alt": "Best Flights to {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Cheap Flights to {{city}} from Just $19 ✈️ | Book with {{domain}}",
+      "title_1": "Find Low-Cost Flights to {{city}} | Tickets Starting from $19 ✈️ {{domain}}",
+      "description": "Looking for affordable flights to {{city}}? {{domain}} lets you compare fares and find the lowest prices for your travel dates with ease.",
+      "description_1": "Unlock exclusive deals on flights to {{city}}. Our advanced comparison tool helps you find the best rates by date.",
+      "img_alt": "Low-Cost Flights to {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "About Us | Learn How {{domain}} Finds the Best Flight Deals",
+      "description": "Find out more about {{domain}}, your trusted platform for comparing and booking cheap flights. We help you save on travel to destinations all over the world.",
+      "img_alt": "About Us | {{domain}}"
+    },
+    "contact": {
+      "title": "Contact Us | Get Assistance & Travel Support at {{domain}}",
+      "description": "Need help with your travel plans? Reach out to the {{domain}} support team for expert advice and assistance with all your booking needs.",
+      "img_alt": "Contact Us for Travel Support | {{domain}}"
+    }
+  }
+}

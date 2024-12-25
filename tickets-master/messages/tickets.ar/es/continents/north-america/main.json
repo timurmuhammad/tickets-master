@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explora {{continent}} con {{domain}} ✈️",
+      "description": "Planifica la aventura definitiva por {{continent}} con {{domain}}. Encuentra consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, gastronomía local, recomendaciones de seguridad, atracciones imprescindibles y mucho más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}} desde Argentina",
+    "banner_sub": "Encuentra ofertas exclusivas, guías expertas y actividades emocionantes en todo {{title}}",
+
+    "intro_title": "Guía de Viaje por {{continent}}",
+    "intro_content": "",
+  
+    "winter_celsius": "-20°C a 10°C",
+    "winter_fahrenheit": "-4°F a 50°F",
+    "spring_celsius": "0°C a 20°C",
+    "spring_fahrenheit": "32°F a 68°F",
+    "summer_celsius": "20°C a 35°C",
+    "summer_fahrenheit": "68°F a 95°F",
+    "autumn_celsius": "10°C a 20°C",
+    "autumn_fahrenheit": "50°F a 68°F",
+
+    "timezone_range": "UTC-10 a UTC-3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "137.9 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "23",
+    "demographics_population": "579 millones",
+    "heritage_range": "23",
+    "heritage_note": "Sitios Patrimonio de la Humanidad de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos únicos en {{continent}} con nuestras opciones de viaje seleccionadas, ideales para cualquier viajero",
+
+    "faq": {
+      "1_answer": "¡Norteamérica está llena de atracciones diversas! Asegúrate de visitar los monumentos icónicos de Nueva York, explorar las playas y la cultura vibrante de Los Ángeles, conocer la historia en Washington D.C., y admirar la belleza natural del Gran Cañón. También son imperdibles el Parque Nacional Banff en Canadá y las playas de Cancún en México.",
+      "2_answer": "Para encontrar vuelos económicos a Norteamérica, usa TICKETS.AR para comparar aerolíneas, busca fechas flexibles y configura alertas de precios. Viajar a mitad de semana o reservar con anticipación suele resultar en tarifas más bajas. ¡Revisa nuestro sitio para promociones especiales, especialmente en temporadas bajas!",
+      "3_answer": "El momento ideal para visitar Norteamérica depende del destino. En general, la primavera (abril a junio) y el otoño (septiembre a noviembre) ofrecen buen clima y menos turistas. El invierno es perfecto para destinos de esquí como Colorado, mientras que el verano es ideal para playas como Miami y la Riviera Maya en México.",
+      "4_answer": "Las aerolíneas principales que vuelan con frecuencia a Norteamérica desde Argentina incluyen American Airlines, United Airlines, Aeroméxico y Delta Airlines. Estas aerolíneas ofrecen vuelos directos y con escalas, brindándote flexibilidad en tus planes de viaje.",
+      "5_answer": "Para encontrar las mejores ofertas durante las temporadas altas, reserva tus vuelos con anticipación y sé flexible con tus fechas. TICKETS.AR te permite comparar tarifas entre varias aerolíneas, ayudándote a asegurar las opciones más económicas incluso en periodos de alta demanda como verano y las vacaciones de invierno.",
+      "6_answer": "Para viajar a Norteamérica, necesitarás un pasaporte válido y, en algunos casos, una visa o una Autorización Electrónica de Viaje (ETA) para ciertos países. Asegúrate de verificar los requisitos de entrada específicos según tu nacionalidad y destino.",
+      "7_answer": "En Norteamérica, los sitios turísticos icónicos incluyen la Estatua de la Libertad en Nueva York, Hollywood en Los Ángeles, las Cataratas del Niágara en la frontera entre EE.UU. y Canadá, y las playas de Tulum en México. Para los amantes de la naturaleza, el Parque Nacional Yosemite y las Montañas Rocosas también son destinos imprescindibles.",
+      "8_answer": "Para viajar entre países de Norteamérica, considera vuelos de aerolíneas de bajo costo para traslados rápidos o explora opciones de tren como Amtrak para rutas panorámicas en los EE.UU. El alquiler de autos también es popular para viajes por carretera, ofreciendo flexibilidad y la oportunidad de ver más en el camino.",
+      "9_answer": "Sí, varias aerolíneas de bajo costo operan vuelos a Norteamérica, incluyendo JetBlue, Southwest Airlines y Frontier. Usa TICKETS.AR para encontrar y comparar estas opciones económicas y hacer tu viaje más accesible.",
+      "10_answer": "Las pautas de COVID-19 para viajar a Norteamérica varían según el país e incluyen posibles requisitos de vacunación, pruebas negativas o documentación adicional. Consulta los sitios web oficiales del gobierno o TICKETS.AR para conocer los requisitos de viaje actualizados antes de reservar tu viaje.",
+      "11_answer": "Para encontrar ofertas de última hora a Norteamérica, visita TICKETS.AR y usa nuestra herramienta de búsqueda para comparar precios entre aerolíneas. Las ofertas de última hora suelen estar disponibles, especialmente en temporadas bajas y para vuelos con horarios flexibles.",
+      "12_answer": "Los elementos esenciales para un viaje a Norteamérica incluyen ropa cómoda, documentos de viaje, cargadores y equipo adecuado para el clima. Si visitas en invierno, lleva ropa de abrigo; en destinos de verano, no olvides la protección solar y los artículos para la playa.",
+      "13_answer": "Para ahorrar en alojamiento en Norteamérica, considera reservar a través de plataformas económicas, hospedarte en hostales o explorar opciones de alquiler a corto plazo. Reservar con anticipación y viajar en temporada baja también puede reducir costos. Consulta TICKETS.AR para ofertas de hoteles y paquetes.",
+      "14_answer": "Para vuelos de larga distancia a Norteamérica, aerolíneas como Delta, American Airlines y United ofrecen comodidades y un excelente servicio. TICKETS.AR puede ayudarte a encontrar las mejores opciones para vuelos de larga distancia, incluyendo aquellas con servicios premium para mayor comodidad.",
+      "15_answer": "La duración de los vuelos desde Argentina a Norteamérica varía según el destino. Por ejemplo, los vuelos desde Buenos Aires a Miami duran aproximadamente 9 horas, mientras que a Nueva York pueden tomar alrededor de 11 horas. TICKETS.AR proporciona detalles de vuelos, incluyendo tiempos de viaje, para facilitar la planificación.",
+      "16_answer": "Para viajar de manera económica en Norteamérica, usa transporte público, reserva vuelos con anticipación, come en lugares locales y busca actividades gratuitas o con descuento. Ciudades como Washington D.C. y museos en Nueva York ofrecen entradas gratuitas en ciertos días.",
+      "17_answer": "Sí, puedes reservar vuelos directos desde Argentina a destinos en Norteamérica como Miami y Houston. TICKETS.AR facilita la búsqueda y el filtrado de opciones sin escalas, ahorrándote tiempo en viajes de larga distancia.",
+      "18_answer": "Norteamérica cuenta con impresionantes lugares costeros. Los destinos principales incluyen Miami Beach, Florida; Tulum, México; y las costas de California. Vancouver en Canadá y Oahu en Hawái también ofrecen experiencias costeras ideales para la relajación y la exploración.",
+      "19_answer": "Muchas aerolíneas ofrecen programas de recompensas donde puedes acumular millas por vuelos a Norteamérica. Considera unirte a programas de lealtad como Delta SkyMiles o American Airlines AAdvantage para acumular puntos, canjeables por descuentos en futuros vuelos.",
+      "20_answer": "Los precios de los vuelos a Norteamérica varían considerablemente según factores como la temporada, la demanda y el momento de la reserva. En promedio, los vuelos desde Argentina oscilan entre $800 y $1,500 USD. TICKETS.AR te permite comparar precios, ayudándote a encontrar la mejor oferta según tus preferencias."
+    }
+  }
+}

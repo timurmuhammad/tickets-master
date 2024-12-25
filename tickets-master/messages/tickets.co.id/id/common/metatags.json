@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Cari dan Bandingkan Penerbangan Murah di Indonesia ✈️ TICKETS.CO.ID",
+      "description": "Cari dan bandingkan tiket penerbangan murah untuk perjalanan domestik dan internasional. Hemat banyak dengan TICKETS.CO.ID – agregator pencarian penerbangan terpercaya di Indonesia.",
+      "img_alt": "Pesan Tiket Penerbangan dengan Mudah | TICKETS.CO.ID"
+    },
+    "flights": {
+      "title": "Bandingkan Penerbangan Murah & Hemat Lebih Banyak ✈️ TICKETS.CO.ID",
+      "description": "Temukan harga terbaik untuk penerbangan domestik dan internasional. Bandingkan tiket dari maskapai dan penyedia terbaik dengan TICKETS.CO.ID – mitra perjalanan pintar Anda.",
+      "img_alt": "Penerbangan Murah | TICKETS.CO.ID"
+    },
+    "destinations": {
+      "title": "Jelajahi Destinasi Populer dan Tersembunyi ✈️ TICKETS.CO.ID",
+      "description": "Rencanakan petualangan Anda berikutnya dengan TICKETS.CO.ID. Temukan penerbangan murah ke berbagai destinasi di seluruh dunia dan nikmati pengalaman pemesanan yang lancar.",
+      "img_alt": "Temukan Destinasi | TICKETS.CO.ID"
+    },
+    "continent": {
+      "title": "Temukan Keindahan {{continent}} ✈️ Penerbangan Murah di TICKETS.CO.ID",
+      "description": "Jelajahi keajaiban {{continent}} bersama TICKETS.CO.ID. Temukan penerbangan murah, bandingkan harga, dan mulailah perjalanan Anda dengan mudah.",
+      "img_alt": "Perjalanan ke {{continent}} | TICKETS.CO.ID"
+    },
+    "country": {
+      "title": "Penerbangan Murah ke {{country}}, {{continent}} ✈️ TICKETS.CO.ID",
+      "description": "Temukan penawaran penerbangan terbaik ke kota-kota di {{country}}, {{continent}}. Pesan tiket murah dan mulai perjalanan Anda dengan TICKETS.CO.ID.",
+      "img_alt": "Penerbangan ke {{country}} | TICKETS.CO.ID"
+    },
+    "city": {
+      "title": "Penerbangan Murah ke {{city}} mulai dari Rp250.000 ✈️ TICKETS.CO.ID",
+      "title_1": "Jelajahi {{city}} dengan Penawaran Penerbangan Mulai Rp250.000 ✈️ TICKETS.CO.ID",
+      "description": "Mencari penerbangan murah ke {{city}}? TICKETS.CO.ID menawarkan cara mudah untuk membandingkan harga berdasarkan tanggal agar Anda mendapatkan penawaran terbaik untuk perjalanan Anda.",
+      "description_1": "Rencanakan perjalanan Anda ke {{city}} dengan kalender penerbangan fleksibel kami. Bandingkan harga harian dan pesan penerbangan termurah di TICKETS.CO.ID.",
+      "img_alt": "Penerbangan ke {{city}} | TICKETS.CO.ID"
+    },
+    "about": {
+      "title": "Tentang TICKETS.CO.ID: Platform Pencarian Penerbangan Terdepan di Indonesia",
+      "description": "TICKETS.CO.ID menyediakan cara mudah untuk menemukan, membandingkan, dan memesan penerbangan. Temukan penawaran terbaik untuk perjalanan domestik dan internasional.",
+      "img_alt": "Tentang Kami | TICKETS.CO.ID"
+    },
+    "contact": {
+      "title": "Hubungi TICKETS.CO.ID | Layanan Dukungan Pelanggan",
+      "description": "Punya pertanyaan? Hubungi TICKETS.CO.ID untuk dukungan dan pertanyaan. Kami di sini untuk membuat perencanaan perjalanan Anda mudah dan bebas stres.",
+      "img_alt": "Layanan Dukungan Pelanggan | TICKETS.CO.ID"
+    }
+  }
+}

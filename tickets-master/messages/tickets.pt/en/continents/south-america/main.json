@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore South America with TICKETS ✈️",
+      "description": "Plan a memorable journey across South America with TICKETS.PT. Discover insider tips on top destinations, cultural experiences, budget-friendly flights, authentic local cuisine, safety updates, and must-visit spots across the continent."
+    }
+  },
+  "continent": {
+    "banner_title": "Explore South America from Portugal",
+    "banner_sub": "Find exclusive travel deals, insider tips, and thrilling experiences in every corner of South America with TICKETS.PT",
+
+    "intro_title": "South America Travel Guide",
+    "intro_content": "At TICKETS.PT, we’re committed to making your South American travel dreams come true. From awe-inspiring landscapes and vibrant cities to unforgettable cultural experiences, we offer a hassle-free way to compare flights, find the best deals, and make informed choices for your journey. Whether you’re heading to the lush Amazon, the bustling streets of Buenos Aires, or the scenic beaches of Brazil, start your adventure with TICKETS.PT!",
+
+    "winter_celsius": "-5°C to 15°C",
+    "winter_fahrenheit": "23°F to 59°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Multiple time zones covering a diverse range of landscapes and cultures",
+    "tourists_range": "37 million",
+    "tourists_note": "Based on pre-pandemic travel data",
+    "demographics_countries": "12",
+    "demographics_population": "432 million",
+    "heritage_range": "100",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Secure the Best Deals for Flights to South America",
+    "destinations_description": "With TICKETS.PT, discover affordable routes, hidden gems, and exclusive discounts for flights across South America. From iconic cities to remote destinations, we bring you the best travel options for a memorable journey.",
+
+		"faq": {
+	    "1_answer": "South America boasts a variety of breathtaking destinations. Key spots include Machu Picchu in Peru, Christ the Redeemer in Brazil, the colonial charm of Cartagena in Colombia, and the pristine beaches of Uruguay’s Punta del Este. Each offers a unique experience and insight into South America’s rich cultural tapestry.",
+	    "2_answer": "For budget-friendly flights to South America, TICKETS.PT allows you to compare fares across airlines and dates. Early booking and flexible travel dates often yield the best prices. Our search tool also offers fare alerts to keep you updated on price drops.",
+	    "3_answer": "The ideal season to book flights to South America depends on your destination. For example, summer (December to February) is great for the southern parts, while shoulder seasons, like April or October, often have fewer crowds and lower prices.",
+	    "4_answer": "Top airlines offering flights to South America include TAP Air Portugal, LATAM, Iberia, and American Airlines. These airlines provide frequent connections and quality service to various cities across the continent.",
+	    "5_answer": "To find affordable flights during peak seasons, consider booking early, traveling mid-week, or choosing early morning flights. Using TICKETS.PT to set fare alerts and compare airlines ensures you get the best rates.",
+	    "6_answer": "Most South American countries require a valid passport with at least six months of validity. Some destinations may also ask for proof of onward travel or specific vaccinations, such as Yellow Fever. Always check entry requirements before you travel.",
+	    "7_answer": "Must-visit sites in South America include the Amazon Rainforest, the Iguazu Falls along the Argentina-Brazil border, Bolivia’s Salt Flats, and the vibrant cities of Rio de Janeiro and Buenos Aires. Each destination offers unique cultural and natural wonders to explore.",
+	    "8_answer": "Traveling within South America is easy with major airlines like LATAM and Avianca, as well as budget carriers such as Sky Airline. For more scenic journeys, consider overland travel by bus for shorter distances.",
+	    "9_answer": "Yes, South America has several budget airlines, including JetSMART and Flybondi, which offer affordable flights between major cities. TICKETS.PT makes it easy to find these options and compare prices.",
+	    "10_answer": "COVID-19 travel guidelines vary by country. Many South American countries may require proof of vaccination, a negative test, or quarantine upon entry. Check official sources or consult TICKETS.PT for the latest information on health and safety requirements.",
+	    "11_answer": "For last-minute deals, TICKETS.PT provides an efficient way to find available flights at competitive prices. Use our platform to find the best options, even for spontaneous travel plans.",
+	    "12_answer": "When traveling to South America, pack lightweight clothing, a good pair of walking shoes, a power adapter, and any required travel vaccinations. Essential items include insect repellent and sunscreen, especially for outdoor adventures.",
+	    "13_answer": "To save on accommodations, consider budget-friendly hostels, guesthouses, or vacation rentals. TICKETS.PT offers access to various accommodation options, ensuring you find a place that fits your budget and needs.",
+	    "14_answer": "For long-haul flights to South America, TAP Air Portugal, Iberia, and Delta provide comfortable flights with excellent service, allowing you to reach your destination in style and comfort.",
+	    "15_answer": "Flights from Portugal to South America vary depending on the destination. Direct flights to Brazil may take around 10 hours, while connecting flights to Argentina or Colombia may take longer, depending on layover times.",
+	    "16_answer": "For a budget-friendly trip, book flights early, travel during the off-season, and dine at local eateries. Use TICKETS.PT to explore options and find budget-friendly flight deals and accommodations.",
+	    "17_answer": "Yes, non-stop flights from Portugal to Brazil are available with TAP Air Portugal. For other destinations in South America, connecting flights are usually required but are easily accessible with TICKETS.PT.",
+	    "18_answer": "Some of the top coastal destinations in South America include Brazil’s Copacabana, Uruguay’s Punta del Este, and the beautiful Caribbean beaches in Colombia. These spots offer a mix of stunning views, vibrant nightlife, and local charm.",
+	    "19_answer": "Many airlines offer frequent flyer programs. By booking with TICKETS.PT, you can choose flights that allow you to accumulate points in programs like LATAM Pass, Aerolineas Plus, or TAP Miles&Go for future travel rewards.",
+	    "20_answer": "The price range for flights from Portugal to South America varies by season and destination, typically between €500 and €1,500. For the best deals, compare flights early on TICKETS.PT and look for promotions."
+	  }
+	}
+}

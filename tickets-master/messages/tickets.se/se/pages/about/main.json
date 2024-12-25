@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Om {{appName}}",
+    "hero_sub": "Upptäck de bästa flygerbjudandena och res enkelt både lokalt och globalt",
+    "hero_imgAlt": "Om {{appName}}",
+
+    "content": "På {{appName}} erbjuder vi en kraftfull plattform som låter användare hitta och jämföra billiga inrikes- och internationella flyg. Vår mission är att förenkla reseplaneringen genom att samla alla tillgängliga alternativ från stora flygbolag och biljettförsäljare på ett ställe. Med oss kan du utforska världen utan att spränga budgeten.",
+
+    "quote": "\"Att resa ska vara prisvärt, bekvämt och tillgängligt för alla. Låt oss hjälpa dig att göra din nästa resa oförglömlig.\"",
+    "quote_imgAlt": "Person som håller ett pass och boardingkort",
+
+    "content_title": "Varför välja {{appName}}?",
+    "content_sub": "Din kompletta lösning för flygjämförelser",
+    "content_description_1": "Vi förstår frustrationen med att leta efter de bästa flygerbjudandena på olika plattformar. Med {{appName}} kan du enkelt hitta de bästa alternativen som passar dina resebehov, vare sig det gäller en affärsresa, semester eller en snabb utflykt.",
+    "content_description_2": "Vår plattform samlar flyg från flera flygbolag och reseleverantörer och presenterar de billigaste och mest bekväma alternativen för dig. Oavsett om du letar efter lokala eller globala flyg, har vi det du behöver.",
+    "content_imgAlt": "Illustration av en världskarta med flygrutter",
+
+    "counter_1": "Biljettleverantörer",
+    "counter_2": "Destinationer täckta",
+    "counter_3": "Sökningar årligen",
+    "counter_4": "Kundsupport"
+  }
+}

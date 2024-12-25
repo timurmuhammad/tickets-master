@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Encuentra y Compara Vuelos Baratos en Toda Colombia ✈️ | {{domain}}",
+      "description": "Descubre ofertas increíbles en vuelos económicos por toda Colombia y más allá. Usa {{domain}} para comparar precios y reservar tu próximo viaje fácilmente.",
+      "img_alt": "Vuelos Baratos en Toda Colombia | {{domain}}"
+    },
+    "flights": {
+      "title": "Vuelos de Bajo Costo a Destinos Populares de Colombia ✈️ | {{domain}}",
+      "description": "Busca y compara vuelos económicos a las principales ciudades de Colombia. Encuentra las mejores ofertas para viajes nacionales e internacionales con {{domain}}.",
+      "img_alt": "Vuelos Económicos a Colombia | {{domain}}"
+    },
+    "destinations": {
+      "title": "Explora Vuelos Asequibles a Destinos Globales ✈️ | {{domain}}",
+      "description": "Busca y reserva vuelos a destinos increíbles alrededor del mundo a precios inmejorables. Con {{domain}}, encontrar vuelos baratos a tu destino soñado nunca ha sido tan fácil.",
+      "img_alt": "Ofertas de Vuelos en Todo el Mundo | {{domain}}"
+    },
+    "continent": {
+      "title": "Encuentra Vuelos Baratos en {{continent}} ✈️ | Reserva Ahora con {{domain}}",
+      "description": "Ahorra mucho en vuelos por todo {{continent}}. {{domain}} te ayuda a encontrar las opciones más económicas para explorar ciudades y regiones emocionantes en {{continent}}.",
+      "img_alt": "Vuelos Baratos a {{continent}} | {{domain}}"
+    },
+    "country": {
+      "title": "Vuelos Asequibles a {{country}} ✈️ | Planifica tu Viaje con {{domain}}",
+      "description": "Obtén las mejores ofertas de vuelos para viajar por {{country}}. Con {{domain}}, puedes reservar vuelos económicos a las principales ciudades y destinos ocultos de {{country}}.",
+      "img_alt": "Mejores Vuelos a {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Vuelos Baratos a {{city}} desde Solo $19 ✈️ | Reserva con {{domain}}",
+      "title_1": "Encuentra Vuelos de Bajo Costo a {{city}} | Boletos desde $19 ✈️ {{domain}}",
+      "description": "¿Buscas vuelos asequibles a {{city}}? {{domain}} te permite comparar tarifas y encontrar los precios más bajos para tus fechas de viaje fácilmente.",
+      "description_1": "Desbloquea ofertas exclusivas en vuelos a {{city}}. Nuestra herramienta avanzada de comparación te ayuda a encontrar las mejores tarifas por fecha.",
+      "img_alt": "Vuelos Económicos a {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "Sobre Nosotros | Aprende Cómo {{domain}} Encuentra las Mejores Ofertas de Vuelos",
+      "description": "Descubre más sobre {{domain}}, tu plataforma de confianza para comparar y reservar vuelos baratos. Te ayudamos a ahorrar en viajes a destinos por todo el mundo.",
+      "img_alt": "Sobre Nosotros | {{domain}}"
+    },
+    "contact": {
+      "title": "Contáctanos | Obtén Asistencia y Soporte de Viajes en {{domain}}",
+      "description": "¿Necesitas ayuda con tus planes de viaje? Ponte en contacto con el equipo de soporte de {{domain}} para recibir asesoría experta y asistencia con todas tus necesidades de reserva.",
+      "img_alt": "Contáctanos para Soporte de Viajes | {{domain}}"
+    }
+  }
+}

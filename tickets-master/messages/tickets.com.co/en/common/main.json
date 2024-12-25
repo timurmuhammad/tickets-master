@@ -1,0 +1,76 @@
+{
+  "header": {
+    "header_banner_text": "We're expanding our language options. Your patience is appreciated.",
+    "bonus_title": "Maximize Your Travel Savings 💰 with TICKETS",
+    "bonus_sub": "Earn exclusive rewards 🪙 every time you book flights through our smart search engine"
+  },
+  "home": {
+    "h1": "Find Affordable Flights Across Colombia and Beyond",
+    "top_destinations": "Top 2024 Destinations in Colombia",
+    "top_destinations_sub": "Book flights with unbeatable deals on our flight comparison platform, designed for ease and value",
+    "city_card_hover": "Best ticket prices from {{destinationFrom}} to {{destinationTo}} 💸 Tap here to find out!",
+    "counter_subtitle": "At {{name}}, you can explore flight options from all airlines in one place. Our seamless interface makes it easy to compare prices and routes, ensuring you get the best value for your next trip",
+
+    "flights_near_you": "Flights from Local Airports at Competitive Prices",
+    "flights_near_you_sub": "Our system automatically shows you the best flights from nearby airports, including top destinations in Colombia, South America, and the Caribbean",
+    "loading_affordable_flights": "Searching for the best flights in your area...",
+    "no_flights_to_destination": "We couldn't find any flights from {{destination1}} to {{destination2}}. Here are some options from {{destination3}} instead",
+
+    "continent_destinations_title": "Explore International Flight Options",
+    "continent_destinations_sub": "Find the best prices for intercontinental flights and detailed information on routes and services",
+
+    "partners_title": "Proudly Partnering with Leading Airlines Worldwide",
+
+    "about_title": "Discover Affordable Travel with TICKETS: Flights, Hotels, and More",
+    "about_sub": "Booking your next trip is simple with TICKETS. From the lowest-priced flights to highly-rated hotels, we've got everything you need to plan the perfect getaway.",
+    "cheap_destinations_title": "Best Deals on Flights to Popular Cities",
+    "cheap_destinations_sub": "Unlock fantastic savings on flights to your favorite destinations in Colombia and across Latin America"
+  },
+  "flights": {
+    "flights_title": "Search and Book Your Perfect Flight",
+    "intro_title": "Fly Better, Save More",
+    "intro_descr": "With {{name}}, finding the perfect flight for your Colombian adventure is easy. Compare, select, and book with confidence."
+  },
+  "destinations": {
+    "destinations_title_part_1": "Uncover",
+    "destinations_title_part_2": "New Destinations",
+    "destinations_img_alt": "Global Flight Destinations",
+    "destinations_sub": "Discover hidden gems around the world and find budget-friendly flights to iconic destinations!",
+    "seo_title": "Find Cheap Flights in Colombia and Beyond",
+    "seo_sub": "Explore our unbeatable deals on flights across Colombia, Latin America, and the world.",
+    "seo_text_1": "Looking for affordable flights within Colombia? Our platform helps you find the lowest prices for trips to major cities and remote towns alike.",
+    "seo_text_2": "TICKETS.CO offers the best flight deals to explore Colombia, from the Caribbean coast to the Amazon. Enjoy affordable travel with our user-friendly flight search engine.",
+    "seo_text_3": "Discover top travel tips, budget-friendly cities, and great savings on flights, all at TICKETS.CO, your go-to source for affordable Colombian and international flights.",
+    "seo_text_4": "Whether you're planning a city escape to Bogotá or an eco-adventure in Medellín, TICKETS.CO has the best flight deals waiting for you.",
+    "continents_title": "Find Affordable Flights Across Continents",
+    "continents_sub": "Find low-cost flights to popular destinations on every continent, including South America and beyond",
+    "flights_title": "Flights for Every Journey",
+    "flights_sub": "Utilize our advanced search tools to tailor your travel and find the best flights for your journey across Colombia and the globe"
+  },
+  "destinations_country": {
+    "destinations_title": "Find the Best Flights to {{country}}",
+    "destinations_description": "Explore the best flight offers to {{country}} with exclusive recommendations for budget-friendly travel."
+  },
+  "destinations_city": {
+    "flights_search_banner": {
+      "banner_title": "Easily Find the Best Flights to {{destination}}",
+      "banner_description": "We search over 1,200 airlines to bring you the most competitive prices for your next trip to {{destination}}"
+    },
+    "destinations_desc": "Plan your trip to {{city}} with our exclusive deals and browse our calendar for the best dates and prices."
+  },
+  "404": {
+    "title": "Oops! Page Not Found",
+    "subtitle": "We couldn't find what you're looking for. Try another search or explore our menu."
+  },
+  "alert": {
+    "best_price_guarantee_title": "Book with Confidence: Best Price Guarantee with TICKETS",
+    "best_price_guarantee_sub": "Rest easy knowing you're getting the best deal on flights, hotels, and more."
+  },
+  "pagination": {
+    "show_more_expensive_dates": "Show Flights for Other Dates"
+  },
+  "call_to_actions": {
+    "signup_title": "Get the Best Deals First",
+    "signup_sub": "Sign up to receive exclusive flight offers and save more on your next adventure."
+  }
+}

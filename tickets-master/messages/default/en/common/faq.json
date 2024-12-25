@@ -1,0 +1,37 @@
+{
+  "continent": {
+    "faq_title": "Frequently Asked Questions About Flights to {{continent}}",
+    "faq": {
+      "1": "What are the cheapest flights to {{title}}?",
+      "2": "How far in advance should I book flights to {{title}} to get the best deals?",
+      "3": "What airlines offer direct flights to {{title}}?",
+      "4": "Are there budget airlines that fly to {{title}}?",
+      "5": "What is the best time of year to visit {{title}}?",
+      "6": "How long is the average flight to {{title}}?",
+      "7": "What are the most popular destinations in {{title}}?",
+      "8": "Are there any special requirements for traveling to {{title}}?",
+      "9": "What are the baggage policies for flights to {{title}}?",
+      "10": "Can I book multi-city flights within {{title}}?",
+      "11": "How do I find last-minute flight deals to {{title}}?",
+      "12": "What are the best airlines for long-haul flights to {{title}}?",
+      "13": "Is travel insurance necessary for flights to {{title}}?",
+      "14": "What are the visa requirements for visiting {{title}}?",
+      "15": "Are there any non-stop flights to {{title}}?",
+      "16": "What are the top attractions in {{title}}?",
+      "17": "How can I find cheap flights to {{title}} during peak season?",
+      "18": "What are the COVID-19 travel restrictions for {{title}}?",
+      "19": "What are the most scenic flight routes to {{title}}?",
+      "20": "What are the best airports to fly into in {{title}}?",
+      "21": "How can I avoid long layovers when flying to {{title}}?",
+      "22": "What are the most kid-friendly airlines for flights to {{title}}?",
+      "23": "Can I change my flight date or time after booking a ticket to {{title}}?",
+      "24": "What are the most luxurious airlines for flights to {{title}}?",
+      "25": "How do I find flights with extra legroom to {{title}}?",
+      "26": "Are there any airline alliances that offer flights to {{title}}?",
+      "27": "What are the best tips for flying with pets to {{title}}?",
+      "28": "How do I check in for flights to {{title}} online?",
+      "29": "What is the best way to get from the airport to my hotel in {{title}}?",
+      "30": "Are there any airlines offering premium economy to {{title}}?"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "invalid_email_address": "Please enter a valid email address",
+    "please_fill_all_fields": "Ensure all fields are filled out",
+    "please_complete_form": "Please complete the form fully before submitting it again",
+    "thanks_for_contact": "Thank you for contacting us! If there's a genuine issue, we'll get back to you shortly.",
+    "something_went_wrong": "Oops, something went wrong. Please try again.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Send a message",
+    "your_name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "your_message": "Your Message",
+    "submit": "Submit",
+    "get_in_touch": "Get in Touch",
+    "our_registration_address": "Our registration address",
+    "address": "71-75 Shelton Street, London WC2H 9JQ, United Kingdom",
+    "customer_support": "Customer Assistance",
+    "partner_contact": "Business Inquiries",
+    "social_follow": "Connect with us on social media",
+    "title_faq": "Frequently Asked Questions",
+    "subtitle_faq": "Find answers to common questions here"
+  },
+  "faq": {
+    "1": "How do I search for flights on TICKETS.CO.ID?",
+    "1_answer": "Enter your departure city, destination, travel dates, and the number of travelers. TICKETS.CO.ID will instantly compare flights from leading airlines and providers to give you the best options tailored to your needs.",
+
+    "2": "What do I need to book a flight on TICKETS.CO.ID?",
+    "2_answer": "TICKETS.CO.ID does not sell tickets directly. Instead, we help you find the best and cheapest options available. Once you select your preferred flight, you will be redirected to the provider’s secure checkout to complete your booking.",
+
+    "3": "Are there any hidden fees when booking flights?",
+    "3_answer": "TICKETS.CO.ID ensures full price transparency. All prices displayed include taxes and fees from our partners, and any additional costs like baggage or seat selection will be clearly outlined during checkout.",
+
+    "4": "Can I modify or cancel my flight booking?",
+    "4_answer": "Changes and cancellations depend on the airline's policy. Check their terms and conditions during the booking process for details and potential fees.",
+
+    "5": "What payment options are available on TICKETS.CO.ID?",
+    "5_answer": "Our partners offer various payment methods, including major credit cards, bank transfers, and digital wallets like GoPay and OVO, ensuring convenience for Indonesian travelers.",
+
+    "6": "Can I book hotels and car rentals on TICKETS.CO.ID?",
+    "6_answer": "Yes, TICKETS.CO.ID provides seamless access to hotel and car rental deals through our trusted partners to make your travel planning effortless.",
+
+    "7": "How will I receive my ticket confirmation?",
+    "7_answer": "After completing your booking, you will receive an email from our partner with your flight details and confirmation. Always check your spam folder if it’s not in your inbox.",
+
+    "8": "What should I do if my flight is delayed or canceled?",
+    "8_answer": "For delays or cancellations, contact the airline directly using the details provided in your booking confirmation. Airlines often provide rebooking or compensation options based on their policies.",
+
+    "9": "Does TICKETS.CO.ID offer discounts for frequent travelers?",
+    "9_answer": "While TICKETS.CO.ID does not have a loyalty program, we regularly feature promotions and discounts from top airlines. Be sure to subscribe to our newsletter for updates on special deals.",
+
+    "10": "Do I need an account to search or book flights?",
+    "10_answer": "You can search and compare flights without an account. However, creating an account with our partners may be required for managing bookings and accessing exclusive deals.",
+
+    "11": "What is the baggage policy for flights on TICKETS.CO.ID?",
+    "11_answer": "Baggage allowances depend on the airline and ticket class. Check baggage details during the booking process to avoid unexpected charges.",
+
+    "12": "Who should I contact for assistance during my trip?",
+    "12_answer": "For issues during travel, contact the airline or travel provider directly. Their contact details can be found in your confirmation email.",
+
+    "13": "Are there any travel restrictions I should be aware of?",
+    "13_answer": "Check current travel restrictions and visa requirements with official government sources for your destination. TICKETS.CO.ID does not provide legal or visa advice.",
+
+    "14": "Can I choose my seat when booking flights?",
+    "14_answer": "Many airlines offer seat selection during the booking process. If available, you’ll see this option when choosing your flight.",
+
+    "15": "What health and safety measures are in place for flights?",
+    "15_answer": "Airlines follow strict health protocols to ensure passenger safety. Details about measures like sanitization and mask policies are available on the airline's website.",
+
+    "16": "Are there promotions or last-minute deals available on TICKETS.CO.ID?",
+    "16_answer": "Yes! We frequently highlight discounted fares and exclusive deals. Visit TICKETS.CO.ID regularly or subscribe to our newsletter for updates.",
+
+    "17": "When should I book flights for the best deals?",
+    "17_answer": "For the lowest prices, book your flights early and avoid peak travel seasons. Use TICKETS.CO.ID to monitor price trends and snag the best deals.",
+
+    "18": "Does TICKETS.CO.ID provide travel insurance?",
+    "18_answer": "Some of our partners offer travel insurance during the booking process. Review available options for added security and peace of mind.",
+
+    "19": "What identification is required for international travel?",
+    "19_answer": "Ensure you have a valid passport and any required visas for your destination. Check the latest entry requirements for Indonesia and your destination country before departure.",
+
+    "20": "How can I check the status of my flight?",
+    "20_answer": "Use the airline’s website or app to track your flight status in real-time. Contact their customer service for further assistance if needed."
+  }
+}

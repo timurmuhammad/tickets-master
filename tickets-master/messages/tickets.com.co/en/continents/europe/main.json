@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C to 5°C",
+    "winter_fahrenheit": "14°F to 41°F",
+    "spring_celsius": "5°C to 20°C",
+    "spring_fahrenheit": "41°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "5°C to 15°C",
+    "autumn_fahrenheit": "41°F to 59°F",
+
+    "timezone_range": "UTC-1 to UTC+3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "743.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 million",
+    "heritage_range": "445",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+    
+    "faq": {
+      "1_answer": "In Europe, you should definitely visit iconic cities like Paris, Rome, and Barcelona, explore the historic landmarks of Athens, and take in the natural beauty of places like the Swiss Alps and the Norwegian fjords.",
+      "2_answer": "The easiest way to find affordable flights to Europe is by using a flight aggregator like {{domain}} to compare prices from multiple airlines. Booking in advance and being flexible with your travel dates can also help you find cheaper options.",
+      "3_answer": "The ideal time to travel to Europe depends on the region. For southern Europe, spring and fall offer mild weather and fewer crowds, while northern Europe is best visited during the summer for warmer temperatures.",
+      "4_answer": "Major airlines frequently flying to Europe include Avianca, Iberia, KLM, Lufthansa, and Air France, providing numerous options for travelers from Colombia.",
+      "5_answer": "To find the best deals during peak seasons, use price alerts on {{domain}} and consider flying on weekdays or during off-peak times like early morning or late at night to save on costs.",
+      "6_answer": "Most European countries require a valid passport for entry, and some may require a visa depending on the country. For Schengen Area countries, Colombian travelers can usually enter for up to 90 days without a visa for tourism.",
+      "7_answer": "Must-see tourist spots in Europe include the Eiffel Tower in Paris, the Colosseum in Rome, Buckingham Palace in London, the Acropolis in Athens, and the canals of Amsterdam.",
+      "8_answer": "Traveling between countries in Europe is easy with options like high-speed trains (Eurostar, Thalys), budget airlines (Ryanair, EasyJet), or even long-distance buses such as FlixBus.",
+      "9_answer": "Yes, low-cost airlines such as Ryanair, EasyJet, and Wizz Air operate flights to various destinations in Europe, making it easier to find affordable airfare.",
+      "10_answer": "COVID-19 guidelines vary by country, but generally, travelers to Europe should check for vaccination requirements, mask mandates, or any testing policies before departure. Always consult the official health authority websites for updated information.",
+      "11_answer": "Last-minute flight offers to Europe can be found on {{domain}} by searching for same-day or next-day departures. Flexibility with travel times and destinations can help you land a great deal.",
+      "12_answer": "Essentials for a trip to Europe include comfortable walking shoes, a universal power adapter, travel insurance, and season-appropriate clothing depending on your destination and travel dates.",
+      "13_answer": "You can reduce accommodation costs by staying in hostels, using platforms like Airbnb, or booking in advance to secure lower rates at hotels. Consider traveling during off-peak seasons to find cheaper rates.",
+      "14_answer": "For long-distance flights to Europe, airlines like Avianca, Lufthansa, and Air France offer excellent services with comfortable seating, inflight entertainment, and meals included.",
+      "15_answer": "A direct flight from Colombia to Europe can take between 10 to 12 hours, depending on the destination, with flights to cities like Madrid or Paris being some of the shortest routes.",
+      "16_answer": "Top tips for budget-friendly travel in Europe include using public transport, staying in budget accommodations, taking advantage of free attractions, and eating like the locals at affordable restaurants.",
+      "17_answer": "Yes, you can book non-stop flights from Colombia to Europe, with routes to cities like Madrid, Paris, and Frankfurt offered by airlines such as Avianca, Iberia, and Lufthansa.",
+      "18_answer": "Some of the best coastal spots in Europe include the Amalfi Coast in Italy, the beaches of the Greek islands, the French Riviera, and the stunning coastlines of Portugal’s Algarve region.",
+      "19_answer": "You can earn airline rewards while flying to Europe by enrolling in frequent flyer programs like Avianca LifeMiles, Lufthansa’s Miles & More, or Air France-KLM’s Flying Blue.",
+      "20_answer": "The price range for flights to Europe from Colombia typically starts around $500 USD for economy class, but prices vary depending on the season, destination, and booking time."
+    }
+  }
+}

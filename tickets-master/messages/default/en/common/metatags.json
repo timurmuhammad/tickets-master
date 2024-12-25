@@ -1,0 +1,88 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Find & Compare Cheap Domestic and International Flights ✈️ {{domain}}",
+      "description": "Find and compare cheap flight tickets for domestic and international travel. Save on airfare with {{domain}} - your trusted source for affordable flights",
+      "img_alt": "Flight Tickets | {{domain}}"
+    },
+    "flights": {
+      "title": "Cheap Flights & Airline Tickets ✈️ {{domain}}",
+      "description": "Book your next flight at {{domain}} and find unbeatable deals on airfare. Compare ✈️ prices and save on both domestic and international flights.",
+      "img_alt": "Flights {{domain}}"
+    },
+    "destinations": {
+      "title": "Explore Affordable Flights to Hidden Corners ✈️ {{domain}}",
+      "description": "Discover unbeatable deals on flights to countries across every continent. Find the cheapest flights to diverse destinations with our easy-to-use platform ✈️ {{domain}}",
+      "img_alt": "Destinations | {{domain}}"
+    },
+    "continent": {
+      "title": "Explore {{continent}} with {{domain}} ✈️",
+      "description": "Discover the beauty, culture, and adventures awaiting in {{continent}}. Explore {{continent}}'s weather conditions, FAQs, cheap routes, and much more with {{domain}}",
+      "img_alt": "Cheap Flights to {{continent}}"
+    },
+    "country": {
+      "title": "Flights to {{country}}, {{continent}} ✈️ {{domain}}",
+      "description": "The cheapest flight deals to various cities in {{country}}, {{continent}}. Browse our list sorted by increasing prices and find the most affordable flight options for your next trip ✈️ {{domain}}",
+      "img_alt": "Cheap Flights to {{country}}"
+    },
+    "city": {
+      "title": "Flights to {{city}} starting at $17 ✈️ Deals on {{domain}}",
+      "title_1": "Cheapest Flights by Date to {{city}} | Flight Deals from $17 ✈️ {{domain}}",
+      "description": "Looking for the best Flight Deals to {{city}}? Our calendar helps you compare prices by day & month to find and book the Cheapest Flights from Anywhere",
+      "description_1": "Unlock unbeatable flight deals to {{city}} with our date-sorted calendar. Compare options by days and months to easily find and book the most affordable flights for your next trip",
+      "img_alt": "Cheap Flights to {{city}}"
+    },
+    "anywhere": {
+      "title": "Cheap Flights Anywhere from $10 ✈️ {{domain}}",
+      "description": "Find the cheapest flights to any destination | Flight Deals from $10 ✈️ {{domain}}",
+      "img_alt": "Cheap Flights Anywhere ✈️ {{domain}}"
+    },
+    "about": {
+      "title": "About {{domain}}: Your Gateway to Seamless Travel",
+      "description": "Whether you're searching for the cheapest flights or the most convenient schedules, {{domain}} ensures you find the perfect option to suit your needs. Start your travel journey with us today and experience the difference.",
+      "img_alt": "{{domain}} Flight Booking Made Easy"
+    },
+    "contact": {
+      "title": "Contact Us | {{domain}} - Customer Support & Inquiries",
+      "description": "Get in touch with {{domain}} for any inquiries, support, or assistance. Our customer service team is here to help",
+      "img_alt": "Contact {{domain}}"
+    },
+    "terms": {
+      "title": "Terms of Use - Your Guide to {{domain}} Services",
+      "description": "Understand the guidelines for using {{domain}}, your trusted flight aggregator for comparing and booking the best travel deals worldwide.",
+      "img_alt": "Terms of Use for {{domain}} - Flight Deals and Booking Guide"
+    },
+    "404": {
+      "title": "404 - Page Not Found on {{domain}} ✈️",
+      "description": "Oops! The page you’re looking for doesn’t exist on {{domain}}. Use our search tool to find affordable flights and exciting travel deals instead.",
+      "img_alt": "404 Error on {{domain}} - Navigate to Amazing Flight Deals"
+    },
+    "user": {
+      "login": {
+        "title": "Login ✈️ {{domain}}",
+        "description": "Login to your account to access your rewards and manage your preferences",
+        "img_alt": "{{domain}}"
+      },
+      "register": {
+        "title": "Register ✈️ {{domain}}",
+        "description": "Register to create an account to access your rewards and manage your preferences",
+        "img_alt": "{{domain}}"
+      },
+      "forgot_password": {
+        "title": "Forgot Password ✈️ {{domain}}",
+        "description": "Forgot your password? No problem",
+        "img_alt": "{{domain}}"
+      },
+      "reset_password": {
+        "title": "Reset Password ✈️ {{domain}}",
+        "description": "Reset your password to access your account",
+        "img_alt": "{{domain}}"
+      }
+    },
+    "comingSoon": {
+      "title": "Coming Soon ✈️ {{domain}}",
+      "description": "{{domain}} is coming soon. Sign up to get notified when we launch",
+      "img_alt": "{{domain}} Coming Soon"
+    }
+  }
+}

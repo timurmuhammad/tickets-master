@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "{{appName}} App",
+    "banner_description": "Upptäck de bästa globala flygerbjudandena med {{appName}}! Vår iOS-app skannar tusentals flyg från toppflygbolag och leverantörer och levererar de bästa erbjudandena direkt till dig.",
+    "banner_img_alt": "{{appName}} App",
+    "banner_button": "App Store"
+  }
+}

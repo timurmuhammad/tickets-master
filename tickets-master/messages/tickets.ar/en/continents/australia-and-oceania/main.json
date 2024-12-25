@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 25°C",
+    "spring_fahrenheit": "59°F to 77°F",
+    "summer_celsius": "25°C to 35°C",
+    "summer_fahrenheit": "77°F to 95°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC+8 to UTC+10",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "Varies by country",
+    "tourists_note": "Australia - 9.3 million",
+    "demographics_countries": "14",
+    "demographics_population": "41 million",
+    "heritage_range": "35",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "Australia and Oceania offer an array of stunning destinations. Must-visit spots include the Great Barrier Reef, Sydney Opera House, New Zealand's Fiordland National Park, Bora Bora in French Polynesia, and the beautiful beaches of Fiji. Each location offers unique experiences, from underwater adventures to breathtaking landscapes.",
+      "2_answer": "To find affordable flights to Australia and Oceania, use TICKETS.AR to compare prices across airlines. Book in advance, consider flexible dates, and set up alerts for fare drops to secure the best deals. Mid-week flights often offer lower prices than weekend departures.",
+      "3_answer": "The ideal time to travel to Australia and Oceania varies by region. For Australia, the southern summer (December to February) is popular. New Zealand shines in spring (September to November) and fall (March to May). Tropical islands like Fiji and Tahiti are great to visit year-round, though April to October is ideal for dry weather.",
+      "4_answer": "Major airlines flying to Australia and Oceania include Qantas, Air New Zealand, LATAM, Fiji Airways, and American Airlines. These airlines offer regular flights with a variety of route options to suit your schedule and budget.",
+      "5_answer": "To find the best deals during peak seasons, book early and set fare alerts on TICKETS.AR. Consider flying on weekdays and be flexible with your travel dates to maximize savings. Our platform helps you monitor price trends to secure affordable flights even during high-demand periods.",
+      "6_answer": "Travel requirements vary by country. Most destinations in Australia and Oceania require a valid passport, and some may need a visa. Check entry requirements specific to each country, and ensure your passport is valid for at least six months beyond your planned return date.",
+      "7_answer": "Tourist hotspots in Australia and Oceania include Sydney’s iconic landmarks, New Zealand’s Milford Sound, the idyllic islands of Fiji, Australia's Outback, and the stunning coral reefs around Vanuatu. Each spot offers a unique taste of the region’s natural beauty and vibrant culture.",
+      "8_answer": "For inter-country travel in Oceania, flying is the most efficient option due to the vast distances. Local airlines like Virgin Australia and Air New Zealand offer regional flights. Ferries and cruise services also connect some island nations, providing scenic alternatives for travel.",
+      "9_answer": "Yes, low-cost airlines such as Jetstar and Virgin Australia operate flights to Australia and within Oceania. These carriers offer budget-friendly options, though baggage and additional services may require extra fees.",
+      "10_answer": "Current COVID-19 guidelines vary by destination. Travelers should check local health authority sites for the latest requirements, which may include vaccinations, testing, or quarantine upon arrival. Be sure to review travel policies before departure.",
+      "11_answer": "For last-minute flight deals, check TICKETS.AR regularly. Our platform aggregates last-minute offers from airlines, helping you find affordable flights even on short notice. Signing up for alerts ensures you won’t miss out on sudden deals.",
+      "12_answer": "When visiting Australia and Oceania, pack essentials like sunscreen, comfortable clothing, a universal power adapter, and swimwear. For outdoor adventures, bring sturdy footwear, insect repellent, and any necessary travel documents or medical essentials.",
+      "13_answer": "Reduce accommodation costs by exploring budget-friendly hostels, Airbnb rentals, or booking in advance through TICKETS.AR's hotel partners. Consider staying in smaller towns or suburban areas for additional savings, and look out for seasonal promotions.",
+      "14_answer": "Airlines like Qantas, LATAM, and Emirates are known for comfortable long-haul flights to Australia and Oceania, offering excellent service, entertainment, and meals to make long-distance travel more enjoyable.",
+      "15_answer": "A direct flight from Argentina to Australia typically takes around 15 to 17 hours, depending on the destination and specific flight route. With a layover, travel times may extend, so be sure to check your itinerary for details.",
+      "16_answer": "For budget-friendly travel in Oceania, explore free activities like hiking and beach visits, dine at local markets, and use public transportation. Book flights and accommodations in advance, and consider traveling during off-peak times to find lower prices.",
+      "17_answer": "Non-stop flights from Argentina to Australia are limited, but there are convenient one-stop options via airlines like LATAM and Qantas. Check TICKETS.AR for available routes and schedules that match your travel preferences.",
+      "18_answer": "Top coastal spots in Australia and Oceania include Bondi Beach in Sydney, Whitehaven Beach in Queensland, New Zealand’s Abel Tasman National Park, and the turquoise waters of Bora Bora. These destinations are renowned for their beauty and offer unique marine experiences.",
+      "19_answer": "To earn rewards, consider joining frequent flyer programs offered by airlines like Qantas and Air New Zealand. Many major airlines are part of global alliances, allowing you to accumulate points on various flights to Australia and Oceania.",
+      "20_answer": "Flight prices to Australia and Oceania vary, typically ranging from $800 to $1,500 for economy class. Booking in advance or during promotional periods on TICKETS.AR can help you secure lower fares. Flexible dates can also result in better prices."
+    }
+  }
+}

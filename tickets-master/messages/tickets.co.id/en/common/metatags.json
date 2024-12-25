@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Find and Compare Affordable Flights in Indonesia ✈️ TICKETS.CO.ID",
+      "description": "Search and compare affordable flight tickets for domestic and international trips. Save big with TICKETS.CO.ID – Indonesia's trusted flight search aggregator.",
+      "img_alt": "Flight Booking Made Easy | TICKETS.CO.ID"
+    },
+    "flights": {
+      "title": "Compare Cheap Flights & Save More ✈️ TICKETS.CO.ID",
+      "description": "Discover unbeatable prices on domestic and international flights. Compare tickets from top airlines and providers with TICKETS.CO.ID – your partner in smarter travel.",
+      "img_alt": "Affordable Flights | TICKETS.CO.ID"
+    },
+    "destinations": {
+      "title": "Explore Popular and Hidden Destinations ✈️ TICKETS.CO.ID",
+      "description": "Plan your next adventure with TICKETS.CO.ID. Find cheap flights to destinations worldwide and enjoy a seamless booking experience.",
+      "img_alt": "Discover Destinations | TICKETS.CO.ID"
+    },
+    "continent": {
+      "title": "Discover {{continent}}'s Beauty ✈️ Affordable Flights on TICKETS.CO.ID",
+      "description": "Explore the wonders of {{continent}} with TICKETS.CO.ID. Find affordable flights, compare prices, and start your next journey with ease.",
+      "img_alt": "Travel to {{continent}} | TICKETS.CO.ID"
+    },
+    "country": {
+      "title": "Affordable Flights to {{country}}, {{continent}} ✈️ TICKETS.CO.ID",
+      "description": "Unlock the best flight deals to cities in {{country}}, {{continent}}. Book affordable tickets and start your journey with TICKETS.CO.ID.",
+      "img_alt": "Flights to {{country}} | TICKETS.CO.ID"
+    },
+    "city": {
+      "title": "Cheap Flights to {{city}} from $17 ✈️ TICKETS.CO.ID",
+      "title_1": "Explore {{city}} with Flight Deals Starting at $17 ✈️ TICKETS.CO.ID",
+      "description": "Looking for affordable flights to {{city}}? TICKETS.CO.ID offers a simple way to compare prices by date to find the best deals for your trip.",
+      "description_1": "Plan your trip to {{city}} with our flexible flight calendar. Compare daily prices and book the cheapest flights at TICKETS.CO.ID.",
+      "img_alt": "Flights to {{city}} | TICKETS.CO.ID"
+    },
+    "about": {
+      "title": "About TICKETS.CO.ID: Indonesia's Leading Flight Search Platform",
+      "description": "TICKETS.CO.ID provides a seamless way to find, compare, and book flights. Discover unbeatable deals on domestic and international travel.",
+      "img_alt": "About Us | TICKETS.CO.ID"
+    },
+    "contact": {
+      "title": "Contact TICKETS.CO.ID | Customer Support at Your Service",
+      "description": "Have questions? Reach out to TICKETS.CO.ID for support and inquiries. We're here to make your travel planning smooth and stress-free.",
+      "img_alt": "Customer Support | TICKETS.CO.ID"
+    }
+  }
+}

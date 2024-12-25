@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva en {{continent}} con {{domain}}. Encuentra consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, cocina local, consejos de seguridad, atracciones imprescindibles y más."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}} desde Argentina",
+    "banner_sub": "Descubre ofertas exclusivas de viaje, guías de expertos y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viaje para {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "5°C a 20°C",
+    "winter_fahrenheit": "41°F a 68°F",
+    "spring_celsius": "15°C a 25°C",
+    "spring_fahrenheit": "59°F a 77°F",
+    "summer_celsius": "25°C a 35°C",
+    "summer_fahrenheit": "77°F a 95°F",
+    "autumn_celsius": "15°C a 25°C",
+    "autumn_fahrenheit": "59°F a 77°F",
+
+    "timezone_range": "UTC+8 a UTC+10",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "Varía según el país",
+    "tourists_note": "Australia - 9,3 millones",
+    "demographics_countries": "14",
+    "demographics_population": "41 millones",
+    "heritage_range": "35",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos menos conocidos en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+
+    "faq": {
+      "1_answer": "Australia y Oceanía ofrecen una variedad de destinos impresionantes. Los lugares imprescindibles incluyen la Gran Barrera de Coral, la Ópera de Sídney, el Parque Nacional Fiordland en Nueva Zelanda, Bora Bora en la Polinesia Francesa y las hermosas playas de Fiyi. Cada lugar ofrece experiencias únicas, desde aventuras submarinas hasta paisajes impresionantes.",
+      "2_answer": "Para encontrar vuelos económicos a Australia y Oceanía, utiliza TICKETS.AR para comparar precios entre aerolíneas. Reserva con anticipación, considera fechas flexibles y configura alertas de precios para asegurar las mejores ofertas. Los vuelos a mitad de semana suelen ser más económicos que los de fin de semana.",
+      "3_answer": "El momento ideal para viajar a Australia y Oceanía varía según la región. Para Australia, el verano austral (diciembre a febrero) es popular. Nueva Zelanda brilla en primavera (septiembre a noviembre) y otoño (marzo a mayo). Las islas tropicales como Fiyi y Tahití son ideales durante todo el año, aunque de abril a octubre es mejor para el clima seco.",
+      "4_answer": "Las principales aerolíneas que vuelan a Australia y Oceanía incluyen Qantas, Air New Zealand, LATAM, Fiji Airways y American Airlines. Estas aerolíneas ofrecen vuelos regulares con una variedad de opciones de rutas para adaptarse a tu horario y presupuesto.",
+      "5_answer": "Para encontrar las mejores ofertas en temporadas altas, reserva con anticipación y configura alertas de precios en TICKETS.AR. Considera volar entre semana y sé flexible con tus fechas de viaje para maximizar los ahorros. Nuestra plataforma te ayuda a monitorear las tendencias de precios para asegurar vuelos económicos incluso en períodos de alta demanda.",
+      "6_answer": "Los requisitos de viaje varían según el país. La mayoría de los destinos en Australia y Oceanía requieren un pasaporte válido, y algunos pueden necesitar una visa. Verifica los requisitos de entrada específicos para cada país y asegúrate de que tu pasaporte sea válido al menos seis meses después de tu fecha de regreso.",
+      "7_answer": "Los puntos turísticos en Australia y Oceanía incluyen los lugares emblemáticos de Sídney, el Milford Sound en Nueva Zelanda, las idílicas islas de Fiyi, el Outback australiano y los impresionantes arrecifes de coral en Vanuatu. Cada lugar ofrece una muestra única de la belleza natural y la cultura vibrante de la región.",
+      "8_answer": "Para viajar entre países en Oceanía, volar es la opción más eficiente debido a las grandes distancias. Las aerolíneas locales como Virgin Australia y Air New Zealand ofrecen vuelos regionales. Los ferries y los cruceros también conectan algunas naciones insulares, ofreciendo alternativas escénicas para viajar.",
+      "9_answer": "Sí, aerolíneas de bajo costo como Jetstar y Virgin Australia operan vuelos hacia y dentro de Oceanía. Estas aerolíneas ofrecen opciones económicas, aunque los equipajes y otros servicios adicionales pueden requerir tarifas adicionales.",
+      "10_answer": "Las pautas actuales de COVID-19 varían según el destino. Los viajeros deben consultar los sitios de las autoridades de salud locales para conocer los requisitos más recientes, que pueden incluir vacunas, pruebas o cuarentena al llegar. Asegúrate de revisar las políticas de viaje antes de la partida.",
+      "11_answer": "Para ofertas de vuelos de último minuto, revisa TICKETS.AR regularmente. Nuestra plataforma agrega ofertas de última hora de las aerolíneas, ayudándote a encontrar vuelos económicos incluso con poco tiempo de anticipación. Suscribirte a las alertas asegura que no te perderás las ofertas repentinas.",
+      "12_answer": "Al visitar Australia y Oceanía, lleva elementos esenciales como protector solar, ropa cómoda, un adaptador de corriente universal y traje de baño. Para aventuras al aire libre, lleva calzado resistente, repelente de insectos y cualquier documento de viaje o elemento médico necesario.",
+      "13_answer": "Reduce los costos de alojamiento explorando hostales económicos, alquileres de Airbnb o reservando con anticipación a través de los socios de hoteles de TICKETS.AR. Considera alojarte en pueblos pequeños o áreas suburbanas para ahorrar más, y mantente atento a las promociones de temporada.",
+      "14_answer": "Aerolíneas como Qantas, LATAM y Emirates son conocidas por ofrecer vuelos de larga distancia cómodos a Australia y Oceanía, con excelente servicio, entretenimiento y comidas para hacer que el viaje sea más placentero.",
+      "15_answer": "Un vuelo directo desde Argentina a Australia suele tardar entre 15 y 17 horas, dependiendo del destino y la ruta específica del vuelo. Con una escala, el tiempo de viaje puede extenderse, así que asegúrate de revisar los detalles de tu itinerario.",
+      "16_answer": "Para viajar de manera económica en Oceanía, explora actividades gratuitas como caminatas y visitas a playas, come en mercados locales y utiliza el transporte público. Reserva vuelos y alojamiento con anticipación, y considera viajar en temporada baja para encontrar mejores precios.",
+      "17_answer": "Los vuelos directos desde Argentina a Australia son limitados, pero existen opciones convenientes de una escala a través de aerolíneas como LATAM y Qantas. Consulta TICKETS.AR para ver las rutas y horarios disponibles que se ajusten a tus preferencias de viaje.",
+      "18_answer": "Los mejores lugares costeros en Australia y Oceanía incluyen Bondi Beach en Sídney, Whitehaven Beach en Queensland, el Parque Nacional Abel Tasman en Nueva Zelanda y las aguas turquesas de Bora Bora. Estos destinos son famosos por su belleza y ofrecen experiencias marinas únicas.",
+      "19_answer": "Para ganar recompensas, considera unirte a programas de viajero frecuente ofrecidos por aerolíneas como Qantas y Air New Zealand. Muchas aerolíneas importantes son parte de alianzas globales, lo que te permite acumular puntos en varios vuelos a Australia y Oceanía.",
+      "20_answer": "Los precios de los vuelos a Australia y Oceanía varían, generalmente entre $800 y $1,500 para clase económica. Reservar con anticipación o durante períodos promocionales en TICKETS.AR puede ayudarte a asegurar tarifas más bajas. Las fechas flexibles también pueden resultar en mejores precios."
+    }
+  }
+}

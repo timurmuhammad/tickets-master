@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "show_more": "Tampilkan Lebih Banyak",
+    "show_less": "Tampilkan Lebih Sedikit",
+    "home": {
+      "article_title": "Jelajahi Pilihan Perjalanan Terjangkau dengan TICKETS",
+      "article": [
+        {
+          "h3_title": "Mengapa Memilih TICKETS untuk Kebutuhan Perjalanan Anda?",
+          "content": "TICKETS adalah agregator penerbangan dan perjalanan andalan Anda, yang menyederhanakan proses menemukan penawaran perjalanan terbaik. Apakah Anda merencanakan perjalanan bisnis, liburan keluarga, atau liburan mendadak, TICKETS membantu Anda menghemat waktu dan uang dengan membandingkan pilihan dari berbagai maskapai penerbangan dan penyedia perjalanan. Dengan platform kami yang ramah pengguna, Anda dapat mengakses penawaran eksklusif, memfilter preferensi Anda, dan menemukan jadwal perjalanan yang sesuai dengan anggaran dan jadwal Anda. Rasakan kemudahan perencanaan perjalanan dengan TICKETS hari ini."
+        },
+        {
+          "h3_title": "Bagaimana Cara Memesan Penerbangan dengan TICKETS?",
+          "content": [
+            "Memesan penerbangan melalui TICKETS sangat mudah. Mulailah dengan memasukkan kota keberangkatan dan tujuan Anda, serta tanggal perjalanan. Mesin pencarian canggih kami akan menampilkan berbagai pilihan yang sesuai dengan kebutuhan Anda. Gunakan filter untuk mengurutkan berdasarkan harga, durasi, atau preferensi maskapai. Setelah Anda memilih penerbangan, Anda akan diarahkan ke situs penyedia untuk proses pemesanan yang aman. Dengan TICKETS, menemukan penerbangan terjangkau belum pernah semudah ini. Lihat ",
+            { "type": "link", "text": "penawaran penerbangan domestik", "url": "/flights", "target": "_blank" },
+            " dan opsi penerbangan internasional untuk petualangan Anda berikutnya."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "h4_title": "Temukan Destinasi Terbaik dengan TICKETS",
+          "content": "Di TICKETS, kami menghubungkan Anda dengan beberapa destinasi paling diminati di seluruh dunia. Dari kota-kota besar seperti New York, Los Angeles, dan Miami hingga tempat-tempat santai di Hawaii atau Karibia, platform kami memastikan Anda mendapatkan penawaran terbaik untuk setiap perjalanan. Jelajahi destinasi terbaik kami dan mulailah merencanakan perjalanan impian Anda hari ini."
+        },
+        {
+          "h4_title": "Tips untuk Mendapatkan Penerbangan Termurah",
+          "content": [
+            "Bepergian dengan anggaran terbatas? Gunakan tips ini untuk mendapatkan penerbangan termurah dengan TICKETS. Pertama, pesan tiket Anda jauh-jauh hari untuk mendapatkan diskon pemesanan awal. Kedua, fleksibel dengan tanggal perjalanan Anda untuk memanfaatkan harga di luar musim. Ketiga, pertimbangkan penerbangan transit untuk penghematan tambahan. Terakhir, daftar ke newsletter kami untuk tetap mendapat informasi tentang penawaran dan promosi eksklusif. Kunjungi ",
+            { "type": "link", "text": "halaman penerbangan murah", "url": "/cheap-flights-anywhere", "target": "_blank" },
+            " untuk penghematan lebih banyak."
+          ]
+        },
+        {
+          "h4_title": "Keunggulan TICKETS",
+          "content": "Apa yang membuat TICKETS berbeda dari agregator perjalanan lainnya? Komitmen kami untuk menyediakan harga yang transparan, berbagai pilihan perjalanan, dan layanan pelanggan yang luar biasa. Kami bermitra dengan maskapai penerbangan dan penyedia perjalanan terkemuka untuk menawarkan tarif yang paling kompetitif. Selain itu, platform kami dirancang dengan kenyamanan Anda dalam pikiran, memastikan pengalaman pemesanan yang lancar dan bebas hambatan. Pelajari lebih lanjut tentang layanan kami dan bagaimana kami dapat membuat perencanaan perjalanan Anda bebas stres."
+        },
+        {
+          "h4_title": "Sumber Daya dan Panduan Perjalanan",
+          "content": [
+            "TICKETS lebih dari sekadar agregator penerbangan; ini adalah pendamping perjalanan Anda. Blog kami menampilkan panduan perjalanan yang komprehensif, tips, dan ulasan destinasi untuk menginspirasi perjalanan Anda berikutnya. Apakah Anda mencari waktu terbaik untuk mengunjungi Paris atau atraksi utama di Tokyo, sumber daya kami sudah mencakupnya. Jelajahi ",
+            { "type": "link", "text": "panduan perjalanan", "url": "/destinations", "target": "_blank" },
+            " kami dan buat setiap perjalanan berkesan dengan TICKETS."
+          ]
+        },
+        {
+          "h4_title": "Opsi Perjalanan Ramah Lingkungan",
+          "content": "Di TICKETS, kami mendukung perjalanan berkelanjutan dengan menyoroti opsi ramah lingkungan bagi pengguna kami. Pilih penerbangan dengan emisi karbon lebih rendah atau jelajahi alternatif perjalanan yang lebih hijau seperti rute kereta atau bus jika memungkinkan. Dengan memprioritaskan pilihan perjalanan yang ramah lingkungan, Anda dapat memberikan dampak positif pada planet ini tanpa mengorbankan pengalaman perjalanan Anda. Pelajari lebih lanjut tentang opsi perjalanan ramah lingkungan kami."
+        },
+        {
+          "h4_title": "Tetap Terhubung dengan TICKETS",
+          "content": [
+            "Ikuti TICKETS di media sosial untuk tetap mendapat informasi tentang penawaran perjalanan, tips, dan tren terbaru. Bergabunglah dengan komunitas traveler kami yang terus berkembang di Instagram, Facebook, dan Twitter. Punya pertanyaan atau butuh bantuan? ",
+            { "type": "link", "text": "halaman kontak kami", "url": "/contact", "target": "_blank" },
+            " siap membantu. Dengan TICKETS, impian perjalanan Anda hanya satu klik saja."
+          ]
+        }
+      ]
+    }
+  }
+}

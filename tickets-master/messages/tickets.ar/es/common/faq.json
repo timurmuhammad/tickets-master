@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Preguntas Comunes Sobre Volar a {{continent}}",
+    "faq": {
+      "1": "¿Cuáles son los lugares que definitivamente debería visitar en {{title}}?",
+      "2": "¿Cuáles son las formas más fáciles de encontrar vuelos económicos a {{title}}?",
+      "3": "¿Cuál es el mejor momento para viajar a {{title}}?",
+      "4": "¿Qué aerolíneas vuelan con mayor frecuencia a {{title}}?",
+      "5": "¿Cómo puedo encontrar las mejores ofertas de vuelos a {{title}} durante la temporada alta?",
+      "6": "¿Qué documentos son necesarios para ingresar a los países en {{title}}?",
+      "7": "¿Cuáles son los lugares turísticos imprescindibles en {{title}}?",
+      "8": "¿Cuáles son las mejores opciones para viajar entre países en {{title}}?",
+      "9": "¿Existen aerolíneas de bajo costo que operen vuelos a {{title}}?",
+      "10": "¿Cuáles son las pautas actuales de COVID-19 para viajeros a {{title}}?",
+      "11": "¿Dónde puedo encontrar ofertas de último minuto para vuelos a {{title}}?",
+      "12": "¿Qué elementos esenciales debo llevar para un viaje a {{title}}?",
+      "13": "¿Cómo puedo reducir los costos de alojamiento al visitar {{title}}?",
+      "14": "¿Qué aerolíneas ofrecen los mejores vuelos de larga distancia a {{title}}?",
+      "15": "¿Cuánto tiempo lleva volar a {{title}} desde Argentina?",
+      "16": "¿Cuáles son los mejores consejos para viajar de manera económica en {{title}}?",
+      "17": "¿Puedo reservar vuelos directos desde Argentina a {{title}}?",
+      "18": "¿Cuáles son los mejores destinos costeros para visitar en {{title}}?",
+      "19": "¿Cómo puedo ganar recompensas de aerolíneas mientras vuelo a {{title}}?",
+      "20": "¿Cuál es el rango típico de precios para vuelos a {{title}}?"
+    }
+  }
+}

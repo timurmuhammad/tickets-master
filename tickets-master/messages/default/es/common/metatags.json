@@ -1,0 +1,78 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Encuentra y Compara Vuelos Nacionales e Internacionales Baratos ✈️ {{domain}}",
+      "description": "Encuentra y compara boletos de avión económicos para viajes nacionales e internacionales. Ahorra en pasajes aéreos con {{domain}} - tu fuente confiable para vuelos asequibles",
+      "img_alt": "Boletos de Vuelo | {{domain}}"
+    },
+    "flights": {
+      "title": "Vuelos y Boletos de Avión Baratos ✈️ {{domain}}",
+      "description": "Reserva tu próximo vuelo en {{domain}} y encuentra ofertas inigualables en pasajes aéreos. Compara ✈️ precios y ahorra en vuelos nacionales e internacionales.",
+      "img_alt": "Vuelos {{domain}}"
+    },
+    "destinations": {
+      "title": "Explora Vuelos Económicos a Rincones Ocultos ✈️ {{domain}}",
+      "description": "Descubre ofertas inigualables en vuelos a países de todos los continentes. Encuentra los vuelos más baratos a diversos destinos con nuestra plataforma fácil de usar ✈️ {{domain}}",
+      "img_alt": "Destinos | {{domain}}"
+    },
+    "continent": {
+      "title": "Explora {{continent}} con {{domain}} ✈️",
+      "description": "Descubre la belleza, cultura y aventuras que te esperan en {{continent}}. Explora las condiciones meteorológicas, preguntas frecuentes, rutas económicas y mucho más en {{continent}} con {{domain}}",
+      "img_alt": "Vuelos Baratos a {{continent}}"
+    },
+    "country": {
+      "title": "Vuelos a {{country}}, {{continent}} ✈️ {{domain}}",
+      "description": "Las mejores ofertas de vuelos económicos a varias ciudades en {{country}}, {{continent}}. Explora nuestra lista ordenada por precios ascendentes y encuentra las opciones de vuelo más asequibles para tu próximo viaje ✈️ {{domain}}",
+      "img_alt": "Vuelos Baratos a {{country}}"
+    },
+    "city": {
+      "title": "Vuelos a {{city}} desde $17 ✈️ Ofertas en {{domain}}",
+      "title_1": "Vuelos Más Baratos por Fecha a {{city}} | Ofertas desde $17 ✈️ {{domain}}",
+      "description": "¿Buscas las mejores ofertas de vuelos a {{city}}? Nuestro calendario te ayuda a comparar precios por día y mes para encontrar y reservar los vuelos más económicos desde cualquier lugar.",
+      "description_1": "Desbloquea ofertas de vuelos inigualables a {{city}} con nuestro calendario organizado por fechas. Compara opciones por días y meses para encontrar y reservar fácilmente los vuelos más asequibles para tu próximo viaje.",
+      "img_alt": "Vuelos Baratos a {{city}}"
+    },
+    "about": {
+      "title": "Acerca de {{domain}}",
+      "description": "{{domain}}",
+      "img_alt": "{{domain}}"
+    },
+    "contact": {
+      "title": "Contáctanos | {{domain}} - Atención al Cliente y Consultas",
+      "description": "Ponte en contacto con {{domain}} para cualquier consulta, soporte o asistencia. Nuestro equipo de servicio al cliente está aquí para ayudarte.",
+      "img_alt": "{{domain}}"
+    },
+    "terms": {
+      "title": "Términos de Uso {{domain}}",
+      "description": "{{domain}}",
+      "img_alt": "{{domain}}"
+    },
+    "404": {
+      "title": "404 ✈️ {{domain}}",
+      "description": "{{domain}}",
+      "img_alt": "{{domain}}"
+    },
+    "user": {
+      "login": {
+        "title": "Iniciar Sesión ✈️ {{domain}}",
+        "description": "Inicia sesión en tu cuenta para acceder a tus recompensas y gestionar tus preferencias.",
+        "img_alt": "{{domain}}"
+      },
+      "register": {
+        "title": "Registrarse ✈️ {{domain}}",
+        "description": "Regístrate para crear una cuenta y acceder a tus recompensas y gestionar tus preferencias.",
+        "img_alt": "{{domain}}"
+      },
+      "forgot_password": {
+        "title": "Olvidé mi Contraseña ✈️ {{domain}}",
+        "description": "¿Olvidaste tu contraseña? No hay problema.",
+        "img_alt": "{{domain}}"
+      },
+      "reset_password": {
+        "title": "Restablecer Contraseña ✈️ {{domain}}",
+        "description": "Restablece tu contraseña para acceder a tu cuenta.",
+        "img_alt": "{{domain}}"
+      }
+    }
+  }
+}

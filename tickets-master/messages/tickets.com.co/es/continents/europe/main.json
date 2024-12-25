@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva a través de {{continent}} con {{domain}}. Obtén consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, gastronomía local, recomendaciones de seguridad, atracciones imperdibles y mucho más."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Encuentra ofertas exclusivas de viajes, guías de expertos y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viaje por {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C a 5°C",
+    "winter_fahrenheit": "14°F a 41°F",
+    "spring_celsius": "5°C a 20°C",
+    "spring_fahrenheit": "41°F a 68°F",
+    "summer_celsius": "20°C a 35°C",
+    "summer_fahrenheit": "68°F a 95°F",
+    "autumn_celsius": "5°C a 15°C",
+    "autumn_fahrenheit": "41°F a 59°F",
+
+    "timezone_range": "UTC-1 a UTC+3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "743.1 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 millones",
+    "heritage_range": "445",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos poco conocidos en {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+    
+    "faq": {
+      "1_answer": "En Europa, definitivamente deberías visitar ciudades icónicas como París, Roma y Barcelona, explorar los monumentos históricos de Atenas y disfrutar de la belleza natural de lugares como los Alpes suizos y los fiordos noruegos.",
+      "2_answer": "La forma más fácil de encontrar vuelos económicos a Europa es utilizando un agregador de vuelos como {{domain}} para comparar precios de varias aerolíneas. Reservar con antelación y ser flexible con las fechas de viaje también te ayudará a encontrar opciones más baratas.",
+      "3_answer": "El momento ideal para viajar a Europa depende de la región. Para el sur de Europa, la primavera y el otoño ofrecen clima templado y menos multitudes, mientras que el norte de Europa es mejor visitarlo en verano para disfrutar de temperaturas más cálidas.",
+      "4_answer": "Las aerolíneas principales que vuelan frecuentemente a Europa incluyen Avianca, Iberia, KLM, Lufthansa y Air France, ofreciendo numerosas opciones para los viajeros desde Colombia.",
+      "5_answer": "Para encontrar las mejores ofertas durante las temporadas altas, utiliza alertas de precios en {{domain}} y considera volar entre semana o en horarios fuera de pico como temprano por la mañana o tarde por la noche para ahorrar costos.",
+      "6_answer": "La mayoría de los países europeos requieren un pasaporte válido para entrar, y algunos pueden requerir una visa según el país. Para los países del Área Schengen, los viajeros colombianos suelen entrar por hasta 90 días sin visa para turismo.",
+      "7_answer": "Los lugares turísticos imperdibles en Europa incluyen la Torre Eiffel en París, el Coliseo en Roma, el Palacio de Buckingham en Londres, la Acrópolis en Atenas y los canales de Ámsterdam.",
+      "8_answer": "Viajar entre países en Europa es fácil con opciones como trenes de alta velocidad (Eurostar, Thalys), aerolíneas de bajo costo (Ryanair, EasyJet) o incluso autobuses de larga distancia como FlixBus.",
+      "9_answer": "Sí, aerolíneas de bajo costo como Ryanair, EasyJet y Wizz Air operan vuelos a varios destinos en Europa, lo que facilita encontrar tarifas aéreas asequibles.",
+      "10_answer": "Las pautas de COVID-19 varían según el país, pero generalmente los viajeros a Europa deben revisar los requisitos de vacunación, mandatos de mascarilla o cualquier política de pruebas antes de la salida. Consulta siempre los sitios web oficiales de salud para obtener información actualizada.",
+      "11_answer": "Las ofertas de vuelos de último minuto a Europa se pueden encontrar en {{domain}} buscando salidas para el mismo día o al día siguiente. La flexibilidad con los horarios de viaje y los destinos te puede ayudar a obtener una gran oferta.",
+      "12_answer": "Los elementos esenciales para un viaje a Europa incluyen zapatos cómodos para caminar, un adaptador de corriente universal, seguro de viaje y ropa adecuada para la estación dependiendo del destino y las fechas de viaje.",
+      "13_answer": "Puedes reducir los costos de alojamiento hospedándote en hostales, utilizando plataformas como Airbnb o reservando con anticipación para asegurar tarifas más bajas en hoteles. Considera viajar durante las temporadas bajas para encontrar tarifas más económicas.",
+      "14_answer": "Para vuelos de larga distancia a Europa, aerolíneas como Avianca, Lufthansa y Air France ofrecen excelentes servicios con asientos cómodos, entretenimiento a bordo y comidas incluidas.",
+      "15_answer": "Un vuelo directo desde Colombia a Europa puede tardar entre 10 y 12 horas, dependiendo del destino, siendo los vuelos a ciudades como Madrid o París algunas de las rutas más cortas.",
+      "16_answer": "Los mejores consejos para viajar de manera económica en Europa incluyen usar transporte público, hospedarse en alojamientos de bajo costo, aprovechar las atracciones gratuitas y comer como los locales en restaurantes asequibles.",
+      "17_answer": "Sí, puedes reservar vuelos directos desde Colombia a Europa, con rutas a ciudades como Madrid, París y Frankfurt ofrecidas por aerolíneas como Avianca, Iberia y Lufthansa.",
+      "18_answer": "Algunos de los mejores lugares costeros para visitar en Europa incluyen la Costa Amalfitana en Italia, las playas de las islas griegas, la Riviera Francesa y las impresionantes costas de la región del Algarve en Portugal.",
+      "19_answer": "Puedes ganar recompensas de aerolíneas mientras vuelas a Europa inscribiéndote en programas de viajero frecuente como LifeMiles de Avianca, Miles & More de Lufthansa o Flying Blue de Air France-KLM.",
+      "20_answer": "El rango de precios para vuelos a Europa desde Colombia generalmente comienza alrededor de $500 USD en clase económica, pero los precios varían según la temporada, el destino y el tiempo de reserva."
+    }
+  }
+}

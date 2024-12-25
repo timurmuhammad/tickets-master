@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C to 10°C",
+    "winter_fahrenheit": "14°F to 50°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC+4 to UTC+10",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "348.5 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4.64 billion",
+    "heritage_range": "705",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "Asia offers a wealth of diverse destinations. Be sure to visit the historic temples of Angkor Wat in Cambodia, the bustling streets of Tokyo, Japan, and the beautiful beaches of Bali, Indonesia. The Great Wall of China and the Taj Mahal in India are also must-see landmarks for travelers exploring this vibrant continent.",
+      "2_answer": "To find affordable flights to Asia, use TICKETS' flight comparison tools to scan for the best deals. Setting up fare alerts, booking in advance, and being flexible with your travel dates can help you secure lower prices. Additionally, flying into major hubs like Bangkok, Singapore, or Kuala Lumpur can lead to more budget-friendly options.",
+      "3_answer": "The ideal time to travel to Asia depends on the region. Southeast Asia is best visited between November and February for cooler, drier weather, while East Asia (like Japan and Korea) is beautiful in spring and autumn. It's advisable to avoid the monsoon season (June to October) in many parts of Asia for a smoother travel experience.",
+      "4_answer": "Major airlines frequently flying to Asia from Colombia include Avianca (via connections), Qatar Airways, Emirates, Turkish Airlines, and American Airlines. Depending on your destination, you'll likely need a layover in a hub such as Istanbul, Dubai, or Doha to reach your final location in Asia.",
+      "5_answer": "Start by booking early, as prices tend to rise closer to the travel date. Use flight aggregator TICKETS to compare prices from multiple airlines and set up price alerts to get notified of any drops. Consider flying on weekdays, which often have lower fares, and explore connecting flights rather than direct routes to save money.",
+      "6_answer": "The documents required for entry into countries in Asia depend on your nationality and destination. Typically, you will need a valid passport with at least six months' validity. Some countries, such as Thailand and Japan, may not require a visa for short stays, but others, like China and India, do. Always check the specific visa requirements for each country you plan to visit.",
+      "7_answer": "Asia is home to some of the world's top tourist spots. Don't miss iconic landmarks like the Taj Mahal in India, the Great Wall in China, Mount Fuji in Japan, and Halong Bay in Vietnam. For a cultural experience, the ancient temples of Bagan in Myanmar and the modern skyline of Hong Kong are must-sees.",
+      "8_answer": "For travel between countries in Asia, budget airlines such as AirAsia, Scoot, and Jetstar offer affordable options. High-speed trains are available in countries like Japan and China for quick, comfortable travel. Long-distance buses and ferries are also great ways to explore Asia while sticking to a budget.",
+      "9_answer": "Yes, several low-cost airlines operate flights to Asia. Carriers like AirAsia, Jetstar, and Scoot offer affordable options for flights within and to Asia from major hubs. These airlines frequently provide budget fares and promotions, making it easier to travel the continent without breaking the bank.",
+      "10_answer": "COVID-19 guidelines for travelers to Asia vary by country. Most nations require proof of vaccination, while others may also require a negative PCR test or quarantine upon arrival. It is essential to check the latest entry requirements for your destination before booking, as regulations may change frequently.",
+      "11_answer": "For last-minute flight offers to Asia, check TICKETS' real-time deals and flash sales. Many airlines offer discounted rates close to the departure date to fill empty seats. You can also subscribe to newsletters or follow social media channels to catch exclusive last-minute offers.",
+      "12_answer": "When traveling to Asia, it's essential to pack light, breathable clothing, sunscreen, insect repellent, and comfortable shoes for sightseeing. Don't forget to bring any necessary medications, and always carry a universal travel adapter to charge your electronics in various countries.",
+      "13_answer": "To reduce accommodation costs in Asia, consider staying in hostels, guesthouses, or budget hotels, especially in popular tourist cities. Booking through TICKETS' partners or using reward points can also provide discounts. Another option is to explore homestays or Airbnb rentals, which are often cheaper than traditional hotels.",
+      "14_answer": "For long-distance flights to Asia, airlines like Emirates, Qatar Airways, Turkish Airlines, and Singapore Airlines are known for their excellent service and comfortable flights. These airlines frequently offer competitive prices, along with premium amenities for long-haul travelers.",
+      "15_answer": "The flight duration from Colombia to Asia depends on the specific destination. For example, a flight from Bogotá to Tokyo typically takes around 22 to 25 hours with one or two layovers, while a flight to Bangkok or Singapore may take a similar amount of time. Connecting flights through major hubs like Istanbul, Dubai, or Doha will affect the total travel time.",
+      "16_answer": "To travel on a budget in Asia, use low-cost airlines for regional flights, dine at local food markets, and stay in budget-friendly accommodations like hostels or guesthouses. Booking in advance and traveling during the off-peak season can also help save on costs. Take advantage of public transportation or rent bikes in cities to reduce transportation expenses.",
+      "17_answer": "Yes, non-stop flights from Colombia to certain destinations in Asia are possible, but they typically require at least one layover. Major hubs like Dubai or Istanbul are common for connecting flights from Colombia to Asia, ensuring a smooth journey with just one stopover.",
+      "18_answer": "Some of the best coastal spots to visit in Asia include the pristine beaches of Thailand’s Phi Phi Islands, the luxurious resorts of the Maldives, Bali’s famous surfing spots, and the unspoiled coastline of Vietnam’s Phu Quoc Island. Each offers a unique experience, from tranquil hideaways to vibrant beach towns.",
+      "19_answer": "To earn airline rewards while flying to Asia, sign up for frequent flyer programs with major airlines like Emirates Skywards, Qatar Airways Privilege Club, or Turkish Airlines Miles&Smiles. Many credit card programs also offer miles for flights, which can be redeemed for upgrades, free flights, or other perks.",
+      "20_answer": "The price range for flights to Asia varies based on the destination and the time of booking. On average, flights from Colombia to Asia can range between $900 and $1,500 for economy class, with prices fluctuating based on the season and demand. Booking early and being flexible with dates can help you find the best deals."
+    }
+  }
+}

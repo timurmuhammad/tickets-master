@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Common Questions About Flying to {{continent}}",
+    "faq": {
+      "1": "Which places should I definitely visit in {{title}}?",
+      "2": "What are the easiest ways to find affordable flights to {{title}}?",
+      "3": "When is the ideal time to travel to {{title}}?",
+      "4": "Which airlines are most frequently flying to {{title}}?",
+      "5": "How can I find the best flight deals to {{title}} during peak seasons?",
+      "6": "What documents are needed to enter countries in {{title}}?",
+      "7": "Which tourist spots in {{title}} are a must-see?",
+      "8": "What are the best options for traveling between countries in {{title}}?",
+      "9": "Are there any low-cost airlines that operate flights to {{title}}?",
+      "10": "What are the current COVID-19 guidelines for travelers to {{title}}?",
+      "11": "Where can I find last-minute flight offers to {{title}}?",
+      "12": "What essentials should I bring for a trip to {{title}}?",
+      "13": "How can I reduce my accommodation costs when visiting {{title}}?",
+      "14": "Which airlines offer the best long-distance flights to {{title}}?",
+      "15": "How much time does it take to fly to {{title}} from Argentina?",
+      "16": "What are the top tips for budget-friendly travel in {{title}}?",
+      "17": "Can I book non-stop flights from Argentina to {{title}}?",
+      "18": "What are the best coastal spots to visit in {{title}}?",
+      "19": "How can I earn airline rewards while flying to {{title}}?",
+      "20": "What is the typical price range for flights to {{title}}?"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Utforska {{continent}} med {{domain}} ✈️",
+      "description": "Upptäck viktiga tips för att planera din resa till {{continent}}, inklusive val av destination, kulturella insikter, budgetering, lokal mat, säkerhetsåtgärder, unika sevärdheter och aktiviteter och mycket mer med {{domain}}"
+    }
+  },
+  "continent": {
+    "banner_title": "Utforska {{title}}",
+    "banner_sub": "Utforska erbjudanden, reseguider och saker att göra i {{title}}",
+
+    "intro_title": "Resehandbok för {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C till 10°C",
+    "winter_fahrenheit": "14°F till 50°F",
+    "spring_celsius": "10°C till 25°C",
+    "spring_fahrenheit": "50°F till 77°F",
+    "summer_celsius": "25°C till 40°C",
+    "summer_fahrenheit": "77°F till 104°F",
+    "autumn_celsius": "10°C till 20°C",
+    "autumn_fahrenheit": "50°F till 68°F",
+
+    "timezone_range": "UTC+4 till UTC+10",
+    "timezone_note": "Flera tidszoner",
+    "tourists_range": "348,5 miljoner",
+    "tourists_note": "Internationella turister, 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4,64 miljarder",
+    "heritage_range": "705",
+    "heritage_note": "UNESCO:s världsarvsplatser",
+
+    "destinations_title": "Upptäck de billigaste rutterna till {{continent}}",
+    "destinations_description": "Hitta prisvärda flyg och upptäck dolda pärlor i {{continent}} med vår kuraterade lista över prisvärda resmål",
+
+    "faq": {
+      "1_answer": "För att hitta de billigaste flygen till Asien kan du boka under mellanperioderna, såsom sen vår (april till juni) eller tidig höst (september till november). Dessa perioder erbjuder ofta lägre priser och färre turister jämfört med högsäsong. Använd prisjämförelsesajter, sätt upp prisvarningar och var flexibel med dina avresedatum för att hitta de bästa erbjudandena.",
+      "2_answer": "För de bästa erbjudandena på flyg till Asien är det bäst att boka dina biljetter 4 till 6 månader i förväg. Detta gör att du kan dra nytta av tidiga priser innan efterfrågan ökar närmare avresedatumet. Flexibilitet med dina resedatum, särskilt att välja flyg mitt i veckan, kan också leda till stora besparingar eftersom flyg på tisdagar och onsdagar ofta är billigare.",
+      "3_answer": "Flera stora flygbolag erbjuder direktflyg till Asien, inklusive Singapore Airlines, Cathay Pacific, Japan Airlines och Emirates. Dessa flygbolag täcker stora delar av kontinenten, med direktlinjer till större asiatiska städer som Tokyo, Bangkok, Singapore och Hongkong. Tillgången på direktflyg beror på din avreseort och specifika destination i Asien.",
+      "4_answer": "Ja, det finns lågprisflygbolag som flyger till Asien, såsom AirAsia, Scoot och Jetstar. Dessa flygbolag erbjuder ofta konkurrenskraftiga priser, men det är viktigt att vara medveten om extra avgifter för tjänster som incheckat bagage, platsval och måltider ombord. Jämför den totala kostnaden, inklusive eventuella extrakostnader, för att säkerställa att du får det bästa erbjudandet när du bokar med lågprisflygbolag.",
+      "5_answer": "Den bästa tiden att besöka Asien beror på de regioner du planerar att utforska. Till exempel är torrperioden från november till februari idealisk för att besöka Sydostasien, medan körsbärsblomningssäsongen i Japan (mars till maj) är en populär tid att besöka. Att undersöka specifika vädermönster och högsäsonger för din destination är nyckeln till att planera en framgångsrik resa till Asien.",
+      "6_answer": "Den genomsnittliga flygtiden till Asien varierar beroende på din avreseort. Flyg från USA:s västkust tar vanligtvis mellan 10 och 14 timmar, medan flyg från Europa kan ta 9 till 12 timmar. Längden beror också på din specifika destination i Asien, med längre flygningar nödvändiga för mer avlägsna platser som Sydostasien eller Australien.",
+      "7_answer": "Populära destinationer i Asien inkluderar Tokyo och Kyoto i Japan, Bangkok i Thailand, Bali i Indonesien och Hongkong. Asien erbjuder en rik mångfald av upplevelser, från de livliga städerna och kulturella landmärkena i Östasien till de orörda stränderna och naturliga underverken i Sydostasien. Oavsett om du är intresserad av historia, mat eller äventyr har Asien något för alla resenärer.",
+      "8_answer": "Resekrav för Asien varierar beroende på din nationalitet och de länder du planerar att besöka. De flesta resenärer behöver ett giltigt pass, och vissa kan behöva visum, särskilt för länder som Kina, Indien och Vietnam. Dessutom kan vaccinationer för sjukdomar som hepatit A, tyfoid och japansk encefalit rekommenderas eller krävas. Det är viktigt att kontrollera de senaste inresekraven och hälsoavrådningarna innan din resa.",
+      "9_answer": "Bagagepolicyer för flyg till Asien kan variera beroende på flygbolag och biljettklass. Vanligtvis tillåter de flesta flygbolag en handbagageväska och ett personligt föremål, medan incheckat bagage kan innebära extra avgifter beroende på vikt och storlek. Det är viktigt att granska ditt flygbolags specifika bagagepolicyer innan du reser för att undvika oväntade avgifter och säkerställa en smidig resa.",
+      "10_answer": "Ja, att boka multi-stadsflyg inom Asien är ett populärt och bekvämt sätt att utforska flera destinationer på en enda resa. Många flygbolag och bokningsplattformar online erbjuder möjligheten att skapa en anpassad resplan, vilket gör att du kan besöka flera städer som Tokyo, Bangkok och Singapore på en resa. Multi-stadsresor kan vara ett kostnadseffektivt och tidsbesparande sätt att se mer av Asien under din resa.",
+      "11_answer": "För att hitta sista-minuten-erbjudanden på flyg till Asien kan du använda reseappar som Skyscanner eller Google Flights, som kan hjälpa dig att övervaka priser och upptäcka rabatter. Flexibilitet med dina resedatum och öppenhet för olika avreseorter kan också leda till bättre erbjudanden. Flygbolag släpper ofta sista-minuten-priser för att fylla osålda platser, så det är värt att kontrollera ofta, särskilt under lågsäsong.",
+      "12_answer": "För långdistansflyg till Asien inkluderar några av de bästa flygbolagen Singapore Airlines, Cathay Pacific, Qatar Airways och Emirates. Dessa flygbolag är kända för att erbjuda en bekväm flygupplevelse med bekvämligheter som underhållning ombord, bekväma sittplatser och måltider av hög kvalitet. Att välja ett flygbolag som erbjuder dessa tjänster kan göra en stor skillnad på långdistansresor till Asien.",
+      "13_answer": "Även om reseförsäkring inte är obligatorisk för flyg till Asien rekommenderas det starkt. Reseförsäkring kan ge täckning för oväntade händelser som avbokningar, medicinska nödsituationer eller förlorat bagage. Med tanke på de olika miljöerna och potentiella äventyrsaktiviteterna i Asien är det viktigt att ha reseförsäkring för att skydda mot oförutsedda omständigheter under din resa.",
+      "14_answer": "Visumkraven för att besöka Asien beror på din nationalitet och de specifika länder du planerar att besöka. Till exempel behöver resenärer från många länder visum för att komma in i Kina, Indien eller Vietnam, medan andra, som Japan och Thailand, erbjuder visumfri inresa för kortare vistelser. Det är viktigt att kontrollera visumkraven för varje asiatisk destination på din resplan i god tid före din resa.",
+      "15_answer": "Ja, direktflyg till Asien finns tillgängliga från flera större städer runt om i världen. Till exempel finns direktflyg från städer som Los Angeles, London och Dubai till destinationer som Tokyo, Singapore och Bangkok. Direktflyg är ett bekvämt alternativ, särskilt för långdistansresor, eftersom de sparar tid genom att undvika mellanlandningar och minska den totala resetiden.",
+      "16_answer": "Asien är hem för några av världens mest otroliga sevärdheter, inklusive Kinesiska muren, templen i Angkor Wat i Kambodja, Taj Mahal i Indien och Mount Fuji i Japan. Andra toppattraktioner inkluderar stränderna på Bali, de livliga gatorna i Bangkok och den futuristiska silhuetten i Singapore. Oavsett om du är intresserad av historia, kultur eller natur erbjuder Asien något för varje resenär.",
+      "17_answer": "För att hitta billiga flyg till Asien under högsäsong, som körsbärsblomningssäsongen i Japan eller julsäsongen i december, är det bäst att boka i god tid, helst 6 till 9 månader före din resa. Flexibilitet med dina resedatum och att välja mindre populära flygplatser eller flygtider kan också hjälpa dig att hitta lägre priser. Att använda prisjämförelseverktyg och sätta upp prisvarningar är effektiva strategier för att hitta de bästa erbjudandena under intensiva reseperioder.",
+      "18_answer": "COVID-19-restriktioner för resor till Asien varierar beroende på land och kan ändras, så det är viktigt att hålla sig informerad om de senaste kraven. Dessa kan inkludera bevis på vaccination, negativa COVID-19-testresultat eller karantän vid ankomst. Att kontrollera officiella regeringswebbplatser och ditt flygbolags uppdateringar hjälper dig att få den mest aktuella informationen för din resa till Asien.",
+      "19_answer": "Några av de mest natursköna flygrutterna till Asien inkluderar de som flyger över Himalaya, de tropiska öarna i Sydostasien och de stora öknarna i Mellanöstern på väg till destinationer som Tokyo, Bangkok och Singapore. Dessa rutter erbjuder fantastisk utsikt över Asiens mångsidiga landskap, från höga bergskedjor till orörda stränder. Att välja en fönsterplats på dessa flyg kan förbättra din reseupplevelse med hisnande vyer från luften.",
+      "20_answer": "De bästa flygplatserna att flyga till i Asien beror på din destination. Större internationella nav inkluderar Singapore Changi Airport (SIN), Tokyo Haneda Airport (HND), Hongkong International Airport (HKG) och Bangkok Suvarnabhumi Airport (BKK). Dessa flygplatser erbjuder omfattande anslutningar, moderna bekvämligheter och effektiva transportalternativ för att hjälpa dig att nå din slutdestination inom Asien."
+    }
+  }
+}

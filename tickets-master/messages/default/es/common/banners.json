@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "Aplicación {{appName}}",
+    "banner_description": "Nuestra aplicación iOS de {{appName}} escanea miles de ofertas de vuelos de cientos de aerolíneas y proveedores, entregando las mejores ofertas de viaje globales directamente a tus manos.",
+    "banner_img_alt": "Aplicación {{appName}}",
+    "banner_button": "App Store"
+  }
+}

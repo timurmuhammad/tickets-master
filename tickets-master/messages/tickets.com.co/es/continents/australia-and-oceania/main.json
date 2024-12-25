@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva a través de {{continent}} con {{domain}}. Obtén consejos de viaje sobre los principales destinos, experiencias culturales, opciones económicas, cocina local, consejos de seguridad, atracciones imprescindibles y más."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Encuentra ofertas de viajes exclusivas, guías expertas y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viajes de {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "5°C a 20°C",
+    "winter_fahrenheit": "41°F a 68°F",
+    "spring_celsius": "15°C a 25°C",
+    "spring_fahrenheit": "59°F a 77°F",
+    "summer_celsius": "25°C a 35°C",
+    "summer_fahrenheit": "77°F a 95°F",
+    "autumn_celsius": "15°C a 25°C",
+    "autumn_fahrenheit": "59°F a 77°F",
+
+    "timezone_range": "UTC+8 a UTC+10",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "Varía según el país",
+    "tourists_note": "Australia - 9.3 millones",
+    "demographics_countries": "14",
+    "demographics_population": "41 millones",
+    "heritage_range": "35",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las mejores ofertas de vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos fuera de lo común en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador.",
+
+    "faq": {
+      "1_answer": "Al visitar Australia y Oceanía, asegúrate de explorar lugares icónicos como la Gran Barrera de Coral, la Ópera de Sídney, el Parque Nacional Fiordland en Nueva Zelanda y Bora Bora en la Polinesia Francesa. Estos destinos ofrecen una combinación de belleza natural, experiencias culturales y aventuras.",
+      "2_answer": "Para encontrar vuelos asequibles a Australia y Oceanía, utiliza herramientas de comparación de tarifas como {{domain}}. Configura alertas de tarifas, reserva con antelación y considera viajar en temporadas bajas para obtener las mejores ofertas.",
+      "3_answer": "El mejor momento para visitar Australia y Oceanía varía según la región. Para Australia y Nueva Zelanda, visita durante la primavera (septiembre a noviembre) o el otoño (marzo a mayo) para disfrutar de un clima suave. Las islas del Pacífico, como Fiyi, son mejores entre mayo y octubre, cuando el clima es más seco y agradable.",
+      "4_answer": "Las principales aerolíneas que vuelan a Australia y Oceanía incluyen Qantas, Air New Zealand, Fiji Airways y Virgin Australia. Estas aerolíneas ofrecen vuelos regulares desde grandes ciudades de todo el mundo.",
+      "5_answer": "Comienza reservando con antelación, ya que los precios tienden a subir a medida que se acerca la fecha de viaje. Utiliza el comparador de vuelos TICKETS para comparar precios de múltiples aerolíneas y configurar alertas de precios para recibir notificaciones de bajadas. Considera volar entre semana, cuando las tarifas suelen ser más bajas, y explora vuelos con escalas en lugar de rutas directas para ahorrar dinero.",
+      "6_answer": "Los requisitos de entrada para los países de Australia y Oceanía varían. La mayoría de los viajeros necesitarán un pasaporte válido, y algunos países, como Australia y Nueva Zelanda, requieren una visa electrónica (ETA) o visa eVisitor. Siempre verifica los requisitos de visa antes de viajar.",
+      "7_answer": "Lugares turísticos imprescindibles en Australia y Oceanía incluyen la Gran Barrera de Coral, Uluru, Milford Sound en Nueva Zelanda y las playas de Fiyi. Para los aventureros, considera visitar el Monte Cook o practicar surf en la Costa Dorada de Australia.",
+      "8_answer": "Las mejores opciones para viajar entre países en Australia y Oceanía son los vuelos, con rutas cortas entre grandes ciudades como Sídney y Auckland. Para las islas del Pacífico, los transbordadores y pequeños aviones también conectan ciertas islas.",
+      "9_answer": "Sí, varias aerolíneas de bajo costo operan vuelos a Australia y Oceanía. Aerolíneas como Jetstar, Scoot y Virgin Australia ofrecen opciones económicas para viajes tanto domésticos como internacionales.",
+      "10_answer": "Las directrices de COVID-19 para Australia y Oceanía varían según el país. Es importante verificar los requisitos de entrada de cada país, las políticas de vacunación y las reglas de cuarentena en los sitios web oficiales del gobierno antes de tu viaje.",
+      "11_answer": "Para ofertas de vuelos de última hora a Australia y Oceanía, revisa {{domain}} con regularidad. Muchas aerolíneas lanzan tarifas con descuento unos días antes de la salida, especialmente durante períodos de viaje fuera de temporada.",
+      "12_answer": "Cuando viajes a Australia y Oceanía, los elementos esenciales incluyen protector solar, repelente de insectos, una botella de agua reutilizable, ropa ligera para el clima cálido y zapatos resistentes para caminatas y actividades al aire libre.",
+      "13_answer": "Para reducir los costos de alojamiento en Australia y Oceanía, considera hospedarte en albergues, alquileres vacacionales o hoteles económicos. Reservar con anticipación y explorar opciones de alojamiento compartido también puede ahorrar dinero, especialmente en ciudades caras como Sídney o Auckland.",
+      "14_answer": "Qantas, Emirates y Air New Zealand son conocidas por ofrecer excelentes vuelos de larga distancia a Australia y Oceanía, brindando servicios superiores a bordo y rutas directas desde varios centros globales.",
+      "15_answer": "Actualmente no hay vuelos directos desde Colombia a Australia u Oceanía, pero los vuelos con escala a través de EE.UU. o Europa pueden tardar entre 20 y 25 horas, dependiendo de tus escalas y destino final.",
+      "16_answer": "Para viajar con bajo presupuesto en Australia y Oceanía, considera usar el transporte público, comer en mercados locales y optar por actividades gratuitas como caminatas y explorar playas. Reservar vuelos y alojamiento con antelación también ayuda a reducir costos.",
+      "17_answer": "Los vuelos directos desde Colombia a Australia y Oceanía no son comunes. La mayoría de las rutas requieren una escala en ciudades como Los Ángeles, Dallas o Santiago antes de llegar a tu destino final.",
+      "18_answer": "Los mejores lugares costeros para visitar en Australia y Oceanía incluyen Bondi Beach en Sídney, Whitehaven Beach en Whitsundays, Coral Bay en Australia Occidental y las playas prístinas de Tahití y Fiyi.",
+      "19_answer": "Puedes ganar recompensas de aerolíneas al volar a Australia y Oceanía inscribiéndote en programas de viajero frecuente como Qantas Frequent Flyer o Air New Zealand Airpoints. Además, reservar vuelos con aerolíneas afiliadas puede ayudarte a acumular puntos más rápidamente.",
+      "20_answer": "El rango de precios típico para vuelos a Australia y Oceanía varía según la temporada y el punto de partida, pero puedes esperar que los vuelos de ida y vuelta desde Colombia cuesten entre $1,200 y $2,500, dependiendo de la aerolínea y el momento de la reserva."
+    }
+  }
+}

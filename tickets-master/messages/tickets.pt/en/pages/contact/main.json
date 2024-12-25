@@ -1,0 +1,71 @@
+{
+  "contact": {
+    "invalid_email_address": "Please enter a valid email address",
+    "please_fill_all_fields": "Ensure all fields are filled out",
+    "please_complete_form": "Please complete the form fully before submitting it again",
+    "thanks_for_contact": "Thank you for contacting us! If there's a genuine issue, we'll get back to you shortly.",
+    "something_went_wrong": "Oops, something went wrong. Please try again.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Send a message",
+    "your_name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "your_message": "Your Message",
+    "submit": "Submit",
+    "get_in_touch": "Get in Touch",
+    "our_registration_address": "Our registration address",
+    "address": "71-75 Shelton Street, London WC2H 9JQ, United Kingdom",
+    "customer_support": "Customer Assistance",
+    "partner_contact": "Business Inquiries",
+    "social_follow": "Connect with us on social media",
+    "title_faq": "Frequently Asked Questions",
+    "subtitle_faq": "Find answers to common questions here"
+  },
+  "faq": {
+    "1": "How can I search for flights on TICKETS.PT?",
+    "1_answer": "Simply enter your departure and arrival cities along with your travel dates. TICKETS.PT will instantly search and compare offers from top airlines to help you find the best deals.",
+
+    "2": "Can I book flights for both domestic and international destinations?",
+    "2_answer": "Yes! TICKETS.PT allows you to search for flights within Portugal as well as international destinations worldwide, making it easy to plan any journey.",
+
+    "3": "Are there any hidden fees when booking with TICKETS.PT?",
+    "3_answer": "No, we ensure transparency. The prices you see are displayed directly from our partners, and any additional options like luggage or upgrades are shown clearly during checkout.",
+
+    "4": "What payment methods are accepted?",
+    "4_answer": "Payment options vary depending on our partners. Most commonly accepted methods include credit cards, PayPal, and other digital payment solutions.",
+
+    "5": "Can I change or cancel my flight after booking?",
+    "5_answer": "Changes or cancellations depend on the airline’s policy. We recommend reviewing the airline’s terms before booking, as fees may apply for modifications.",
+
+    "6": "Do I need an account to book flights on TICKETS.PT?",
+    "6_answer": "No, you don’t need to create an account to search or book flights on TICKETS.PT. However, some partners may require an account for ticket management.",
+
+    "7": "What is the best way to find cheap flights on TICKETS.PT?",
+    "7_answer": "For the best deals, consider booking in advance and using flexible dates if possible. TICKETS.PT helps you compare prices across multiple airlines to find the most affordable options.",
+
+    "8": "How do I know if my booking is confirmed?",
+    "8_answer": "After booking, you will receive a confirmation email from the airline or travel provider with your ticket details. This email serves as your booking confirmation.",
+
+    "9": "Can I select my seat during the booking process?",
+    "9_answer": "Seat selection depends on the airline. If seat selection is available, you’ll see the options during the booking process, allowing you to choose your preferred seat.",
+
+    "10": "What is the baggage policy for flights booked on TICKETS.PT?",
+    "10_answer": "Baggage allowances vary by airline and ticket type. Check the specific baggage policy details provided during the booking process to avoid any unexpected fees.",
+
+    "11": "Can I book hotel accommodations or car rentals through TICKETS.PT?",
+    "11_answer": "Yes, TICKETS.PT offers additional travel options such as hotel accommodations and car rentals through our trusted partners, allowing you to complete your travel plans conveniently.",
+
+    "12": "What should I do if my flight is delayed or canceled?",
+    "12_answer": "In case of delays or cancellations, contact the airline directly for assistance. They will provide information on rebooking or compensation if applicable.",
+
+    "13": "Are there any exclusive promotions or discounts on TICKETS.PT?",
+    "13_answer": "Yes! We frequently feature special promotions and discounts from our partner airlines. Visit TICKETS.PT regularly to catch the latest deals and offers.",
+
+    "14": "Does TICKETS.PT offer travel insurance?",
+    "14_answer": "Some of our partners offer travel insurance options at checkout, giving you added peace of mind for your journey. Review the options available during booking.",
+
+    "15": "What documents are required for international travel?",
+    "15_answer": "You’ll need a valid passport and any required visas for your destination. Check the official entry requirements of the country you are visiting before booking your flight."
+  }
+}

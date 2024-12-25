@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 30°C",
+    "spring_fahrenheit": "59°F to 86°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 30°C",
+    "autumn_fahrenheit": "59°F to 86°F",
+
+    "timezone_range": "UTC-1 to UTC+4",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "67.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "54",
+    "demographics_population": "1.37 billion",
+    "heritage_range": "154",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "Africa offers a rich diversity of must-visit places. Consider the stunning landscapes of Mount Kilimanjaro in Tanzania, the unique wildlife of Serengeti National Park, South Africa's vibrant Cape Town, Egypt’s ancient pyramids, and Morocco’s cultural gem, Marrakech. These destinations offer unforgettable experiences for every traveler.",
+      "2_answer": "Finding affordable flights to Africa is easy with TICKETS. Start by searching for flights in advance, using our flexible date feature, and setting up alerts for price drops. Mid-week departures and avoiding peak travel seasons can also help you find the best deals.",
+      "3_answer": "The ideal time to visit Africa varies by region. Generally, May to October is the dry season in many popular safari destinations, providing excellent wildlife viewing. For North Africa, the cooler months from November to March are ideal. Research specific climates to plan the perfect trip.",
+      "4_answer": "Several major airlines frequently fly to Africa, including Emirates, Turkish Airlines, Ethiopian Airlines, and South African Airways. Many of these airlines offer connections to key destinations across Africa, ensuring flexible options for travelers.",
+      "5_answer": "To find the best flight deals during peak seasons, book well in advance, monitor prices, and consider layovers. Flexible travel dates and using a comparison tool like TICKETS can also help you locate affordable options even during busy times.",
+      "6_answer": "Entry requirements vary by country, but a valid passport and, in many cases, a tourist visa are required. Some countries may also ask for proof of vaccinations, like yellow fever. Check the requirements for each destination before you book.",
+      "7_answer": "Africa is home to countless tourist attractions. Don’t miss Victoria Falls in Zambia and Zimbabwe, the Maasai Mara in Kenya, the historic city of Fez in Morocco, the Okavango Delta in Botswana, and the beaches of Zanzibar. Each destination has something unique to offer!",
+      "8_answer": "Traveling within Africa is best done by air for longer distances, with airlines like Ethiopian Airlines and Kenya Airways offering reliable routes. For shorter trips, consider bus or train options, particularly in regions with established networks, like South Africa and Morocco.",
+      "9_answer": "Yes, there are budget-friendly airlines operating in Africa. Carriers like FlySafair, Fastjet, and Mango offer affordable flights within select regions. Using TICKETS’s search, you can compare prices and find the best low-cost options.",
+      "10_answer": "COVID-19 guidelines vary by country, but many African nations require proof of vaccination or a recent negative test result. Check the latest entry requirements for each destination to stay updated on travel restrictions and health protocols.",
+      "11_answer": "For last-minute flights to Africa, TICKETS offers a convenient search tool to find real-time deals from various airlines. Check our website frequently to see discounted seats available close to your departure date.",
+      "12_answer": "When traveling to Africa, essentials include a valid passport, travel insurance, comfortable clothing, insect repellent, sunscreen, and a first-aid kit. Adapt your packing list to suit the region you’ll be visiting, as climates vary widely.",
+      "13_answer": "Save on accommodation by considering hostels, guesthouses, or eco-lodges instead of traditional hotels. Booking in advance or choosing off-peak dates can also help reduce costs. Platforms like Airbnb are popular for budget-friendly stays.",
+      "14_answer": "For long-distance flights to Africa, airlines like Emirates, Qatar Airways, and Turkish Airlines are known for comfort and quality. These carriers offer extensive routes and are highly rated for long-haul travel.",
+      "15_answer": "Direct flights from Argentina to Africa are rare, and most routes require one or more layovers. The total flight duration typically ranges from 15 to 25 hours, depending on the destination and layover times.",
+      "16_answer": "Budget-friendly travel tips in Africa include using local transportation, eating at local eateries, and opting for budget accommodations. Booking activities directly with local operators and using TICKETS for affordable flights can also help you save.",
+      "17_answer": "Currently, non-stop flights from Argentina to Africa are limited. Most routes require a layover, usually in cities like São Paulo, Dubai, or Istanbul, depending on the airline and destination.",
+      "18_answer": "Africa has beautiful coastal destinations. Consider Cape Town’s beaches in South Africa, the turquoise waters of Zanzibar in Tanzania, Mauritius for a tropical getaway, and the Red Sea coast in Egypt for excellent diving spots.",
+      "19_answer": "Earn rewards by joining frequent flyer programs from major airlines flying to Africa, such as Emirates Skywards, Qatar Privilege Club, or Turkish Miles&Smiles. Redeem points for future flights and upgrades to save on travel.",
+      "20_answer": "Flight prices to Africa vary widely, generally ranging from $1,000 to $2,500 for round-trip fares depending on the season, destination, and airline. Booking in advance and using comparison tools can help you secure better rates."
+      }
+  }
+}

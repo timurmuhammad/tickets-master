@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Your Guide to Flying to {{continent}} with TICKETS",
+    "faq": {
+      "1": "How can I find the cheapest flights to {{title}} with TICKETS?",
+      "2": "When is the best time to book flights to {{title}} for the lowest prices?",
+      "3": "Which airlines provide direct flights to {{title}}?",
+      "4": "Are there affordable budget airlines flying to {{title}}?",
+      "5": "What is the peak travel season for visiting {{title}}?",
+      "6": "How long do flights to {{title}} typically take?",
+      "7": "What are the top travel destinations in {{title}}?",
+      "8": "Do I need any special documents to travel to {{title}}?",
+      "9": "What are the most important baggage policies for flights to {{title}}?",
+      "10": "Can I book multi-destination flights across {{title}} using TICKETS?",
+      "11": "How can I discover last-minute flight deals to {{title}} on TICKETS?",
+      "12": "Which airlines are best for long-distance flights to {{title}}?",
+      "13": "Is travel insurance recommended for trips to {{title}}?",
+      "14": "What are the current visa requirements for travelers heading to {{title}}?",
+      "15": "Are non-stop flights to {{title}} available through TICKETS?",
+      "16": "What must-see attractions are there in {{title}}?",
+      "17": "How do I find affordable flights to {{title}} during high-demand seasons?",
+      "18": "What are the latest travel advisories or restrictions for {{title}}?",
+      "19": "Which flight routes offer the most stunning views when traveling to {{title}}?",
+      "20": "Which airports are the most convenient when flying into {{title}}?"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Sobre o {{appName}}",
+    "hero_sub": "Descubra as melhores ofertas de voos, ajudando-o a viajar local e globalmente com facilidade",
+    "hero_imgAlt": "Sobre o {{appName}}",
+
+    "content": "No {{appName}}, oferecemos uma plataforma poderosa que permite aos utilizadores encontrar e comparar voos baratos, nacionais e internacionais. A nossa missão é simplificar o processo de planeamento de viagens, reunindo todas as opções disponíveis das principais companhias aéreas e vendedores de bilhetes num só lugar. Com a nossa ajuda, pode explorar o mundo sem gastar uma fortuna.",
+
+    "quote": "\"Viajar deve ser acessível, conveniente e ao alcance de todos. Deixe-nos ajudá-lo a tornar a sua próxima viagem inesquecível.\"",
+    "quote_imgAlt": "Pessoa segurando um passaporte e um cartão de embarque",
+
+    "content_title": "Por que escolher o {{appName}}?",
+    "content_sub": "A sua Solução Completa para Comparação de Voos",
+    "content_description_1": "Compreendemos a frustração de procurar continuamente pelas melhores ofertas de voos em várias plataformas. Com o {{appName}}, pode facilmente encontrar as melhores opções que atendem às suas necessidades de viagem, seja para uma viagem de negócios, férias ou uma escapada rápida.",
+    "content_description_2": "A nossa plataforma agrega voos de várias companhias aéreas e fornecedores de viagens, apresentando-lhe as opções mais económicas e convenientes. Quer esteja à procura de voos locais ou internacionais, temos tudo o que precisa.",
+    "content_imgAlt": "Ilustração de um mapa-múndi com rotas de voos",
+
+    "counter_1": "Fornecedores de Bilhetes",
+    "counter_2": "Destinos Abrangidos",
+    "counter_3": "Pesquisas Anuais",
+    "counter_4": "Apoio ao Cliente"
+  }
+}

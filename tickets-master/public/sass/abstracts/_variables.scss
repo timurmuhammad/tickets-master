@@ -1,0 +1,114 @@
+:root {
+  --font-primary: "Onest", sans-serif;
+}
+
+$breakpoints: (
+  xs: 480px,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+);
+
+$breakpoints-loop: (
+  xxl: 1400px,
+  xl: 1200px,
+  lg: 992px,
+  md: 768px,
+  sm: 576px,
+  xs: 480px,
+);
+
+$font-size: 14px;
+$text-sizes: 4, 7, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 25, 26, 30, 36, 40, 50, 60, 70, 80, 90, 100, 110, 140;
+
+:root {
+  @each $size in $text-sizes {
+    --text-#{$size}: #{$size}px;
+  }
+}
+
+$colors: (
+  white: #ffffff,
+  black: #000000,
+  red: #f00000,
+
+  border: #c1cbd7,
+
+  new-1: #f3f5f7,
+  new-2: rgba(53, 84, 209, 0.1),
+  new-3: rgb(80, 100, 124),
+
+  dark-1: #101419,
+  dark-2: #222,
+  dark-3: #999,
+  dark-4: #f00000,
+  dark-5: #d8d8d8,
+
+  // https://uicolors.app/create
+  rich-black: #101419, // RGB(16, 20, 25)
+  rich-900: #303D4A,
+  rich-800: #354657,
+  rich-700: #3C5168,
+  rich-600: #4a657f,
+  rich-500: #5e7e99,
+  rich-400: #7e9ab2,
+  rich-300: #abbece,
+  rich-200: #d2dbe5,
+  rich-100: #ebeff3,
+  rich-50: #f5f7fa,
+
+  vibrant-red: #E63946,
+  cream: #f5f7fa,
+  deep-blue: #457B9D,
+  turquoise: #2A9D8F,
+
+  light-1: #697488,
+  light-2: #f5f5f5,
+  light-3: #fbfcff,
+  light-4: #f3f5f7,
+  light-5: #e8ecf1,
+
+  blue: #007aff,
+  blue-1: #0A3161,
+  blue-2: #e5f0fd,
+  blue-3: #f1f7ff,
+  blue-4: #2563EE,
+
+  green-1: #ebfcea,
+  green-2: #48c851,
+  green-3: #96e57b,
+  green-4: #369e5c,
+  green-5: #166534,
+   
+  yellow-1: #f8d448,
+  yellow-2: #e1c03f,
+  yellow-3: #ffc700,
+  yellow-4: #fff8dd,
+
+  brown-1: #923e01,
+
+  purple-1: #7e53f9,
+
+  red-1: #d93025,
+  red-2: #f1416c,
+  red-3: #fff5f8,
+  red-4: #ffc8d9,
+  red-5: #edbdc1,
+
+  info-1: #cde9f6,
+  info-2: #4780aa,
+  warning-1: #f7f3d7,
+  warning-2: #927238,
+  error-1: #ecc8c5,
+  error-2: #ab3331,
+  success-1: #def2d7,
+  success-2: #5b7052,
+);
+
+:root {
+  @each $name, $color in $colors {
+    --color-#{$name}: #{$color};
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Frequently Asked Questions for Flights to {{continent}}",
+    "faq": {
+      "1": "What are the top destinations to visit in {{title}}?",
+      "2": "How can I easily find budget-friendly flights to {{title}}?",
+      "3": "When is the best season to book flights to {{title}}?",
+      "4": "Which airlines provide the most flights to {{title}}?",
+      "5": "How can I secure affordable flights to {{title}} during busy travel periods?",
+      "6": "What travel documents are required to enter countries in {{title}}?",
+      "7": "What must-visit attractions are there in {{title}}?",
+      "8": "What are the best options for traveling between countries in {{title}}?",
+      "9": "Are there any budget airlines that offer flights to {{title}}?",
+      "10": "What are the latest health and safety guidelines for flights to {{title}}?",
+      "11": "Where can I find last-minute flight deals to {{title}}?",
+      "12": "What essentials should I pack when traveling to {{title}}?",
+      "13": "How can I reduce accommodation costs when visiting {{title}}?",
+      "14": "Which airlines are best for long-haul flights to {{title}}?",
+      "15": "How long is the flight to {{title}} from Portugal?",
+      "16": "What are the top travel hacks for a budget-friendly trip to {{title}}?",
+      "17": "Are non-stop flights available from Portugal to {{title}}?",
+      "18": "What are the best coastal locations to explore in {{title}}?",
+      "19": "How can I earn travel rewards on flights to {{title}}?",
+      "20": "What is the typical price range for flights to {{title}}?"
+    }
+  }
+}

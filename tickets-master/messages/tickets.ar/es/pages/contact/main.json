@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "invalid_email_address": "Por favor, ingrese una dirección de correo electrónico válida",
+    "please_fill_all_fields": "Asegúrese de completar todos los campos",
+    "please_complete_form": "Complete el formulario completamente antes de enviarlo nuevamente",
+    "thanks_for_contact": "¡Gracias por contactarnos! Si hay un problema real, nos pondremos en contacto contigo pronto.",
+    "something_went_wrong": "Ups, algo salió mal. Por favor, intente nuevamente.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Enviar mensaje",
+    "your_name": "Tu nombre",
+    "email": "Tu correo electrónico",
+    "subject": "Asunto",
+    "your_message": "Tu mensaje",
+    "submit": "Enviar",
+    "get_in_touch": "Contáctanos",
+    "our_registration_address": "Nuestra dirección registrada",
+    "address": "71-75 Shelton Street, Londres WC2H 9JQ, Reino Unido",
+    "customer_support": "Asistencia al cliente",
+    "partner_contact": "Consultas comerciales",
+    "social_follow": "Conéctate con nosotros en redes sociales",
+    "title_faq": "Preguntas Frecuentes",
+    "subtitle_faq": "Encuentra respuestas a preguntas comunes aquí"
+  },
+  "faq": {
+    "1": "¿Cómo busco vuelos en TICKETS.AR?",
+    "1_answer": "Simplemente ingresa tu ciudad de salida y destino junto con tus fechas de viaje. Nuestro sistema comparará opciones de las principales aerolíneas para mostrarte las mejores ofertas disponibles.",
+    
+    "2": "¿Qué información necesito para reservar un vuelo?",
+    "2_answer": "Proporciona tu ubicación de salida, destino, fechas de viaje y datos del viajero. Una vez que elijas un vuelo, serás redirigido para completar la reserva con nuestra aerolínea o proveedor asociado.",
+    
+    "3": "¿Hay cargos adicionales o costos ocultos?",
+    "3_answer": "Mostramos los precios iniciales de nuestros socios. Cualquier cargo adicional, como equipaje o servicios especiales, se mostrará en la página de pago final del socio.",
+    
+    "4": "¿Puedo cancelar o cambiar mi vuelo después de reservar?",
+    "4_answer": "Las cancelaciones o cambios dependen de la política de la aerolínea. Revisa sus términos y condiciones para obtener detalles sobre tarifas y procesos.",
+    
+    "5": "¿Qué métodos de pago son aceptados?",
+    "5_answer": "Los pagos son procesados por nuestros socios de viaje. La mayoría acepta tarjetas de crédito, y algunos ofrecen otras opciones como PayPal o billeteras electrónicas.",
+    
+    "6": "¿Puedo reservar hoteles o alquiler de autos en TICKETS.AR?",
+    "6_answer": "Sí, puedes ver opciones de hoteles y alquiler de autos proporcionados por nuestros socios para completar tus planes de viaje.",
+    
+    "7": "¿Cómo recibiré la confirmación de mi reserva?",
+    "7_answer": "Una vez que hayas completado tu reserva, se enviará un correo electrónico de confirmación con los detalles de tu boleto directamente a la dirección de correo electrónico proporcionada.",
+    
+    "8": "¿Qué debo hacer si mi vuelo se retrasa o cancela?",
+    "8_answer": "Si tu vuelo se retrasa o cancela, contacta directamente a la aerolínea. Ellos te brindarán asistencia y opciones de reprogramación si están disponibles.",
+    
+    "9": "¿TICKETS.AR ofrece programas de fidelidad o descuentos para viajeros frecuentes?",
+    "9_answer": "Si bien no tenemos nuestro propio programa de fidelidad, muchas aerolíneas ofrecen recompensas para viajeros frecuentes. Consulta las opciones de fidelidad de cada aerolínea al reservar.",
+    
+    "10": "¿Necesito crear una cuenta para reservar un vuelo?",
+    "10_answer": "No es necesario tener una cuenta con nosotros, pero algunos de nuestros socios pueden requerir una para completar la reserva y gestionar tus boletos.",
+    
+    "11": "¿Cuál es mi franquicia de equipaje para los vuelos?",
+    "11_answer": "Las políticas de equipaje varían según la aerolínea y el tipo de tarifa. Consulta los detalles de la política de equipaje durante el proceso de reserva.",
+    
+    "12": "¿A quién debo contactar si necesito ayuda durante mi viaje?",
+    "12_answer": "Para cualquier problema durante tu viaje, contacta directamente a la aerolínea o al proveedor. Sus datos de contacto estarán incluidos en tu confirmación de reserva.",
+    
+    "13": "¿Hay restricciones de viaje o requisitos de visa?",
+    "13_answer": "Siempre verifica las restricciones de viaje y los requisitos de visa de tu destino con fuentes oficiales antes de reservar. TICKETS.AR no proporciona esta información.",
+    
+    "14": "¿Puedo seleccionar mi asiento al reservar un vuelo?",
+    "14_answer": "La disponibilidad de selección de asientos depende de la aerolínea. Verás las opciones durante el proceso de reserva si la aerolínea permite la selección de asientos.",
+    
+    "15": "¿Qué medidas de salud y seguridad están vigentes para los vuelos?",
+    "15_answer": "Cada aerolínea tiene sus propios protocolos de salud. Puedes encontrar detalles sobre sus medidas de seguridad al completar tu reserva.",
+    
+    "16": "¿Hay ofertas especiales o promociones en vuelos?",
+    "16_answer": "¡Sí! Destacamos las últimas promociones y descuentos de nuestros socios. Visita nuestro sitio regularmente para ver las ofertas actuales.",
+    
+    "17": "¿Cuál es el mejor momento para reservar vuelos a los precios más bajos?",
+    "17_answer": "Los precios de los vuelos pueden fluctuar, por lo que recomendamos reservar con anticipación y monitorear las tarifas para encontrar la mejor oferta para tu viaje.",
+    
+    "18": "¿TICKETS.AR ofrece seguro de viaje?",
+    "18_answer": "Algunos de nuestros socios ofrecen opciones de seguro de viaje. Revisa las opciones disponibles al finalizar la compra para mayor tranquilidad.",
+    
+    "19": "¿Qué identificación necesito para viajes internacionales?",
+    "19_answer": "Verifica los requisitos de entrada oficiales del país de destino para asegurarte de tener la visa e identificación correctas.",
+    
+    "20": "¿Cómo puedo verificar el estado de mi vuelo?",
+    "20_answer": "Visita el sitio web de la aerolínea o utiliza su aplicación para monitorear el estado de tu vuelo, o contacta a su equipo de servicio al cliente para actualizaciones en tiempo real."
+  }
+}

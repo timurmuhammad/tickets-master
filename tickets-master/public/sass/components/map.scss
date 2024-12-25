@@ -1,0 +1,56 @@
+.leaflet-container, .marker-cluster div {
+  font-family: var(--font-primary) !important;
+}
+.marker-cluster div {
+  font-weight: 600 !important;
+}
+// .leaflet-layer,
+// .leaflet-control-zoom-in,
+// .leaflet-control-zoom-out,
+// .leaflet-control-attribution {
+//   filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+// }
+
+// .leaflet-container {
+//   background-color: #1D404A !important;
+// }
+.leaflet-marker-icon:not(.marker-cluster) {
+  width: fit-content !important;
+  height: fit-content !important;
+}
+
+.marker-cluster-small {
+  background-color: rgba(237, 189, 193, 0.6) !important; /* Increased opacity for better visibility */
+  width: 30px;
+  height: 30px;
+}
+
+.marker-cluster-small div {
+  background-color: rgba(237, 189, 193, 0.4) !important;
+}
+
+/* Medium clusters: medium size and opacity */
+.marker-cluster-medium {
+  background-color: rgba(237, 189, 193, 0.8) !important; /* Increased opacity for better visibility */
+  width: 35px;
+  height: 35px;
+}
+
+.marker-cluster-medium div {
+  background-color: rgba(237, 189, 193, 0.6) !important;
+}
+
+/* Large clusters: largest size and lowest opacity */
+.marker-cluster-large {
+  background-color: rgba(237, 189, 193, 1) !important; /* Fully opaque for maximum visibility */
+  width: 40px;
+  height: 40px;
+}
+
+.marker-cluster-large div {
+  background-color: rgba(237, 189, 193, 0.8) !important;
+}
+
+.city-hover .marker {
+  opacity: 1 !important;
+}

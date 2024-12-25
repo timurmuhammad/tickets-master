@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "show_more": "Mostrar mais",
+    "show_less": "Mostrar menos",
+    "home": {
+      "article_title": "Explore Opções de Viagem Acessíveis com a TICKETS",
+      "article": [
+        {
+          "h3_title": "Por que escolher a TICKETS para suas necessidades de viagem?",
+          "content": "A TICKETS é o seu agregador de voos e viagens, simplificando o processo de encontrar as melhores ofertas de viagem. Seja para uma viagem de negócios, férias em família ou uma escapada de última hora, a TICKETS ajuda você a economizar tempo e dinheiro comparando opções de várias companhias aéreas e provedores de viagem. Com nossa plataforma amigável, você pode acessar ofertas exclusivas, filtrar suas preferências e encontrar o itinerário perfeito que se adapte ao seu orçamento e cronograma. Experimente o planejamento de viagens sem complicações com a TICKETS hoje."
+        },
+        {
+          "h3_title": "Como reservar voos com a TICKETS?",
+          "content": [
+            "Reservar voos com a TICKETS é fácil. Comece inserindo suas cidades de partida e destino, juntamente com as datas de viagem. Nosso mecanismo de busca avançado exibirá uma variedade de opções personalizadas para suas necessidades. Use filtros para ordenar por preço, duração ou preferência de companhia aérea. Depois de selecionar seu voo, você será redirecionado para o site do provedor para um processo de reserva seguro. Com a TICKETS, encontrar voos acessíveis nunca foi tão fácil. Confira nossas ",
+            { "type": "link", "text": "ofertas de voos domésticos", "url": "/flights", "target": "_blank" },
+            " e opções de voos internacionais para sua próxima aventura."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "h4_title": "Descubra os melhores destinos com a TICKETS",
+          "content": "Na TICKETS, conectamos você a alguns dos destinos mais desejados do mundo. Desde cidades vibrantes como Nova York, Los Angeles e Miami até refúgios tranquilos no Havaí ou no Caribe, nossa plataforma garante as melhores ofertas para cada jornada. Explore nossos principais destinos e comece a planejar sua viagem dos sonhos hoje."
+        },
+        {
+          "h4_title": "Dicas para encontrar os voos mais baratos",
+          "content": [
+            "Viajando com orçamento limitado? Use estas dicas para encontrar os voos mais baratos com a TICKETS. Primeiro, reserve suas passagens com antecedência para garantir descontos de compra antecipada. Segundo, seja flexível com suas datas de viagem para aproveitar preços fora de temporada. Terceiro, considere voos com conexões para economizar ainda mais. Por fim, inscreva-se em nossa newsletter para se manter atualizado sobre ofertas e promoções exclusivas. Visite nossa ",
+            { "type": "link", "text": "página de voos baratos", "url": "/cheap-flights-anywhere", "target": "_blank" },
+            " para economizar mais."
+          ]
+        },
+        {
+          "h4_title": "A vantagem da TICKETS",
+          "content": "O que diferencia a TICKETS de outros agregadores de viagens? É nosso compromisso em oferecer preços transparentes, uma ampla seleção de opções de viagem e um atendimento ao cliente excepcional. Trabalhamos em parceria com as principais companhias aéreas e provedores de viagens para oferecer as tarifas mais competitivas. Além disso, nossa plataforma é projetada para sua conveniência, garantindo uma experiência de reserva suave e sem complicações. Saiba mais sobre nossos serviços e como podemos tornar o planejamento de sua viagem mais tranquilo."
+        },
+        {
+          "h4_title": "Recursos e guias de viagem",
+          "content": [
+            "A TICKETS é mais do que um agregador de voos; é seu companheiro de viagem. Nosso blog apresenta guias de viagem abrangentes, dicas e análises de destinos para inspirar sua próxima viagem. Seja para descobrir o melhor momento para visitar Paris ou as principais atrações de Tóquio, nossos recursos cobrem tudo. Explore nossos ",
+            { "type": "link", "text": "guias de viagem", "url": "/destinations", "target": "_blank" },
+            " e torne cada jornada memorável com a TICKETS."
+          ]
+        },
+        {
+          "h4_title": "Opções de viagem ecológicas",
+          "content": "Na TICKETS, apoiamos viagens sustentáveis destacando opções ecológicas para nossos usuários. Escolha voos com menores emissões de carbono ou explore alternativas de viagem mais verdes, como rotas de trem ou ônibus, sempre que possível. Ao priorizar escolhas de viagem conscientes do meio ambiente, você pode causar um impacto positivo no planeta sem comprometer sua experiência de viagem. Saiba mais sobre nossas opções de viagem ecológica."
+        },
+        {
+          "h4_title": "Fique conectado com a TICKETS",
+          "content": [
+            "Siga a TICKETS nas redes sociais para ficar por dentro das últimas ofertas de viagens, dicas e tendências. Junte-se à nossa crescente comunidade de viajantes no Instagram, Facebook e Twitter. Tem dúvidas ou precisa de ajuda? Nossa ",
+            { "type": "link", "text": "página de contato", "url": "/contact", "target": "_blank" },
+            " está aqui para ajudar. Com a TICKETS, seus sonhos de viagem estão a um clique de distância."
+          ]
+        }
+      ]
+    }
+  }
+}

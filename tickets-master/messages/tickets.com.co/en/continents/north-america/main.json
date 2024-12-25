@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+  
+    "winter_celsius": "-20°C to 10°C",
+    "winter_fahrenheit": "-4°F to 50°F",
+    "spring_celsius": "0°C to 20°C",
+    "spring_fahrenheit": "32°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "137.9 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "23",
+    "demographics_population": "579 million",
+    "heritage_range": "23",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "When visiting North America, be sure to explore iconic destinations like New York City, the Grand Canyon, Yellowstone National Park, and Niagara Falls. Each place offers unique experiences, from bustling city life to breathtaking natural wonders.",
+      "2_answer": "To find affordable flights to North America, use {{domain}} to compare prices across various airlines, set fare alerts, and consider booking during off-peak seasons when prices tend to be lower.",
+      "3_answer": "The best time to travel to North America depends on your destination. For warmer weather, consider visiting between May and September. Winter sports enthusiasts should aim for December through February to enjoy skiing and snowboarding in regions like Colorado and Canada.",
+      "4_answer": "Major airlines flying to North America include American Airlines, Delta, United, Air Canada, and Avianca. These carriers offer numerous flights connecting cities across the continent.",
+      "5_answer": "During peak seasons, the best way to find great deals is to book well in advance, use fare comparison tools like {{domain}}, and remain flexible with your travel dates and times.",
+      "6_answer": "To enter most countries in North America, travelers will need a valid passport. Depending on your nationality, a visa or Electronic Travel Authorization (ETA) may also be required, such as an ESTA for the U.S. or an ETA for Canada.",
+      "7_answer": "In North America, must-see tourist spots include the Statue of Liberty, the Las Vegas Strip, Disney World, the Golden Gate Bridge, and Mount Rushmore, offering a mix of historical and entertainment experiences.",
+      "8_answer": "Traveling between countries in North America is easy with numerous flight connections. Additionally, you can explore ground transport options like trains, buses, and car rentals for short trips, especially between the U.S. and Canada.",
+      "9_answer": "Several low-cost airlines operate flights to North America, including Spirit Airlines, Frontier Airlines, Southwest Airlines, and JetBlue. These carriers offer budget-friendly options with limited in-flight amenities.",
+      "10_answer": "Current COVID-19 guidelines for North America vary by country. Be sure to check each country's health and safety regulations, such as vaccination or testing requirements, before booking your trip.",
+      "11_answer": "For last-minute flight offers to North America, regularly check {{domain}} for flash sales, discounted fares, and airline promotions. Being flexible with your departure dates can also help snag a great deal.",
+      "12_answer": "For a trip to North America, pack essentials like comfortable walking shoes, travel adapters (especially for the U.S. and Canada), a valid passport, and any required visas. It's also smart to have local currency or a credit card accepted worldwide.",
+      "13_answer": "To save on accommodation costs, consider booking budget hotels, vacation rentals, or hostels. You can also look for promotions on {{domain}} or use loyalty points to reduce your expenses.",
+      "14_answer": "Airlines like Avianca, American Airlines, and Delta offer excellent long-haul flights to North America from Colombia, with options for direct flights and in-flight amenities for comfortable travel.",
+      "15_answer": "A flight from Colombia to North America typically takes around 5 to 7 hours, depending on your destination. Flights to the southern U.S. are shorter, while trips to northern or western regions of North America may take longer.",
+      "16_answer": "For budget-friendly travel in North America, consider using public transport, eating at local diners, and booking flights and accommodations well in advance. Visiting during the off-season can also result in significant savings.",
+      "17_answer": "Yes, there are non-stop flights from Colombia to various destinations in North America, including major cities like Miami, New York, and Mexico City, which can be booked through {{domain}}.",
+      "18_answer": "Some of the best coastal spots to visit in North America include Miami Beach, Cancun, Vancouver’s coastline, and the Pacific beaches of California, offering stunning landscapes and recreational activities.",
+      "19_answer": "To earn airline rewards while flying to North America, sign up for frequent flyer programs like Avianca LifeMiles, American AAdvantage, or Delta SkyMiles. Many airlines also offer co-branded credit cards for additional rewards on purchases.",
+      "20_answer": "Flight prices to North America vary widely, but you can expect round-trip tickets from Colombia to start at around $300 USD, with prices rising during peak travel seasons and depending on the airline and destination."
+    }
+  }
+}

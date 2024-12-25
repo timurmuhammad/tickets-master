@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Discover What Makes {{appName}} Unique",
+    "hero_sub": "Experience seamless, affordable travel planning with unbeatable flight deals across Argentina and the world.",
+    "hero_imgAlt": "Learn more about {{appName}}",
+
+    "content": "At {{appName}}, we believe that travel should be easy, accessible, and affordable for everyone. Our platform is dedicated to helping you find the best flight options by providing a comprehensive search and comparison tool for flights within Argentina and worldwide. With {{appName}}, you can compare prices, check flight availability, and discover the best deals all in one place. Whether you're traveling locally or internationally, {{appName}} ensures a smooth and transparent booking experience every time.",
+
+    "quote": "Our mission is simple: to make travel accessible, affordable, and enjoyable. Let {{appName}} be your trusted companion on your next journey.",
+    "quote_imgAlt": "Traveler ready for an adventure with boarding pass and passport in hand",
+
+    "content_title": "Why Choose {{appName}}",
+    "content_sub": "Your Trusted Flight Search and Comparison Platform",
+    "content_description_1": "We understand that finding the right flight can be overwhelming, especially with so many options available. {{appName}} streamlines this process by gathering all relevant flight information, prices, and options from top airlines and providers, making it easy for you to find a flight that fits your schedule and budget.",
+    "content_description_2": "Our advanced search capabilities bring together a wide range of airlines and travel companies to help you find not only the best prices but also the most convenient options for every trip. From local flights within Argentina to intercontinental journeys, {{appName}} simplifies the travel planning process, ensuring you can book confidently and affordably.",
+    "content_imgAlt": "Illustration of global flight routes representing worldwide connections",
+
+    "counter_1": "Flight Partners",
+    "counter_2": "Destinations Worldwide",
+    "counter_3": "Searches Per Year",
+    "counter_4": "24/7 Support"
+  }
+}

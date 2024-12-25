@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore a América do Sul com TICKETS ✈️",
+      "description": "Planeie uma viagem memorável pela América do Sul com TICKETS.PT. Descubra dicas sobre os melhores destinos, experiências culturais, voos económicos, cozinha local autêntica, atualizações de segurança e locais imperdíveis em todo o continente."
+    }
+  },
+  "continent": {
+    "banner_title": "Explore a América do Sul desde Portugal",
+    "banner_sub": "Encontre ofertas exclusivas de viagens, dicas e experiências emocionantes em cada canto da América do Sul com TICKETS.PT",
+
+    "intro_title": "Guia de Viagem pela América do Sul",
+    "intro_content": "Na TICKETS.PT, estamos comprometidos em tornar os seus sonhos de viagem pela América do Sul uma realidade. Desde paisagens impressionantes e cidades vibrantes até experiências culturais inesquecíveis, oferecemos uma maneira prática de comparar voos, encontrar as melhores ofertas e fazer escolhas informadas para a sua jornada. Quer esteja a caminho da exuberante Amazónia, das ruas movimentadas de Buenos Aires ou das praias cénicas do Brasil, comece a sua aventura com a TICKETS.PT!",
+
+    "winter_celsius": "-5°C a 15°C",
+    "winter_fahrenheit": "23°F a 59°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "15°C a 25°C",
+    "autumn_fahrenheit": "59°F a 77°F",
+
+    "timezone_range": "UTC-10 a UTC-3",
+    "timezone_note": "Vários fusos horários que cobrem uma vasta gama de paisagens e culturas",
+    "tourists_range": "37 milhões",
+    "tourists_note": "Dados de turismo pré-pandemia",
+    "demographics_countries": "12",
+    "demographics_population": "432 milhões",
+    "heritage_range": "100",
+    "heritage_note": "Sítios do Património Mundial da UNESCO",
+
+    "destinations_title": "Encontre as Melhores Ofertas para Voos para a América do Sul",
+    "destinations_description": "Com a TICKETS.PT, descubra rotas económicas, destinos escondidos e descontos exclusivos para voos pela América do Sul. Desde cidades icónicas a destinos remotos, trazemos-lhe as melhores opções de viagem para uma experiência memorável.",
+
+		"faq": {
+	    "1_answer": "A América do Sul oferece uma variedade de destinos deslumbrantes. Locais de destaque incluem Machu Picchu no Peru, o Cristo Redentor no Brasil, o charme colonial de Cartagena na Colômbia e as praias imaculadas de Punta del Este no Uruguai. Cada um proporciona uma experiência única e uma visão da rica tapeçaria cultural da América do Sul.",
+	    "2_answer": "Para voos económicos para a América do Sul, a TICKETS.PT permite-lhe comparar tarifas entre companhias aéreas e datas. Reservar com antecedência e viajar em datas flexíveis geralmente oferece os melhores preços. A nossa ferramenta de pesquisa também oferece alertas de tarifas para o manter atualizado sobre reduções de preços.",
+	    "3_answer": "A melhor época para reservar voos para a América do Sul depende do destino. Por exemplo, o verão (dezembro a fevereiro) é ótimo para as partes do sul, enquanto épocas intermédias, como abril ou outubro, têm menos multidões e preços mais baixos.",
+	    "4_answer": "As principais companhias aéreas que oferecem voos para a América do Sul incluem a TAP Air Portugal, LATAM, Iberia e American Airlines. Estas companhias proporcionam ligações frequentes e um serviço de qualidade para várias cidades do continente.",
+	    "5_answer": "Para encontrar voos acessíveis durante as épocas de pico, considere reservar com antecedência, viajar a meio da semana ou optar por voos pela manhã cedo. Usar a TICKETS.PT para configurar alertas de tarifas e comparar companhias aéreas garante que obtenha as melhores tarifas.",
+	    "6_answer": "A maioria dos países sul-americanos exige um passaporte válido com pelo menos seis meses de validade. Alguns destinos podem também pedir prova de viagem de retorno ou vacinação específica, como a febre amarela. Verifique sempre os requisitos de entrada antes de viajar.",
+	    "7_answer": "Locais imperdíveis na América do Sul incluem a Floresta Amazónica, as Cataratas do Iguaçu na fronteira entre Argentina e Brasil, o Salar de Uyuni na Bolívia, e as cidades vibrantes do Rio de Janeiro e Buenos Aires. Cada destino oferece maravilhas culturais e naturais únicas para explorar.",
+	    "8_answer": "Viajar dentro da América do Sul é fácil com grandes companhias aéreas como a LATAM e Avianca, além de transportadoras económicas como a Sky Airline. Para viagens mais cénicas, considere viagens terrestres de autocarro para distâncias mais curtas.",
+	    "9_answer": "Sim, a América do Sul conta com várias companhias aéreas de baixo custo, incluindo a JetSMART e a Flybondi, que oferecem voos acessíveis entre as principais cidades. A TICKETS.PT facilita a pesquisa destas opções e a comparação de preços.",
+	    "10_answer": "As orientações de viagem relacionadas com a COVID-19 variam de país para país. Muitos países da América do Sul podem exigir comprovativo de vacinação, um teste negativo ou quarentena na entrada. Consulte fontes oficiais ou verifique a TICKETS.PT para obter as informações mais recentes sobre requisitos de saúde e segurança.",
+	    "11_answer": "Para ofertas de última hora, a TICKETS.PT oferece uma forma eficiente de encontrar voos disponíveis a preços competitivos. Use a nossa plataforma para encontrar as melhores opções, mesmo para planos de viagem espontâneos.",
+	    "12_answer": "Ao viajar para a América do Sul, leve roupas leves, um bom par de sapatos para caminhar, um adaptador de energia e quaisquer vacinas necessárias para a viagem. Itens essenciais incluem repelente de insetos e protetor solar, especialmente para aventuras ao ar livre.",
+	    "13_answer": "Para poupar em alojamento, considere hostels, pousadas ou alugueres de férias económicos. A TICKETS.PT oferece acesso a várias opções de alojamento, garantindo que encontre um lugar que se adapte ao seu orçamento e necessidades.",
+	    "14_answer": "Para voos de longa duração para a América do Sul, a TAP Air Portugal, Iberia e Delta oferecem voos confortáveis com excelente serviço, permitindo-lhe chegar ao seu destino com estilo e conforto.",
+	    "15_answer": "Os voos de Portugal para a América do Sul variam de acordo com o destino. Voos diretos para o Brasil podem durar cerca de 10 horas, enquanto voos com escala para a Argentina ou Colômbia podem demorar mais, dependendo do tempo de escala.",
+	    "16_answer": "Para uma viagem económica, reserve os voos com antecedência, viaje na época baixa e aproveite os restaurantes locais. Use a TICKETS.PT para explorar opções e encontrar voos e alojamento económicos.",
+	    "17_answer": "Sim, estão disponíveis voos diretos de Portugal para o Brasil com a TAP Air Portugal. Para outros destinos na América do Sul, geralmente são necessários voos com escala, facilmente acessíveis com a TICKETS.PT.",
+	    "18_answer": "Alguns dos principais destinos costeiros na América do Sul incluem Copacabana no Brasil, Punta del Este no Uruguai e as belas praias do Caribe na Colômbia. Estes locais oferecem uma mistura de vistas deslumbrantes, vida noturna vibrante e charme local.",
+	    "19_answer": "Muitas companhias aéreas oferecem programas de milhas. Ao reservar com a TICKETS.PT, pode escolher voos que permitem acumular pontos em programas como o LATAM Pass, Aerolíneas Plus ou TAP Miles&Go para futuras recompensas de viagem.",
+	    "20_answer": "A faixa de preços para voos de Portugal para a América do Sul varia conforme a estação e o destino, geralmente entre €500 e €1.500. Para as melhores ofertas, compare voos antecipadamente na TICKETS.PT e fique atento a promoções."
+	  }
+	}
+}

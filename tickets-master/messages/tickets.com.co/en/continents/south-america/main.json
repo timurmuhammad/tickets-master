@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Colombia",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-5°C to 15°C",
+    "winter_fahrenheit": "23°F to 59°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "37 million",
+    "tourists_note": "Pre COVID-19 data",
+    "demographics_countries": "12",
+    "demographics_population": "432 million",
+    "heritage_range": "100",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+	  "faq": {
+	    "1_answer": "In South America, you should definitely visit iconic spots like Machu Picchu in Peru, the Amazon Rainforest, Christ the Redeemer in Brazil, the Atacama Desert in Chile, and Iguazu Falls on the Argentina-Brazil border. Each destination offers a unique cultural and natural experience.",
+	    "2_answer": "The easiest ways to find affordable flights to South America include using flight comparison tools like TICKETS, booking in advance, and keeping an eye on special deals during off-peak seasons. Set price alerts to catch the best fares.",
+	    "3_answer": "The ideal time to travel to South America depends on your destination. For the Amazon, it's best to go between May and September. For Patagonia, visit between December and March. The Andean regions are great from June to August, while Brazil’s beaches shine from December to March.",
+	    "4_answer": "Major airlines frequently flying to South America include Avianca, LATAM, Copa Airlines, American Airlines, and Iberia. These airlines offer direct and connecting flights from many global hubs to major cities across the continent.",
+	    "5_answer": "To find the best flight deals to South America during peak seasons, start searching months in advance, use flexible travel dates, and look for special offers from low-cost carriers. Consider flying mid-week for lower prices.",
+	    "6_answer": "Most countries in South America require a valid passport to enter. Some countries, like Brazil and Argentina, may require a visa for certain nationalities. Check the specific entry requirements for each country before booking your trip.",
+	    "7_answer": "Must-see tourist spots in South America include Machu Picchu, the Galápagos Islands, Rio de Janeiro’s beaches, Torres del Paine National Park, and Salar de Uyuni in Bolivia. These landmarks showcase the continent's diverse landscapes and rich heritage.",
+	    "8_answer": "The best options for traveling between countries in South America include flights, long-distance buses, and, in some cases, boat trips along the Amazon River. Regional airlines offer affordable connections between major cities.",
+	    "9_answer": "Yes, low-cost airlines such as Wingo, Viva Air, and JetSmart operate flights to and within South America. These carriers offer budget-friendly options for both domestic and international routes across the continent.",
+	    "10_answer": "Current COVID-19 guidelines for travelers to South America may vary by country. It's important to check the latest travel restrictions, vaccination requirements, and testing protocols for each destination before departure.",
+	    "11_answer": "For last-minute flight offers to South America, check TICKETS for up-to-date promotions, sign up for airline newsletters, and monitor price drops a few days before your intended travel date.",
+	    "12_answer": "Essentials for a trip to South America include a valid passport, comfortable clothing for varying climates, travel insurance, insect repellent for jungle areas, sun protection, and a power adapter for your electronics.",
+	    "13_answer": "To reduce accommodation costs in South America, consider staying in hostels, booking through platforms like Airbnb, or opting for budget hotels. Traveling during the off-season can also help you find better deals on lodging.",
+	    "14_answer": "Airlines offering the best long-distance flights to South America include LATAM, Avianca, American Airlines, and Iberia. These carriers provide comfortable international flights with a variety of amenities for long-haul travelers.",
+	    "15_answer": "The flight time from Colombia to South America’s major cities varies. For instance, Bogotá to Buenos Aires takes around 6 hours, while a flight to Rio de Janeiro takes about 5 hours. Flight duration depends on your specific destination.",
+	    "16_answer": "Top tips for budget-friendly travel in South America include booking flights and accommodation in advance, traveling by bus between destinations, eating at local restaurants, and avoiding peak tourist seasons for better prices.",
+	    "17_answer": "Yes, you can book non-stop flights from Colombia to many South American destinations, including cities like Buenos Aires, Santiago, and Lima. Major airlines like Avianca and LATAM offer direct routes to key cities across the continent.",
+	    "18_answer": "Some of the best coastal spots to visit in South America include the beaches of Rio de Janeiro, Brazil; the Galápagos Islands in Ecuador; Tayrona National Park in Colombia; and Punta del Este in Uruguay.",
+	    "19_answer": "You can earn airline rewards while flying to South America by joining frequent flyer programs such as Avianca’s LifeMiles or LATAM Pass. Be sure to enter your membership details when booking to accumulate miles for future flights.",
+	    "20_answer": "The typical price range for flights to South America varies based on the season and the destination. Flights from Colombia can start around $300 USD for nearby countries and go up to $1,200 USD for long-haul destinations during peak times."
+	  }
+	}
+}

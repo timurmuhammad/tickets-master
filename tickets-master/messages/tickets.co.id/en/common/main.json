@@ -1,0 +1,76 @@
+{
+  "header": {
+    "header_banner_text": "We are actively working on translating our content into additional languages. Thank you for your understanding and patience during this process!",
+    "bonus_title": "Earn Rewards as You Travel ✈️",
+    "bonus_sub": "Book flights with TICKETS.CO.ID and earn points for exclusive travel benefits and unbeatable savings 🎉!"
+  },
+  "home": {
+    "h1": "Find the Best Flight Deals in Indonesia and Beyond",
+    "top_destinations": "Top 2024 Travel Destinations from Indonesia",
+    "top_destinations_sub": "Book flights effortlessly and save big on popular routes across Asia and the world.",
+    "city_card_hover": "Looking for flights from {{destinationFrom}} to {{destinationTo}}? Click here for the best offers! 🚀",
+    "counter_subtitle": "With TICKETS.CO.ID, compare flights from top airlines in seconds. Find the perfect journey for your next adventure, all on one platform.",
+
+    "flights_near_you": "Affordable Flights from Airports Near You",
+    "flights_near_you_sub": "Discover the best deals departing from Indonesia's major airports, with seamless booking at your fingertips.",
+    "loading_affordable_flights": "Searching for unbeatable flight deals from your location...",
+    "no_flights_to_destination": "No flights available from {{destination1}} to {{destination2}}. Explore options from {{destination3}} instead.",
+
+    "continent_destinations_title": "Fly to Stunning International Destinations",
+    "continent_destinations_sub": "Access incredible deals on flights to global hotspots, with detailed options for routes and airlines.",
+
+    "partners_title": "Partnered with Leading Airlines Worldwide",
+
+    "about_title": "TICKETS.CO.ID: Your All-in-One Travel Solution",
+    "about_sub": "Find the best deals on flights, book amazing hotels, and plan your travel effortlessly—all in one place.",
+    "cheap_destinations_title": "Must-Grab Flight Deals for Popular Destinations",
+    "cheap_destinations_sub": "Explore exclusive offers on flights to your favorite cities across Indonesia, Southeast Asia, and beyond."
+  },
+  "flights": {
+    "flights_title": "Book Your Ideal Flight",
+    "intro_title": "Travel Smarter, Save Bigger",
+    "intro_descr": "TICKETS.CO.ID simplifies your flight search. Compare airlines, find the best deals, and book your journey with confidence."
+  },
+  "destinations": {
+    "destinations_title_part_1": "Explore",
+    "destinations_title_part_2": "Destinations",
+    "destinations_img_alt": "Discover Incredible Destinations with TICKETS.CO.ID",
+    "destinations_sub": "Find hidden treasures and iconic locations worldwide. Book affordable flights tailored to your needs!",
+    "seo_title": "Affordable Flights from Indonesia to Anywhere",
+    "seo_sub": "Unlock unbeatable deals on flights across Indonesia, Asia, and beyond.",
+    "seo_text_1": "Need affordable flights from Indonesia? TICKETS.CO.ID provides unbeatable prices for both local and international routes.",
+    "seo_text_2": "Travel smarter with TICKETS.CO.ID. Get exclusive deals on flights to top destinations in Indonesia and beyond. Experience seamless price comparison and booking.",
+    "seo_text_3": "Explore travel tips, budget-friendly destinations, and expert advice to make your journey unforgettable with TICKETS.CO.ID.",
+    "seo_text_4": "Planning a tropical escape to Bali or a city trip to Jakarta? TICKETS.CO.ID has the perfect flight deals waiting for you.",
+    "continents_title": "Discover Affordable Flights Worldwide",
+    "continents_sub": "Find top-flight deals to every continent, including Asia, Europe, and the Americas.",
+    "flights_title": "Flights for Every Journey",
+    "flights_sub": "Customize your search to find the best deals and ideal travel options for your next trip."
+  },
+  "destinations_country": {
+    "destinations_title": "Top Flights to {{country}}",
+    "destinations_description": "Explore budget-friendly flights to {{country}} with tailored travel recommendations just for you."
+  },
+  "destinations_city": {
+    "flights_search_banner": {
+      "banner_title": "Find the Best Flight Deals to {{destination}}",
+      "banner_description": "Browse hundreds of airlines to secure the lowest prices for your trip to {{destination}}."
+    },
+    "destinations_desc": "Plan your journey to {{city}} with unbeatable flight offers and take advantage of our flexible calendar for the best rates."
+  },
+  "404": {
+    "title": "Oops! Page Not Found",
+    "subtitle": "Sorry, the page you're looking for doesn't exist. Explore our menu or try searching for flights."
+  },
+  "alert": {
+    "best_price_guarantee_title": "Best Price Guarantee on TICKETS.CO.ID",
+    "best_price_guarantee_sub": "Book knowing you’re getting the best deals on flights, hotels, and more."
+  },
+  "pagination": {
+    "show_more_expensive_dates": "Check Flights on Other Dates"
+  },
+  "call_to_actions": {
+    "signup_title": "Never Miss the Best Flight Deals",
+    "signup_sub": "Subscribe to our newsletter and get exclusive travel offers straight to your inbox."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Discover South America with {{domain}} ✈️",
+      "description": "Plan your journey across South America with {{domain}}. Compare flight prices, find top destinations, explore cultural landmarks, and access budget-friendly travel deals."
+    }
+  },
+  "continent": {
+    "banner_title": "Experience the Wonders of South America",
+    "banner_sub": "Unlock exclusive flight deals and travel tips for your ultimate South American adventure with TICKETS.CO.ID.",
+
+    "intro_title": "Your Guide to South America Travel",
+    "intro_content": "South America offers a vibrant mix of culture, natural beauty, and adventure. Whether you're exploring the Amazon, hiking through Patagonia, or soaking in the urban charm of Buenos Aires, TICKETS.CO.ID helps you find the best flight deals and travel experiences across the continent.",
+
+    "winter_celsius": "-5°C to 15°C",
+    "winter_fahrenheit": "23°F to 59°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Spanning multiple time zones for a diverse experience",
+    "tourists_range": "37 million",
+    "tourists_note": "Based on pre-COVID-19 data",
+    "demographics_countries": "12",
+    "demographics_population": "432 million",
+    "heritage_range": "100",
+    "heritage_note": "Recognized UNESCO World Heritage Sites across South America",
+
+    "destinations_title": "Explore Unforgettable Destinations in South America",
+    "destinations_description": "From bustling cities to remote natural wonders, South America has something for every traveler. Use TICKETS.CO.ID to compare flights and create your perfect itinerary.",
+
+    "faq": {
+      "1_answer": "Finding the cheapest flights to South America is simple with TICKETS.CO.ID. Enter your travel details, and we compare fares from top airlines and budget carriers to find you the best prices.",
+      "2_answer": "The best time to book flights to South America is during off-peak seasons, such as April-May or September-October. Use our price alerts to stay updated on deals.",
+      "3_answer": "Major airlines like LATAM, Avianca, and American Airlines offer direct flights to South America. Use TICKETS.CO.ID to view available options and find the most convenient routes.",
+      "4_answer": "Yes, affordable budget airlines such as Sky Airline and JetSMART operate in South America, connecting you to top destinations without breaking the bank.",
+      "5_answer": "The peak travel season in South America depends on the region. Popular times include December to March for Patagonia and July to August for Machu Picchu. Plan ahead to secure the best deals.",
+      "6_answer": "Flight durations vary. Flights from North America or Europe to South America typically take 9-14 hours, while intercontinental flights within South America are shorter, averaging 2-6 hours.",
+      "7_answer": "Top destinations include Rio de Janeiro, Machu Picchu, Buenos Aires, Cartagena, and the Galápagos Islands. Each offers unique experiences, from stunning beaches to historic landmarks.",
+      "8_answer": "Traveling to South America typically requires a valid passport. Some countries may also require a visa or proof of vaccinations, such as Yellow Fever. Check the specific requirements for your destination.",
+      "9_answer": "Most airlines allow one carry-on bag and checked luggage, but policies vary. Check specific baggage rules when booking your flight on TICKETS.CO.ID to avoid surprises.",
+      "10_answer": "Yes, TICKETS.CO.ID lets you book multi-destination flights across South America. Easily compare prices and plan your trip to multiple cities in one seamless process.",
+      "11_answer": "Discover last-minute flight deals to South America on TICKETS.CO.ID by using our flexible date search tool. Act quickly to secure the best rates.",
+      "12_answer": "Airlines like Delta, LATAM, and Avianca are known for providing exceptional services for long-distance flights to South America, ensuring comfort and quality in transit.",
+      "13_answer": "Travel insurance is highly recommended when visiting South America. It covers unexpected events like medical emergencies, cancellations, or lost luggage, giving you peace of mind.",
+      "14_answer": "Visa requirements vary by country in South America. Some nations allow visa-free entry for certain passports, while others require prior application. Always confirm with your destination's embassy or consulate.",
+      "15_answer": "Non-stop flights to South America are available through TICKETS.CO.ID. Popular routes include direct services to major hubs like São Paulo, Buenos Aires, and Bogotá.",
+      "16_answer": "Must-see attractions include Iguazu Falls, the Amazon Rainforest, the Andes Mountains, and vibrant cities like Santiago and Lima. South America offers something for every traveler.",
+      "17_answer": "During high-demand seasons, book your flights early, be flexible with dates, and use TICKETS.CO.ID to monitor fare trends and grab the best deals.",
+      "18_answer": "Travel advisories and restrictions for South America vary by country. Check the latest updates on health and safety requirements before you travel.",
+      "19_answer": "Popular routes like flights over the Andes or along the Amazon River offer stunning aerial views. Book with airlines offering window seating for breathtaking landscapes.",
+      "20_answer": "The most convenient airports include São Paulo-Guarulhos International (GRU), El Dorado International in Bogotá (BOG), and Ministro Pistarini International in Buenos Aires (EZE)."
+    }
+  }
+}

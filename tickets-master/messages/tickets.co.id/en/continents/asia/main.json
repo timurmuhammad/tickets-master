@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore Asia with TICKETS.CO.ID ✈️",
+      "description": "Embark on an unforgettable journey through Asia with TICKETS.CO.ID. Discover top destinations, budget-friendly flights, cultural experiences, and the best travel tips to make your trip seamless and memorable."
+    }
+  },
+  "continent": {
+    "banner_title": "Discover Asia with TICKETS.CO.ID",
+    "banner_sub": "Exclusive deals and expert travel insights for your adventures across Asia.",
+
+    "intro_title": "The Ultimate Asia Travel Guide",
+    "intro_content": "Asia offers a captivating blend of ancient traditions, modern wonders, and breathtaking landscapes. TICKETS.CO.ID helps you navigate your dream trip with unbeatable flight options, budget-friendly deals, and expert travel tips.",
+
+    "winter_celsius": "-10°C to 10°C",
+    "winter_fahrenheit": "14°F to 50°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC+4 to UTC+10",
+    "timezone_note": "Multiple time zones covering diverse regions",
+    "tourists_range": "348.5 million",
+    "tourists_note": "International tourists visited in 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4.64 billion",
+    "heritage_range": "705",
+    "heritage_note": "UNESCO World Heritage Sites showcasing Asia’s cultural richness",
+
+    "destinations_title": "Find Your Perfect Flight to Asia",
+    "destinations_description": "Whether you're exploring the vibrant cities, serene beaches, or ancient landmarks of Asia, TICKETS.CO.ID connects you with the best flight options and travel insights for a hassle-free journey.",
+
+    "faq": {
+      "1_answer": "TICKETS.CO.ID helps you find the cheapest flights to Asia by comparing prices from top airlines and providers. Use our flexible date search and price alerts to ensure you grab the best deals to your favorite destinations.",
+      "2_answer": "Booking in advance is key for the lowest prices. The off-peak travel months, typically May to September for most Asian destinations, offer budget-friendly options. TICKETS.CO.ID’s fare tracker ensures you never miss out on discounts.",
+      "3_answer": "Major airlines like Garuda Indonesia, Singapore Airlines, and AirAsia offer direct flights to popular Asian cities. Use TICKETS.CO.ID to compare routes and find the most convenient options for your trip.",
+      "4_answer": "Yes, budget airlines such as AirAsia, Scoot, and Jetstar provide affordable flights to various Asian destinations. TICKETS.CO.ID allows you to compare prices and find cost-effective travel options without compromising quality.",
+      "5_answer": "The peak travel seasons in Asia vary by region, but December to February and June to August are typically the busiest. These months coincide with holidays and favorable weather conditions, so book early to secure the best flights.",
+      "6_answer": "Flight durations to Asia from Indonesia depend on the destination. For instance, flights to neighboring Southeast Asian countries take 2-4 hours, while trips to East Asia or South Asia may take 5-7 hours.",
+      "7_answer": "Top travel destinations in Asia include Bali, Tokyo, Bangkok, Seoul, and Kuala Lumpur. Each offers a unique blend of cultural heritage, culinary delights, and modern attractions, perfect for all types of travelers.",
+      "8_answer": "Travelers to Asia typically require a valid passport and, for some countries, a visa. Always check specific entry requirements for your destination and ensure you meet any additional health or safety protocols.",
+      "9_answer": "Baggage policies vary by airline, but most budget airlines offer limited free baggage, while premium carriers may include checked luggage. TICKETS.CO.ID provides baggage details during your flight comparison to avoid surprises.",
+      "10_answer": "Yes, TICKETS.CO.ID supports multi-destination bookings, allowing you to plan a comprehensive journey across Asia. Combine flights to visit multiple cities or countries seamlessly in one trip.",
+      "11_answer": "Check TICKETS.CO.ID regularly for last-minute deals to Asia. Our platform highlights discounts and promotional fares, perfect for spontaneous travelers looking for affordable options.",
+      "12_answer": "Premium airlines like Singapore Airlines, Qatar Airways, and Emirates are ideal for long-distance flights to Asia. They provide exceptional service, comfortable seating, and seamless connections for international travel.",
+      "13_answer": "Travel insurance is highly recommended for trips to Asia. It provides coverage for unexpected events such as flight delays, medical emergencies, or trip cancellations, ensuring peace of mind throughout your journey.",
+      "14_answer": "Visa requirements vary by nationality and destination in Asia. Check the official government websites or consult with your local embassy to ensure you have the necessary documents for travel.",
+      "15_answer": "Non-stop flights are available to many Asian cities, particularly in Southeast Asia. TICKETS.CO.ID simplifies the search for direct routes, saving you time and offering the best convenience for your journey.",
+      "16_answer": "Asia is filled with must-see attractions like Angkor Wat in Cambodia, Mount Fuji in Japan, and the beaches of Bali. Discover historical landmarks, natural wonders, and bustling markets on your travels.",
+      "17_answer": "Finding affordable flights during high-demand seasons is possible with TICKETS.CO.ID. Set fare alerts, explore flexible travel dates, and consider nearby airports to secure the best deals for peak seasons.",
+      "18_answer": "Stay updated with travel advisories for Asia through official government sources. TICKETS.CO.ID highlights essential information to help you plan a safe and smooth journey to your chosen destination.",
+      "19_answer": "Flight routes over Asia offer stunning views, especially when flying over the Himalayas, Indonesia's islands, or Japan's Mount Fuji. Choose window seats for breathtaking aerial experiences.",
+      "20_answer": "Major airports in Asia include Changi Airport in Singapore, Suvarnabhumi Airport in Bangkok, and Narita International Airport in Tokyo. These hubs provide excellent connectivity and amenities for travelers."
+    }
+  }
+}

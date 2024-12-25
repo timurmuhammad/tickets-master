@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C to 10°C",
+    "winter_fahrenheit": "14°F to 50°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC+4 to UTC+10",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "348.5 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4.64 billion",
+    "heritage_range": "705",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "Asia is home to an array of breathtaking destinations you shouldn't miss. From the bustling cityscapes of Tokyo and Bangkok to the serene beaches of Bali and the historical wonders of Angkor Wat in Cambodia, each offers a unique experience. Don’t skip places like the Great Wall in China, Kyoto's temples in Japan, or India’s Taj Mahal for unforgettable memories.",      
+      "2_answer": "To find affordable flights to Asia, start by searching in advance and using TICKETS.AR’s price comparison tools. Look for flights during off-peak seasons and consider booking on weekdays. Flexible dates can often lead to cheaper options, and subscribing to our alerts ensures you don’t miss out on exclusive deals!",      
+      "3_answer": "The best time to visit Asia depends on your destination. For most regions, November to March offers mild, pleasant weather. Southeast Asia is ideal in the winter months, while northern countries like Japan and South Korea are beautiful in the spring and autumn seasons.",      
+      "4_answer": "Several top airlines frequently operate flights from Argentina to Asia, including Emirates, Qatar Airways, Turkish Airlines, and LATAM. These carriers are known for their quality service and extensive networks connecting major Asian cities.",      
+      "5_answer": "During peak seasons, finding a good deal can be tricky. Use TICKETS.AR to set fare alerts for your preferred routes, book as early as possible, and consider flying mid-week. Flexibility with nearby airports may also help secure better rates.",      
+      "6_answer": "To enter most Asian countries, you'll need a valid passport, and some may require a visa or travel permit depending on your nationality. Always check the entry requirements for your specific destination to ensure smooth travel.",      
+      "7_answer": "Asia boasts numerous must-see spots! From the cultural landmarks of Kyoto and the bustling streets of Bangkok to the tropical paradise of the Maldives and the mystical landscapes of Bagan in Myanmar, there’s something for every traveler. Don’t forget places like Vietnam's Ha Long Bay and Seoul’s vibrant city life.",      
+      "8_answer": "Traveling between countries in Asia is convenient with options like budget airlines, high-speed trains, and even ferry services for close destinations. Airlines like AirAsia and Scoot offer affordable flights, while trains in Japan, China, and Southeast Asia provide scenic routes.",      
+      "9_answer": "Yes, Asia has several low-cost airlines, including AirAsia, Scoot, and Jetstar, that provide affordable flights within and to Asia. Use TICKETS.AR to find budget-friendly options and compare prices for the best deals.",      
+      "10_answer": "COVID-19 guidelines vary by country and may include vaccine requirements, testing, or quarantine upon arrival. Check with official travel advisories for the latest updates and be prepared with necessary documentation and safety measures.",      
+      "11_answer": "For last-minute deals, check TICKETS.AR frequently as we highlight any discounted fares available close to the travel date. Booking apps and alerts are useful for grabbing last-minute offers to popular Asian destinations.",      
+      "12_answer": "Essentials for a trip to Asia include a power adapter, comfortable shoes, weather-appropriate clothing, and basic medical supplies. Be sure to carry a secure bag, copies of travel documents, and necessary medications, as certain items may be harder to find locally.",      
+      "13_answer": "To save on accommodation in Asia, consider budget hotels, hostels, or short-term rentals. Apps like Airbnb or Agoda often offer discounts, and staying in less touristy areas can lead to significant savings.",      
+      "14_answer": "Top airlines for long-haul flights to Asia include Emirates, Qatar Airways, and Turkish Airlines. These airlines provide excellent amenities, layover options, and services for a comfortable journey from Argentina to Asia.",      
+      "15_answer": "Flight times from Argentina to Asia vary based on your destination and layovers but generally range from 24 to 30 hours. Direct flights are limited, so expect at least one or two stopovers on most routes.",      
+      "16_answer": "For budget-friendly travel in Asia, eat local, use public transport, and explore free or low-cost attractions like markets, temples, and beaches. Also, negotiate prices in markets, and consider affordable accommodation like hostels or guesthouses.",    
+      "17_answer": "Currently, there are limited non-stop flights from Argentina to Asia, but many airlines offer one-stop or two-stop routes through hubs like Doha, Istanbul, or Dubai, making the journey easier and often more affordable.",      
+      "18_answer": "Asia’s coastal gems include Thailand’s Phuket, the beaches of Bali in Indonesia, and the stunning islands of the Philippines, such as Palawan and Boracay. Vietnam’s Da Nang and Japan’s Okinawa are also beautiful seaside destinations.",      
+      "19_answer": "To earn airline rewards when flying to Asia, join frequent flyer programs like Emirates Skywards, Qatar Privilege Club, or LATAM Pass. Many airlines also offer points through partner credit cards, making it easy to accumulate miles.",      
+      "20_answer": "The price range for flights to Asia from Argentina varies widely based on the season, demand, and layovers, but expect fares to start around $1,000 USD for round trips. Use TICKETS.AR to monitor prices and secure the best deal for your journey."
+    }
+  }
+}

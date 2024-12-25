@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+  
+    "winter_celsius": "-20°C to 10°C",
+    "winter_fahrenheit": "-4°F to 50°F",
+    "spring_celsius": "0°C to 20°C",
+    "spring_fahrenheit": "32°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "137.9 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "23",
+    "demographics_population": "579 million",
+    "heritage_range": "23",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+    "faq": {
+      "1_answer": "North America is full of diverse attractions! Be sure to visit New York City’s iconic landmarks, explore Los Angeles’ beaches and vibrant culture, experience the history in Washington D.C., and witness the natural beauty of the Grand Canyon. Canada’s Banff National Park and Mexico’s Cancún beaches are also must-sees for any traveler.",
+      "2_answer": "To find affordable flights to North America, use TICKETS.AR to compare airlines, look for flexible dates, and set price alerts. Traveling mid-week or booking in advance often leads to lower prices. Keep an eye out for special promotions on our site, especially during off-peak seasons!",
+      "3_answer": "The ideal time to visit North America depends on your destination. Generally, spring (April to June) and fall (September to November) offer pleasant weather and fewer tourists. Winter is perfect for ski destinations like Colorado, while summer is ideal for beach locations like Miami and Mexico’s Riviera Maya.",
+      "4_answer": "Major airlines that frequently fly to North America from Argentina include American Airlines, United Airlines, Aeroméxico, and Delta Airlines. These airlines offer both direct and connecting flights, giving you flexibility in your travel plans.",
+      "5_answer": "To find the best deals during peak seasons, book your flights early and be flexible with your dates. TICKETS.AR allows you to compare fares across multiple airlines, helping you secure the most affordable options even during high-demand periods like summer and winter holidays.",
+      "6_answer": "When traveling to North America, you’ll need a valid passport, and in some cases, a visa or an Electronic Travel Authorization (ETA) for certain countries. Make sure to check specific entry requirements based on your nationality and destination.",
+      "7_answer": "In North America, iconic tourist spots include the Statue of Liberty in New York, Hollywood in Los Angeles, Niagara Falls on the US-Canada border, and the beaches of Tulum, Mexico. For nature lovers, Yosemite National Park and the Rocky Mountains are also must-visit destinations.",
+      "8_answer": "For traveling between North American countries, consider flights by low-cost airlines for quick travel or explore train options like Amtrak for scenic routes in the U.S. Car rentals are also popular for road trips, offering flexibility and the chance to see more along the way.",
+      "9_answer": "Yes, several low-cost airlines operate flights to North America, including JetBlue, Southwest Airlines, and Frontier. Use TICKETS.AR to find and compare these budget options to make your trip more affordable.",
+      "10_answer": "COVID-19 guidelines for travel to North America vary by country and may include proof of vaccination, negative test results, or additional documentation. Check official government websites or TICKETS.AR for the latest travel requirements before you book your trip.",
+      "11_answer": "For last-minute deals to North America, visit TICKETS.AR and use our search feature to compare prices across airlines. Last-minute offers are frequently available, particularly during off-peak times and for flights with flexible schedules.",
+      "12_answer": "Essentials for a trip to North America include comfortable clothing, travel documents, chargers, and weather-appropriate gear. If visiting in winter, bring warm layers, while summer destinations call for sun protection and beach essentials.",
+      "13_answer": "To save on accommodation in North America, consider booking through budget-friendly platforms, staying in hostels, or exploring short-term rental options. Booking in advance and traveling off-season can also reduce costs. Check TICKETS.AR for hotel deals and packages.",
+      "14_answer": "For long-distance flights to North America, airlines such as Delta, American Airlines, and United offer comfortable amenities and excellent service. TICKETS.AR can help you find the best options for long-haul flights, including those with premium services for added comfort.",
+      "15_answer": "Flight durations from Argentina to North America vary by destination. For example, flights from Buenos Aires to Miami take approximately 9 hours, while flights to New York can take around 11 hours. TICKETS.AR provides flight details, including travel times, for easy planning.",
+      "16_answer": "For budget-friendly travel in North America, use public transportation, book flights in advance, dine at local eateries, and look for free or discounted activities. Cities like Washington D.C. and museums in New York offer free admissions on certain days.",
+      "17_answer": "Yes, you can book non-stop flights from Argentina to North American destinations like Miami and Houston. TICKETS.AR makes it easy to find and filter for non-stop options, saving you time on long-haul trips.",
+      "18_answer": "North America boasts stunning coastal spots. Top picks include Miami Beach, Florida; Tulum, Mexico; and the coastlines of California. Canada’s Vancouver and Hawaii’s Oahu also offer breathtaking coastal experiences ideal for relaxation and exploration.",
+      "19_answer": "Many airlines offer reward programs where you can earn miles for flights to North America. Consider joining loyalty programs with airlines like Delta SkyMiles or American Airlines AAdvantage to accumulate points, redeemable for discounts on future flights.",
+      "20_answer": "Flight prices to North America vary widely depending on factors like season, demand, and booking time. On average, flights from Argentina range from $800 to $1,500 USD. TICKETS.AR lets you compare prices, helping you find the best deal based on your preferences."
+    }
+  }
+}

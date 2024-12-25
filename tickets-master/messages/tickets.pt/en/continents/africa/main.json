@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore Africa with TICKETS ✈️",
+      "description": "Plan an unforgettable journey through Africa with TICKETS.PT. Discover top destinations, cultural treasures, budget-friendly flights, and more with exclusive travel deals and seamless booking options."
+    }
+  },
+  "continent": {
+    "banner_title": "Discover Africa from Portugal",
+    "banner_sub": "Get exclusive deals, insightful guides, and explore breathtaking landscapes across Africa",
+
+    "intro_title": "Africa Travel Guide",
+    "intro_content": "Africa awaits with unforgettable landscapes, rich history, and diverse cultures. With TICKETS.PT, planning your adventure has never been easier. Compare flights from top airlines, find budget-friendly options, and explore everything Africa offers with confidence.",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 30°C",
+    "spring_fahrenheit": "59°F to 86°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 30°C",
+    "autumn_fahrenheit": "59°F to 86°F",
+
+    "timezone_range": "UTC-1 to UTC+4",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "67.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "54",
+    "demographics_population": "1.37 billion",
+    "heritage_range": "154",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find Unbeatable Flight Deals to Africa",
+    "destinations_description": "Explore the best routes and affordable travel options to Africa’s most captivating destinations. Whether you're after adventure, wildlife, or cultural experiences, TICKETS.PT has you covered.",
+
+    "faq": {
+      "1_answer": "Some of Africa's top destinations include Cape Town in South Africa, known for its iconic Table Mountain and scenic beaches; the Pyramids of Giza in Egypt; the lush Okavango Delta in Botswana; Marrakech in Morocco; and the majestic Victoria Falls along the Zambia-Zimbabwe border.",
+      "2_answer": "To find budget-friendly flights to Africa, use TICKETS.PT’s flexible date tool, book well in advance, and consider flying mid-week. You can also set up alerts to track price drops for your desired routes.",
+      "3_answer": "Generally, the dry season from May to October is ideal for wildlife viewing, especially in East and Southern Africa. For North African countries like Morocco and Egypt, the cooler months from November to March offer pleasant travel conditions.",
+      "4_answer": "Leading airlines with frequent flights to Africa include Emirates, Qatar Airways, Turkish Airlines, and Ethiopian Airlines. They provide extensive networks across the continent, making travel both flexible and accessible.",
+      "5_answer": "To secure affordable flights during high-demand periods, try booking as early as possible, using TICKETS.PT’s comparison tool, and being open to layovers. Flexible travel dates can also help you find better prices.",
+      "6_answer": "Typically, travelers to African countries need a valid passport and, in some cases, a tourist visa. Some destinations may also require proof of vaccinations, such as yellow fever. Check entry requirements for your specific destination in advance.",
+      "7_answer": "Top attractions in Africa include the Serengeti and Maasai Mara for safaris, the bustling markets of Marrakech, the ancient ruins of Egypt, Victoria Falls, and the beaches of Zanzibar. Each location offers unique and unforgettable experiences.",
+      "8_answer": "For travel between African countries, major airlines like Kenya Airways and South African Airways offer reliable routes. For shorter distances, look into bus and train options, particularly in well-connected countries like South Africa.",
+      "9_answer": "Yes, several budget airlines operate in Africa, such as FlySafair in South Africa, Fastjet in East Africa, and Mango Airlines. TICKETS.PT allows you to compare prices from budget and major carriers to find the best deal.",
+      "10_answer": "Health and safety guidelines vary by country. Many require proof of COVID-19 vaccination or a recent negative test. Stay informed of entry requirements before departure to ensure a smooth journey.",
+      "11_answer": "TICKETS.PT provides a last-minute deals feature that helps you locate discounted flights close to your travel dates. Keep an eye on our site for real-time updates on available seats and pricing.",
+      "12_answer": "When packing for Africa, consider essentials like a valid passport, travel insurance, lightweight and breathable clothing, sunscreen, insect repellent, and a first-aid kit. Tailor your packing to the specific region you’ll visit, as climate varies.",
+      "13_answer": "To save on accommodation in Africa, consider staying in local guesthouses, hostels, or eco-lodges. Booking in advance, using platforms like Airbnb, or choosing off-peak travel dates can also help keep costs down.",
+      "14_answer": "Emirates, Qatar Airways, and Turkish Airlines are some of the best choices for long-haul flights to Africa. These carriers offer high-quality service, comfort, and extensive route options.",
+      "15_answer": "The flight time from Portugal to Africa varies widely by destination. Direct flights to northern Africa can take around 4-5 hours, while flights to Southern Africa often include layovers and may take 10-15 hours.",
+      "16_answer": "To enjoy a budget-friendly African trip, use TICKETS.PT for affordable flights, opt for local eateries, stay in budget accommodations, and consider public transportation or group tours to save on travel expenses.",
+      "17_answer": "Direct flights from Portugal to Africa are available to northern regions like Morocco and Tunisia. For other parts of Africa, flights often include layovers, typically in European or Middle Eastern hubs.",
+      "18_answer": "Africa’s coastline offers beautiful locations like the beaches of Cape Town, Zanzibar, the Red Sea in Egypt, and the island of Mauritius. These areas are perfect for relaxation, water sports, and exploring marine life.",
+      "19_answer": "Join frequent flyer programs from airlines serving Africa, such as Emirates Skywards, Qatar Privilege Club, or Turkish Miles&Smiles, to earn points and save on future flights.",
+      "20_answer": "Flight costs to Africa range from approximately €600 to €1,500 for round-trip fares, depending on season, destination, and airline. Booking early and using TICKETS.PT’s comparison tools can help you secure the best prices."
+    }
+  }
+}

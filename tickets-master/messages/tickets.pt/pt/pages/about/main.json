@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Melhores Ofertas de Voos com {{appName}}",
+    "hero_sub": "Uma experiência de reserva perfeita para voos em Portugal e além",
+    "hero_imgAlt": "Saiba mais sobre {{appName}}",
+
+    "content": "No {{appName}}, estamos empenhados em tornar o planeamento de viagens simples, acessível e económico para todos em Portugal. A nossa plataforma conecta-o com as melhores opções de voos, permitindo que pesquise, compare e reserve voos num só lugar. Quer a sua viagem seja para uma cidade próxima ou para o outro lado do mundo, o {{appName}} oferece uma experiência de reserva intuitiva e fluida, poupando-lhe tempo e garantindo o melhor valor. Encontre facilmente o voo que corresponde ao seu orçamento, horário e preferências no {{appName}}.",
+
+    "quote": "A nossa missão: Capacitar os viajantes, oferecendo uma maneira transparente, fácil e acessível de encontrar o voo ideal. Deixe que o {{appName}} o guie na sua próxima aventura!",
+    "quote_imgAlt": "Viajante entusiasmado com cartão de embarque e mala no aeroporto",
+
+    "content_title": "Por Que Confiar no {{appName}} para a Sua Próxima Viagem?",
+    "content_sub": "A Principal Plataforma de Pesquisa e Comparação de Voos de Portugal",
+    "content_description_1": "Encontrar o voo certo pode ser complicado, com tantas opções para considerar. No {{appName}}, simplificamos esse processo reunindo dados das principais companhias aéreas de Portugal e fornecedores internacionais, apresentando-lhe opções fáceis de comparar para qualquer destino. Quer viaje dentro do país ou para o estrangeiro, o {{appName}} garante que encontra os melhores voos a preços imbatíveis.",
+    "content_description_2": "As nossas funcionalidades avançadas de pesquisa agregam resultados de uma vasta rede de parceiros aéreos e de viagem, para que possa comparar não apenas preços, mas também condições, horários e comodidades. Com o {{appName}}, terá sempre as opções mais convenientes e acessíveis ao seu alcance, com o apoio de uma plataforma que valoriza a sua experiência de viagem e tranquilidade.",
+    "content_imgAlt": "Mapa ilustrando rotas de voos globais e conexões a partir de Portugal",
+
+    "counter_1": "Principais Fornecedores",
+    "counter_2": "Destinos no Mundo",
+    "counter_3": "Pesquisas Anuais",
+    "counter_4": "Apoio 24/7"
+  }
+}

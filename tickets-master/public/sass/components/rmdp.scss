@@ -1,0 +1,191 @@
+// react multi date picker
+// https://www.npmjs.com/package/react-multi-date-picker
+
+.custom_container-picker {
+    display: flex !important;
+}
+
+.custom_input-picker {
+    padding: 0;
+    margin: 0;
+    color: var(--color-dark-1);
+    line-height: 1.6;
+    font-size: 15px;
+    &:focus {
+        border: none;
+        box-shadow: none;
+    }
+    caret-color: transparent;
+    cursor: pointer;
+}
+
+.custom_confirm-picker {
+    position: absolute;
+    opacity: 0;
+    right: 0;
+    bottom: 4px;
+
+    &.show {
+        opacity: 1;
+    }
+
+    @include media-below(md) {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+.input-cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.rmdp-shadow {
+    box-shadow: none !important;
+}
+
+.rmdp-header {
+    font-size: 16px !important;
+}
+
+@media (min-width: 1300px) {
+    .rmdp-header-values {
+        font-size: 18px;
+    }
+}
+
+// date range active
+.rmdp-range {
+    background-color: var(--color-dark-4) !important;
+    box-shadow: 0 0 3px #000 !important;
+}
+.rmdp-range-hover {
+    background-color: var(--color-border) !important;
+    color: var(--color-dark-1) !important;
+}
+.rmdp-range-hover.start, .rmdp-range.start {
+    border-bottom-left-radius: 20% !important;
+    border-top-left-radius: 20% !important;
+}
+.rmdp-range-hover.end, .rmdp-range.end {
+    border-bottom-right-radius: 20% !important;
+    border-top-right-radius: 20% !important;
+}
+
+.rmdp-week-day {
+    color: var(--color-dark-1) !important;
+}
+
+.rmdp-day, .rmdp-week-day {
+    height: 40px !important;
+    width: 40px !important;
+}
+
+@media (max-width: 600px) {
+    .rmdp-day, .rmdp-week-day {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    .rmdp-day span {
+        font-size: 14px !important;
+    }
+    .rmdp-day .rmdp-price {
+        font-size: 11px !important;
+        bottom: -4px !important;
+    }
+}
+
+.rmdp-day .has-price {
+    bottom: 16px;
+    top: 0px;
+}
+
+.rmdp-price {
+    color: color-opac(dark-1, 0.7);;
+    margin-top: 25px;
+}
+.rmdp-price.price-below-average {
+    color: var(--color-blue-4);
+}
+.rmdp-range .rmdp-price.price-below-average {
+    color: var(--color-blue-3);
+}
+.rmdp-price.price-cheapest {
+    color: var(--color-green-2);
+}
+.rmdp-range .rmdp-price.price-cheapest {
+    color: var(--color-green-3);
+}
+.rmdp-selected .rmdp-price, .rmdp-range .rmdp-price {
+    color: var(--color-white);
+}
+
+.rmdp-date, .rmdp-price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 20%;
+    bottom: 3px;
+    font-size: 14px;
+    left: 3px;
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.rmdp-day.rmdp-today:not(.rmdp-range) {
+    background-color: var(--color-dark-3) !important;
+}
+.rmdp-day.rmdp-today:not(.start):not(.end) {
+    border-radius: 20%;
+}
+
+.rmdp-day.rmdp-selected {
+    background-color: var(--color-dark-4) !important;
+    border-radius: 20%;
+}
+.rmdp-day.rmdp-selected span:not(.highlight) {
+    background-color: var(--color-dark-4) !important;
+    box-shadow: none !important;
+}
+.rmdp-day:not(.rmdp-disabled):not(.rmdp-day-hidden) span {
+    background-color: transparent !important;
+}
+
+.rmdp-day:not(.rmdp-disabled):not(.rmdp-day-hidden):not(.rmdp-range):hover {
+    background-color: var(--color-dark-4) !important;
+    border-radius: 20%;
+    color: #fff;
+}
+.rmdp-day:not(.rmdp-disabled):not(.rmdp-day-hidden):not(.rmdp-range):hover .rmdp-price, .rmdp-day:not(.rmdp-disabled):not(.rmdp-day-hidden) span:hover .rmdp-price {
+    color: #fff;
+}
+.rmdp-day.rmdp-today span,
+.rmdp-arrow-container:hover {
+    background-color: var(--color-dark-4) !important;
+}
+.rmdp-day.rmdp-today:hover span,
+.rmdp-day.rmdp-today.rmdp-range span {
+    background-color: var(--color-dark-4) !important;
+}
+
+.rmdp-ep-arrow {
+    display: none !important;
+}
+
+.rmdp-arrow {
+    margin-top: 7px !important;
+    border: solid #fff !important;
+    border-width: 0 2px 2px 0 !important;
+}
+.rmdp-arrow-container.rmdp-right, .rmdp-arrow-container.rmdp-left {
+    background-color: var(--color-dark-4) !important;
+}

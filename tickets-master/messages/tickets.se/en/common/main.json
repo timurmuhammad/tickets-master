@@ -1,0 +1,79 @@
+{
+  "header": {
+    "header_banner_text": "We are translating into multiple languages. Thank you for your patience.",
+    "bonus_title": "Earn Travel Rewards 💎 with TICKETS",
+    "bonus_sub": "Get rewarded with coins 🪙 when you book flights through our advanced search engine"
+  },
+  "home": {
+    "h1": "Compare Cheap Flights Across Sweden and Scandinavia",
+    "top_destinations": "Top 2024 Destinations in Scandinavia",
+    "top_destinations_sub": "Easily book flights with the best deals on our flight search platform",
+    "city_card_hover": "Curious about ticket prices from {{destinationFrom}} to {{destinationTo}}? Just click here! 🔥",
+    "counter_subtitle": "Check out the intuitive flight comparison platform at {{name}}. Analyze prices, routes, and travel choices from all providers and airlines, all gathered in one easy-to-navigate view for your upcoming adventure",
+
+    "flights_near_you": "Affordable Flights from Nearby Airports",
+    "flights_near_you_sub": "Automatically locate the cheapest flights departing from airports near you, including popular destinations in Sweden, Denmark, Norway, and Finland",
+    "loading_affordable_flights": "Loading affordable flights near your location...",
+    "no_flights_to_destination": "We couldn't find any flights from {{destination1}} to {{destination2}}. Displaying options from {{destination3}}",
+
+    "continent_destinations_title": "Explore the Best Flights Across Continents",
+    "continent_destinations_sub": "Discover cheap flights for intercontinental travel with information on pricing and routes to various destinations",
+
+    "partners_title": "Partnering with Top Providers Worldwide",
+
+    "about_title": "Your Gateway to Affordable Travel: Book Flights, Hotels, and More with Ease",
+    "about_sub": "Planning your next adventure is easier than ever with our flight aggregator. From the best deals on flights to top-rated hotels, we've got everything covered for your dream getaway.",
+    "cheap_destinations_title": "Flights to Our Favorite Cities",
+    "cheap_destinations_sub": "Take advantage of our unbeatable flight offers to the cities you love in Sweden and beyond"
+  },
+  "flights": {
+    "flights_title": "Find Your Ideal Flight",
+    "intro_title": "Fly Smart, Travel Far",
+    "intro_descr": "Search, Compare, and Book with {{name}} - Your Trusted Flight Aggregator for Scandinavian Travel"
+  },
+  "destinations": {
+    "destinations_title_part_1": "Discover",
+    "destinations_title_part_2": "New Horizons",
+    "destinations_img_alt": "Scandinavian and Global Destinations",
+    "destinations_sub": "Discover Hidden Treasures and Score Budget-Friendly Flights to Breathtaking Locations!",
+    "seo_title": "Find Cheap Flights to Scandinavia and Beyond",
+    "seo_sub": "Explore our dedicated pages for unbeatable deals on flights across Scandinavia and the world.",
+    "seo_text_1": "Experience the magic of Scandinavia without overspending. Our platform helps you find the cheapest flights to major cities and hidden gems alike, from Stockholm to the Lofoten Islands.",
+    "seo_text_2": "TICKETS.SE is your gateway to affordable travel across Scandinavia. Our flight comparison tool offers the best prices on routes across Sweden, Denmark, Norway, and Finland.",
+    "seo_text_3": "We provide more than just cheap flights! Explore tips on the best times to travel, most budget-friendly cities, and more, ensuring your Scandinavian travel experience is smooth and affordable.",
+    "seo_text_4": "Whether you're planning a city break in Copenhagen or a nature escape in Swedish Lapland, TICKETS.SE has you covered with unbeatable flight deals. Start exploring today!",
+    "continents_title": "Discover Affordable Flights on Every Continent",
+    "continents_sub": "Find budget-friendly flights to all corners of the globe, including popular destinations across Scandinavia.",
+    "flights_title": "Flights for Every Journey",
+    "flights_sub": "Use our advanced search tools to customize your travel experience and find the best flights for your Scandinavian adventure"
+  },
+  "destinations_country": {
+    "destinations_title": "Find the Cheapest Flights to {{country}}",
+    "destinations_description": "Discover the best flight deals to explore {{country}}, with curated recommendations for affordable destinations"
+  },
+  "destinations_city": {
+    "flights_search_banner": {
+      "banner_title": "Find the Cheapest Tickets to {{destination}} with Ease!",
+      "banner_description": "We search over 1200 flight providers to bring you the best deals for your next trip to {{destination}}"
+    },
+    "destinations_desc": "We offer incredible deals for your chosen travel dates to {{city}}. Browse our calendar below for the best prices and begin planning your adventure today!"
+  },
+  "404": {
+    "title": "You seem to be lost",
+    "subtitle": "The page you're looking for isn't available. Try searching again or use our navigation menu."
+  },
+  "badges": {
+    "flight_deals_badge": "from €10"
+  },
+  "alert": {
+    "best_price_guarantee_title": "Get the Best Price Guarantee with TICKETS.SE",
+    "best_price_guarantee_sub": "Book with confidence knowing you’re getting the best deals on flights and more."
+  },
+  "pagination": {
+    "show_more_expensive_dates": "Show Flights on More Expensive Dates"
+  },
+  "call_to_actions": {
+    "signup_title": "Get Exclusive Deals and Travel Smarter",
+    "signup_sub": "Sign up today to unlock the best offers for your travels."
+  }
+}

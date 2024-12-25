@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "De mest stilte spørsmålene om flyreiser til {{continent}}",
+    "faq": {
+      "1": "Hva er de beste reisemålene i {{title}}?",
+      "2": "Hvordan kan jeg finne billige flyreiser til {{title}}?",
+      "3": "Når er den beste tiden å besøke {{title}}?",
+      "4": "Hvilke flyselskaper er mest populære for flyreiser til {{title}}?",
+      "5": "Hvordan kan jeg bestille en multi-city-flyvning gjennom {{title}}?",
+      "6": "Hva er visumkravene for å reise til land i {{title}}?",
+      "7": "Hva er de beste turistattraksjonene i {{title}}?",
+      "8": "Hvordan kan jeg reise mellom land i {{title}}?",
+      "9": "Finnes det lavprisselskaper som flyr til {{title}}?",
+      "10": "Hva er COVID-19-reiserestriksjonene for {{title}}?",
+      "11": "Hvordan finner jeg siste liten-tilbud på flyreiser til {{title}}?",
+      "12": "Hva bør jeg pakke for en tur til {{title}}?",
+      "13": "Hvordan kan jeg spare penger på overnatting i {{title}}?",
+      "14": "Hva er de beste flyselskapene for langdistanseflyvninger til {{title}}?",
+      "15": "Hvor lang tid tar det å fly til {{title}} fra Sverige?",
+      "16": "Hva er den beste måten å utforske {{title}} på budsjett?",
+      "17": "Finnes det direktefly fra Sverige til {{title}}?",
+      "18": "Hva er de beste stranddestinasjonene i {{title}}?",
+      "19": "Hvordan kan jeg tjene bonuspoeng når jeg reiser til {{title}}?",
+      "20": "Hva er gjennomsnittsprisen for flyreiser til {{title}}?"
+    }
+  }
+}

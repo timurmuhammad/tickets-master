@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Descubre Qué Hace Único a {{appName}}",
+    "hero_sub": "Disfruta de una planificación de viajes fluida y asequible con ofertas imbatibles en vuelos por Argentina y el mundo.",
+    "hero_imgAlt": "Conoce más sobre {{appName}}",
+
+    "content": "En {{appName}}, creemos que viajar debe ser fácil, accesible y asequible para todos. Nuestra plataforma está dedicada a ayudarte a encontrar las mejores opciones de vuelos, proporcionando una herramienta completa de búsqueda y comparación para vuelos dentro de Argentina y a nivel mundial. Con {{appName}}, puedes comparar precios, verificar la disponibilidad de vuelos y descubrir las mejores ofertas en un solo lugar. Ya sea que viajes localmente o al extranjero, {{appName}} garantiza una experiencia de reserva fluida y transparente en cada ocasión.",
+
+    "quote": "Nuestra misión es simple: hacer que viajar sea accesible, asequible y agradable. Deja que {{appName}} sea tu compañero de confianza en tu próximo viaje.",
+    "quote_imgAlt": "Viajero listo para una aventura con pase de abordar y pasaporte en mano",
+
+    "content_title": "Por Qué Elegir {{appName}}",
+    "content_sub": "Tu Plataforma de Búsqueda y Comparación de Vuelos de Confianza",
+    "content_description_1": "Entendemos que encontrar el vuelo adecuado puede ser abrumador, especialmente con tantas opciones disponibles. {{appName}} simplifica este proceso al recopilar toda la información relevante sobre vuelos, precios y opciones de las principales aerolíneas y proveedores, para que encuentres fácilmente un vuelo que se adapte a tu horario y presupuesto.",
+    "content_description_2": "Nuestras capacidades de búsqueda avanzada reúnen una amplia gama de aerolíneas y compañías de viajes para ayudarte a encontrar no solo los mejores precios, sino también las opciones más convenientes para cada viaje. Desde vuelos locales dentro de Argentina hasta viajes intercontinentales, {{appName}} simplifica el proceso de planificación de viajes, asegurando que puedas reservar con confianza y a un precio accesible.",
+    "content_imgAlt": "Ilustración de rutas de vuelos globales que representan conexiones alrededor del mundo",
+
+    "counter_1": "Socios de Vuelo",
+    "counter_2": "Destinos en Todo el Mundo",
+    "counter_3": "Búsquedas por Año",
+    "counter_4": "Soporte 24/7"
+  }
+}

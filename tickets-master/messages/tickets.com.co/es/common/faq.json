@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Preguntas Comunes Sobre Volar a {{continent}}",
+    "faq": {
+      "1": "¿Qué lugares debo visitar definitivamente en {{title}}?",
+      "2": "¿Cuáles son las formas más fáciles de encontrar vuelos económicos a {{title}}?",
+      "3": "¿Cuál es el momento ideal para viajar a {{title}}?",
+      "4": "¿Qué aerolíneas vuelan con más frecuencia a {{title}}?",
+      "5": "¿Cómo puedo encontrar las mejores ofertas de vuelos a {{title}} durante las temporadas altas?",
+      "6": "¿Qué documentos son necesarios para entrar a los países en {{title}}?",
+      "7": "¿Cuáles son los lugares turísticos imprescindibles en {{title}}?",
+      "8": "¿Cuáles son las mejores opciones para viajar entre países en {{title}}?",
+      "9": "¿Hay aerolíneas de bajo costo que operan vuelos a {{title}}?",
+      "10": "¿Cuáles son las pautas actuales de COVID-19 para los viajeros a {{title}}?",
+      "11": "¿Dónde puedo encontrar ofertas de vuelos de última hora a {{title}}?",
+      "12": "¿Qué elementos esenciales debo llevar para un viaje a {{title}}?",
+      "13": "¿Cómo puedo reducir mis costos de alojamiento al visitar {{title}}?",
+      "14": "¿Qué aerolíneas ofrecen los mejores vuelos de larga distancia a {{title}}?",
+      "15": "¿Cuánto tiempo toma volar a {{title}} desde Colombia?",
+      "16": "¿Cuáles son los mejores consejos para viajar de manera económica en {{title}}?",
+      "17": "¿Puedo reservar vuelos directos sin escalas desde Colombia a {{title}}?",
+      "18": "¿Cuáles son los mejores lugares costeros para visitar en {{title}}?",
+      "19": "¿Cómo puedo ganar recompensas de aerolíneas al volar a {{title}}?",
+      "20": "¿Cuál es el rango de precios típico para los vuelos a {{title}}?"
+    }
+  }
+}

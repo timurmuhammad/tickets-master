@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "invalid_email_address": "Dirección de correo electrónico no válida",
+    "please_fill_all_fields": "Por favor, complete todos los campos",
+    "please_complete_form": "Por favor, complete el formulario y vuelva a intentarlo",
+    "thanks_for_contact": "Gracias por contactarnos. Si hay un problema genuino, nos pondremos en contacto contigo en breve.",
+    "something_went_wrong": "Vaya, algo salió mal. Por favor, inténtalo de nuevo.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Enviar un mensaje",
+    "your_name": "Tu nombre",
+    "email": "Tu correo electrónico",
+    "subject": "Asunto",
+    "your_message": "Tu mensaje",
+    "submit": "Enviar",
+    "get_in_touch": "Ponte en contacto",
+    "our_registration_address": "Nuestra dirección de registro",
+    "address": "6 Liberty Sq, Boston, MA, 02109 United States",
+    "customer_support": "Atención al cliente",
+    "partner_contact": "Contacto para socios",
+    "social_follow": "Síguenos en las redes sociales",
+    "title_faq": "Preguntas Frecuentes",
+    "subtitle_faq": "Respuestas a las preguntas más frecuentes"
+  },
+  "faq": {
+    "1": "¿Cómo busco vuelos en su sitio web?",
+    "1_answer": "En {{value}}, puedes ingresar tus detalles de viaje y nosotros buscaremos entre más de 1,200 aerolíneas y proveedores de viajes para ofrecerte una variedad de opciones.",
+
+    "2": "¿Qué información necesito proporcionar para reservar un boleto?",
+    "2_answer": "Simplemente introduce tus detalles de salida y llegada, junto con las fechas de viaje. Una vez que hayas seleccionado un vuelo, te redirigiremos al sitio web de la aerolínea o proveedor para completar la reserva.",
+
+    "3": "¿Hay tarifas o impuestos adicionales que no estén incluidos en el precio mostrado?",
+    "3_answer": "Las tarifas e impuestos de {{value}} siempre son 0. Recomendamos revisar la página final de reserva en el sitio de nuestro socio para un desglose del costo final.",
+
+    "4": "¿Puedo modificar o cancelar mi reserva, y cuáles son los cargos asociados?",
+    "4_answer": "Los cambios y cancelaciones están sujetos a las políticas de la aerolínea o proveedor con el que reserves. Consulta sus términos y condiciones para obtener detalles.",
+
+    "5": "¿Qué métodos de pago se aceptan en su plataforma?",
+    "5_answer": "Los pagos son procesados por nuestros socios, por lo que los métodos aceptados dependen del proveedor. Las opciones comunes incluyen tarjetas de crédito y servicios de pago en línea.",
+
+    "6": "¿Es posible reservar un hotel o coche de alquiler junto con mi vuelo?",
+    "6_answer": "Sí, a través de nuestra plataforma, puedes acceder a las ofertas de nuestros socios para hoteles y coches de alquiler y así crear un paquete de viaje completo.",
+
+    "7": "¿Cómo recibo la confirmación de mi reserva y el billete electrónico?",
+    "7_answer": "Una vez que completes el proceso de reserva en el sitio de nuestro socio, ellos te enviarán la confirmación y los detalles del billete electrónico por correo electrónico.",
+
+    "8": "¿Qué sucede si mi vuelo se retrasa o cancela?",
+    "8_answer": "En caso de interrupciones, contacta directamente con la aerolínea ya que son ellos quienes manejan los problemas relacionados con el vuelo. Los detalles de su servicio de atención al cliente se proporcionarán en tu confirmación de reserva.",
+
+    "9": "¿Hay programas de fidelidad o descuentos disponibles para viajeros frecuentes?",
+    "9_answer": "Muchas de nuestras aerolíneas asociadas ofrecen sus propios programas de fidelidad. Consulta con la aerolínea correspondiente para obtener detalles sobre la acumulación de millas u otros beneficios.",
+
+    "10": "¿Necesito crear una cuenta para hacer una reserva?",
+    "10_answer": "Crear una cuenta en {{value}} es opcional. Sin embargo, deberás crear una cuenta con nuestro socio para completar el proceso de reserva.",
+
+    "11": "¿Cuál es la franquicia de equipaje para mi vuelo?",
+    "11_answer": "Las franquicias de equipaje las determina la aerolínea que elijas. Consulta sus políticas durante el proceso de reserva.",
+
+    "12": "¿Cómo puedo contactar al servicio de atención al cliente en caso de problemas o emergencias?",
+    "12_answer": "Para cualquier problema, comunícate con el servicio de atención al cliente proporcionado por la aerolínea o el proveedor de viajes. Su información de contacto está disponible en su sitio web.",
+
+    "13": "¿Hay restricciones de viaje o requisitos de visa que deba conocer?",
+    "13_answer": "Mantente informado sobre las restricciones de viaje y los requisitos de visa consultando con las autoridades respectivas de tu destino. {{value}} no proporciona esta información directamente.",
+
+    "14": "¿Puedo seleccionar mi asiento durante el proceso de reserva?",
+    "14_answer": "Las políticas de selección de asientos varían entre aerolíneas. Consulta las opciones de asiento durante el proceso de reserva en el sitio de nuestro socio.",
+
+    "15": "¿Qué medidas de seguridad están vigentes en la situación global actual (por ejemplo, pandemia)?",
+    "15_answer": "Consulta las pautas de seguridad proporcionadas por la aerolínea o proveedor para garantizar el cumplimiento de las regulaciones de salud globales o locales.",
+
+    "16": "¿Hay promociones u ofertas disponibles actualmente?",
+    "16_answer": "{{value}} muestra las últimas promociones y ofertas de nuestras aerolíneas y proveedores asociados. Consulta nuestro sitio web para las ofertas actuales.",
+
+    "17": "¿Con cuánta anticipación debo reservar para obtener los mejores precios?",
+    "17_answer": "El período ideal de reserva para los mejores precios depende de varios factores. Recomendamos consultar regularmente las promociones y reservar cuando los precios se ajusten a tu presupuesto.",
+
+    "18": "¿Ofrecen seguro de viaje y es recomendable?",
+    "18_answer": "El seguro de viaje puede estar disponible a través de nuestros socios. Te recomendamos revisar las opciones de seguro durante el proceso de reserva.",
+
+    "19": "¿Qué tipos de identificación se requieren para viajar al extranjero?",
+    "19_answer": "Consulta los requisitos de entrada de tu destino en los sitios web oficiales del gobierno. Diferentes países tienen diferentes requisitos de identificación y visa.",
+
+    "20": "¿Cómo puedo rastrear el estado de mi vuelo?",
+    "20_answer": "Utiliza las herramientas de seguimiento de vuelos proporcionadas por la aerolínea. Encontrarás la información relevante en su sitio web o contactando directamente con su servicio de atención al cliente."
+  }
+}

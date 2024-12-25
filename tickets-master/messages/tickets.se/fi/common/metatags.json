@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Vertaa ja Varaa Halvat Lennot Skandinaviassa ✈️ | {{domain}}",
+      "description": "Löydä parhaat tarjoukset halvoista lennoista Ruotsin, Tanskan, Norjan ja Suomen välillä. Varaa seuraava matkasi helposti {{domain}}:n kattavalla lentojen vertailutyökalulla.",
+      "img_alt": "Halvat Lennot | {{domain}}"
+    },
+    "flights": {
+      "title": "Halvat Lennot Ruotsiin, Tanskaan, Norjaan ja Suomeen ✈️ | {{domain}}",
+      "description": "Hae ja vertaa halpoja lentoja parhaiden lentoyhtiöiden välillä suosikkikohteisiisi Skandinaviassa. Varaa edulliset lennot niin kotimaan kuin ulkomaan matkalle {{domain}}:n kautta.",
+      "img_alt": "Lentotarjoukset | {{domain}}"
+    },
+    "destinations": {
+      "title": "Löydä Halpoja Lentoja Suosittuihin Kohteisiin ✈️ | {{domain}}",
+      "description": "Tutustu lyömättömiin lentotarjouksiin maailman suosituimpiin kaupunkeihin ja piilotettuihin helmiin. Käytä {{domain}} löytääksesi halvimmat reitit ja varaa seuraava seikkailusi.",
+      "img_alt": "Maailmanlaajuiset Matkakohteet | {{domain}}"
+    },
+    "continent": {
+      "title": "Halvat Lennot {{continent}}in Yli ✈️ | Varaa {{domain}}:n Kautta",
+      "description": "Löydä parhaat lentotarjoukset tutustuaksesi {{continent}}iin. Säästä lentolipuissa jännittäviin kohteisiin koko mantereella {{domain}}:n edistyksellisten hakutyökalujen avulla.",
+      "img_alt": "Tutustu {{continent}}iin Halvoilla Lenoilla | {{domain}}"
+    },
+    "country": {
+      "title": "Varaa Halvat Lennot {{country}}iin ✈️ | Tutustu {{domain}}:n Kautta",
+      "description": "Lennä {{country}}iin parhailla saatavilla olevilla tarjouksilla. {{domain}} tuo sinulle edulliset lennot kaupunkeihin ympäri {{country}}:n, jotta voit matkustaa budjettisi rajoissa.",
+      "img_alt": "Lennot {{country}}iin | {{domain}}"
+    },
+    "city": {
+      "title": "Halvat Lennot {{city}}iin Alkaen Vain 17 USD ✈️ | Tarjoukset {{domain}}:n Kautta",
+      "title_1": "Löydä Halvat Lennot {{city}}iin | Lentotarjoukset Alkaen 17 USD ✈️ {{domain}}",
+      "description": "Etsitkö edullisia lentoja {{city}}iin? Vertaile hintoja päivittäin ja varaa halvimmat lennot {{domain}}:n helppokäyttöisen kalenterityökalun avulla.",
+      "description_1": "Löydä lyömättömät lentotarjoukset {{city}}iin. Käytä päivämääräjärjestyksessä olevaa vertailua löytääksesi parhaat hinnat matkallesi.",
+      "img_alt": "Edulliset Lennot {{city}}iin | {{domain}}"
+    },
+    "about": {
+      "title": "Tietoa Meistä | Löydä Parhaat Lentotarjoukset {{domain}}:n Kautta",
+      "description": "Lue lisää {{domain}}:sta, luotetusta alusta halpojen lentojen löytämiseen ja varaamiseen ympäri maailmaa. Säästä seuraavalla matkallasi palvelumme avulla.",
+      "img_alt": "Tietoa Meistä | {{domain}}"
+    },
+    "contact": {
+      "title": "Ota Yhteyttä | Hanki Apua ja Tukea {{domain}}:ssa",
+      "description": "Tarvitsetko apua varauksen kanssa tai onko sinulla kysymyksiä? Ota yhteyttä {{domain}}:n tukitiimiin saadaksesi asiantuntevaa apua ja vastauksia kaikkiin matkakysymyksiisi.",
+      "img_alt": "Ota Yhteyttä Asiakastukeen | {{domain}}"
+    }
+  }
+}

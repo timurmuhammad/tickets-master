@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore a Ásia com a TICKETS ✈️",
+      "description": "Embarque numa viagem inesquecível à Ásia com a TICKETS.PT. Descubra destinos incríveis, ofertas de viagem, experiências culturais, opções econômicas e dicas de viagem - tudo num só lugar!"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubra a Ásia a partir de Portugal",
+    "banner_sub": "Explore ofertas exclusivas e aventuras inesquecíveis com a TICKETS.PT, o seu parceiro de viagens para conhecer a Ásia.",
+    
+    "intro_title": "Guia de Viagem para a Ásia",
+    "intro_content": "A Ásia oferece uma diversidade de experiências de viagem, desde cidades vibrantes e templos serenos até maravilhas naturais impressionantes. Com a TICKETS.PT, explore os principais destinos asiáticos, compare opções de voos e garanta os melhores preços para realizar os seus sonhos de viagem. Descubra insights locais e crie viagens memoráveis adaptadas aos seus interesses.",
+
+    "winter_celsius": "-10°C a 10°C",
+    "winter_fahrenheit": "14°F a 50°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "10°C a 20°C",
+    "autumn_fahrenheit": "50°F a 68°F",
+
+    "timezone_range": "UTC+4 a UTC+10",
+    "timezone_note": "Vários fusos horários",
+    "tourists_range": "348,5 milhões",
+    "tourists_note": "Turistas internacionais em 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4,64 bilhões",
+    "heritage_range": "705",
+    "heritage_note": "Sítios do Patrimônio Mundial da UNESCO",
+
+    "destinations_title": "Explore os Principais Destinos na Ásia",
+    "destinations_description": "Mergulhe em aventuras únicas na Ásia com a TICKETS.PT. Se está à procura de cidades movimentadas, praias serenas ou marcos culturais, nossa plataforma conecta você a voos econômicos e dicas de viagem para planejar a escapada perfeita.",
+
+    "faq": {
+      "1_answer": "A Ásia é conhecida pelos seus destinos icônicos. Desde a energia dinâmica de Tóquio até às praias de Bali e as antigas ruínas de Angkor Wat, há algo para todos os viajantes. Outros locais imperdíveis incluem a Grande Muralha da China, o Taj Mahal na Índia e os templos serenos de Quioto.",
+      "2_answer": "Use a TICKETS.PT para comparar tarifas de várias companhias aéreas e fornecedores. Procure voos na baixa temporada, reserve com antecedência e configure alertas para obter as melhores ofertas.",
+      "3_answer": "Para a maioria das regiões da Ásia, os melhores meses para viajar são de novembro a março, quando o clima é ameno. Evite o pico do verão para garantir tarifas mais econômicas.",
+      "4_answer": "As principais companhias aéreas para voos de Portugal para a Ásia incluem a Emirates, Qatar Airways, Turkish Airlines e Singapore Airlines, conhecidas pelo seu serviço de qualidade e vasta rede de destinos asiáticos.",
+      "5_answer": "Reservar com antecedência ou voar durante a semana pode ajudar a garantir preços acessíveis, mesmo durante as épocas de pico. Configure alertas na TICKETS.PT e considere aeroportos próximos para economizar ainda mais.",
+      "6_answer": "Os viajantes portugueses precisam de passaporte e muitos países asiáticos exigem visto. Sempre verifique os requisitos específicos de entrada antes de fazer a reserva.",
+      "7_answer": "A Ásia abriga atrações extraordinárias, como os templos de Quioto, as praias da Tailândia, a Baía de Ha Long no Vietnã e as metrópoles modernas de Tóquio e Hong Kong.",
+      "8_answer": "Viajar dentro da Ásia é conveniente com opções como companhias aéreas de baixo custo, trens de alta velocidade e ferries. Considere a AirAsia para voos e os trens-bala do Japão para jornadas cênicas.",
+      "9_answer": "Sim, companhias aéreas de baixo custo como a AirAsia e a Scoot oferecem viagens acessíveis dentro e para a Ásia. Verifique a TICKETS.PT para as últimas ofertas.",
+      "10_answer": "As diretrizes de saúde e segurança variam de país para país. Mantenha-se informado sobre as regulamentações de COVID-19, incluindo possíveis requisitos de quarentena ou testes.",
+      "11_answer": "A TICKETS.PT destaca regularmente ofertas de última hora, por isso verifique frequentemente para descontos e tarifas especiais.",
+      "12_answer": "Essenciais de viagem para a Ásia incluem um adaptador de tomada, calçado confortável, roupas adequadas ao clima e uma bolsa segura para documentos.",
+      "13_answer": "Economize em acomodações usando hostels, alugando residências de curto prazo ou optando por hotéis econômicos. Reservar fora dos principais pontos turísticos também tende a oferecer melhores tarifas.",
+      "14_answer": "Para voos de longa distância, as principais companhias como Emirates e Qatar Airways oferecem excelente serviço e conforto, tornando a viagem de Portugal para a Ásia tranquila e agradável.",
+      "15_answer": "Os voos de Portugal para a Ásia geralmente duram entre 12 e 18 horas, dependendo das escalas. As opções diretas são limitadas, então planeje-se para possíveis escalas.",
+      "16_answer": "Para tornar a viagem acessível, opte por comida de rua, use transporte público e explore atrações gratuitas. Hostels ou acomodações econômicas também são amplamente disponíveis.",
+      "17_answer": "Voos diretos são limitados, mas muitas rotas oferecem uma ou duas escalas através de hubs como Dubai e Istambul.",
+      "18_answer": "A Ásia possui incontáveis locais costeiros, incluindo Phuket na Tailândia, Bali na Indonésia e Boracay nas Filipinas, ideais para entusiastas de praia.",
+      "19_answer": "Ganhe recompensas de viagem ao aderir a programas de fidelidade como o Qatar Privilege Club ou Emirates Skywards, além de utilizar cartões de crédito de viagem para acumular pontos.",
+      "20_answer": "Os preços dos voos de Portugal para a Ásia começam em cerca de €600 para viagens de ida e volta, variando com a temporada e a disponibilidade. Monitore tarifas na TICKETS.PT para obter as melhores ofertas."
+    }
+  }
+}

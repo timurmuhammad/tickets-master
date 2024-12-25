@@ -1,0 +1,10 @@
+
+.helpful {
+  &.active .icon-like {
+    color: var(--color-red);
+  }
+
+  &.active .icon-dislike {
+    color: var(--color-black);
+  }
+}

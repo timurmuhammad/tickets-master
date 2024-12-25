@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Conoce Más Sobre {{appName}}",
+    "hero_sub": "Encuentra ofertas de vuelos inigualables, haciendo que tus viajes locales e internacionales sean sin complicaciones.",
+    "hero_imgAlt": "Descubre más sobre {{appName}}",
+
+    "content": "En {{appName}}, te ofrecemos una plataforma avanzada diseñada para ayudarte a encontrar y comparar vuelos asequibles, tanto nacionales como internacionales. Nuestro objetivo es simplificar tu búsqueda de viajes al ofrecer todas las opciones disponibles de las mejores aerolíneas y proveedores de vuelos en un solo lugar. Con {{appName}}, explorar el mundo se vuelve sencillo y económico.",
+
+    "quote": "\"Viajar debería estar al alcance de todos, ofreciendo facilidad y comodidad. Déjanos ser tu socio en la planificación de tu próxima aventura.\"",
+    "quote_imgAlt": "Persona sosteniendo una tarjeta de embarque y un pasaporte, lista para el vuelo",
+
+    "content_title": "Por Qué {{appName}} Destaca",
+    "content_sub": "Tu Centro de Comparación de Vuelos Definitivo",
+    "content_description_1": "Conocemos los desafíos de buscar en múltiples sitios para encontrar los mejores precios de vuelos. {{appName}} está aquí para hacer ese proceso sin esfuerzo, presentando todas las mejores ofertas de vuelos que coincidan con tus preferencias, ya sea que viajes por trabajo, placer o una escapada rápida.",
+    "content_description_2": "Nuestra plataforma reúne vuelos de una amplia gama de aerolíneas y empresas de viajes, asegurando que obtengas los precios más bajos y las opciones más convenientes. Desde rutas locales hasta internacionales, te cubrimos para todas tus necesidades de viaje.",
+    "content_imgAlt": "Gráfico que muestra rutas de vuelo alrededor del mundo",
+
+    "counter_1": "Socios de Vuelos",
+    "counter_2": "Destinos en Todo el Mundo",
+    "counter_3": "Búsquedas de Vuelos Anuales",
+    "counter_4": "Soporte 24/7"
+  }
+}

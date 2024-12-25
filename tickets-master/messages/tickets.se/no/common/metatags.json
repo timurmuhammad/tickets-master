@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Sammenlign & Bestill Billige Flyreiser i Skandinavia ✈️ | {{domain}}",
+      "description": "Finn de beste tilbudene på billige flyreiser i Sverige, Danmark, Norge og Finland. Bestill din neste tur trygt med {{domain}} sitt omfattende flysammenligningsverktøy.",
+      "img_alt": "Billige Flyreiser | {{domain}}"
+    },
+    "flights": {
+      "title": "Billige Flyreiser til Sverige, Danmark, Norge & Finland ✈️ | {{domain}}",
+      "description": "Søk og sammenlign billige flyreiser fra toppflyselskaper til dine favorittdestinasjoner i Skandinavia. Bestill rimelige billetter for både innenriks- og utenlandsreiser med {{domain}}.",
+      "img_alt": "Flytilbud | {{domain}}"
+    },
+    "destinations": {
+      "title": "Oppdag Billige Flyreiser til Populære Destinasjoner ✈️ | {{domain}}",
+      "description": "Utforsk uslåelige flytilbud til de mest populære byene og skjulte perler rundt om i verden. Bruk {{domain}} for å finne de billigste rutene og bestill ditt neste eventyr.",
+      "img_alt": "Globale Reisemål | {{domain}}"
+    },
+    "continent": {
+      "title": "Billige Flyreiser til {{continent}} ✈️ | Bestill med {{domain}}",
+      "description": "Oppdag de beste flytilbudene for å utforske {{continent}}. Spar på flybilletter til spennende destinasjoner over hele kontinentet med {{domain}} sitt avanserte søke- og bestillingsverktøy.",
+      "img_alt": "Oppdag {{continent}} med Billige Flyreiser | {{domain}}"
+    },
+    "country": {
+      "title": "Bestill Billige Flyreiser til {{country}} ✈️ | Utforsk med {{domain}}",
+      "description": "Fly til {{country}} med de beste tilbudene tilgjengelig. {{domain}} gir deg rimelige flyreiser til byer over hele {{country}}, slik at du kan utforske uten å sprenge budsjettet.",
+      "img_alt": "Flyreiser til {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Billige Flyreiser til {{city}} fra Bare $17 ✈️ | Tilbud på {{domain}}",
+      "title_1": "Finn Billige Flyreiser til {{city}} | Flytilbud fra $17 ✈️ {{domain}}",
+      "description": "Leter du etter rimelige flyreiser til {{city}}? Sammenlign priser etter dato og bestill de laveste flybillettene med {{domain}} sitt brukervennlige kalenderværktøy.",
+      "description_1": "Få tilgang til uslåelige flytilbud til {{city}}. Bruk vår dato-sorterte sammenligning for å finne de beste prisene for dine reisedatoer.",
+      "img_alt": "Rimelige Flyreiser til {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "Om Oss | Oppdag De Beste Flytilbudene med {{domain}}",
+      "description": "Lær mer om {{domain}}, din go-to plattform for å finne og bestille billige flyreiser til destinasjoner over hele verden. Spar på din neste reise med vår pålitelige tjeneste.",
+      "img_alt": "Om Oss | {{domain}}"
+    },
+    "contact": {
+      "title": "Kontakt Oss | Få Hjelp & Support hos {{domain}}",
+      "description": "Trenger du hjelp med din bestilling eller har spørsmål? Kontakt {{domain}} sitt supportteam for ekspertassistanse og svar på alle dine reisespørsmål.",
+      "img_alt": "Kontakt Kundesupport | {{domain}}"
+    }
+  }
+}

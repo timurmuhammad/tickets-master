@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore a Europa com TICKETS ✈️",
+      "description": "Planeie a sua próxima viagem pela Europa com TICKETS.PT. Descubra opções económicas, insights locais, ofertas exclusivas e dicas de viagem para os melhores destinos europeus."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubra a Europa a partir de Portugal",
+    "banner_sub": "Desbloqueie ofertas incríveis de voos e insights especializados de viagem com TICKETS.PT",
+
+    "intro_title": "Guia de Viagem da Europa",
+    "intro_content": "Mergulhe na beleza da Europa com a TICKETS.PT como seu companheiro de viagem. Desde cidades vibrantes a aldeias encantadoras, a nossa plataforma ajuda-o a explorar tudo com facilidade e economia. Compare voos, encontre ofertas exclusivas e planeie a sua viagem de sonho com um clique.",
+
+    "winter_celsius": "-10°C a 5°C",
+    "winter_fahrenheit": "14°F a 41°F",
+    "spring_celsius": "5°C a 20°C",
+    "spring_fahrenheit": "41°F a 68°F",
+    "summer_celsius": "20°C a 35°C",
+    "summer_fahrenheit": "68°F a 95°F",
+    "autumn_celsius": "5°C a 15°C",
+    "autumn_fahrenheit": "41°F a 59°F",
+
+    "timezone_range": "UTC-1 a UTC+3",
+    "timezone_note": "Vários fusos horários",
+    "tourists_range": "743,1 milhões",
+    "tourists_note": "Turistas internacionais, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 milhões",
+    "heritage_range": "445",
+    "heritage_note": "Patrimónios Mundiais da UNESCO",
+
+    "destinations_title": "Melhores Ofertas de Voos para a Europa",
+    "destinations_description": "Explore os melhores destinos pela Europa com tarifas imbatíveis e ofertas exclusivas da TICKETS.PT. Encontre as melhores rotas para cidades icónicas, destinos escondidos e tudo o que há pelo meio.",
+
+    "faq": {
+      "1_answer": "A Europa tem destinos incríveis sem fim, desde o charme romântico de Paris e a atração histórica de Roma até à vida noturna vibrante de Barcelona e os canais tranquilos de Amesterdão. Quer deseje aventura nos Alpes ou praias no Mediterrâneo, a Europa tem algo para todos.",
+      "2_answer": "Encontre voos económicos para a Europa ao reservar com antecedência, usar datas de viagem flexíveis e configurar alertas de tarifas com a TICKETS.PT. Compare tarifas de diferentes companhias aéreas para maximizar as suas economias e considere viajar fora das épocas altas para obter os melhores preços.",
+      "3_answer": "A primavera (abril a junho) e o outono (setembro a outubro) oferecem bom tempo e menos multidões, sendo ideais para reservar voos para a Europa. O inverno é perfeito para mercados de Natal e esqui, enquanto o verão é o melhor para destinos de praia.",
+      "4_answer": "As principais companhias aéreas que oferecem voos de Portugal para a Europa incluem TAP Air Portugal, Ryanair, Lufthansa e Air France. Estas companhias oferecem opções convenientes para vários destinos europeus, proporcionando viagens confortáveis e confiáveis.",
+      "5_answer": "Reservar com bastante antecedência, configurar alertas de tarifas e optar por voos a meio da semana pode ajudá-lo a encontrar opções económicas durante os períodos de pico. A TICKETS.PT atualiza frequentemente ofertas de grandes companhias aéreas, por isso fique atento às ofertas sazonais.",
+      "6_answer": "A maioria dos países europeus exige um passaporte válido, e alguns podem exigir um visto Schengen para entrada. Certifique-se de que o seu passaporte tem pelo menos seis meses de validade e verifique os requisitos de visto específicos para cada país no seu itinerário.",
+      "7_answer": "A Europa é rica em atrações imperdíveis, como a Torre Eiffel em Paris, o Coliseu em Roma e a Sagrada Família em Barcelona. Para beleza natural, explore os fiordes na Noruega ou as praias das ilhas gregas.",
+      "8_answer": "Viajar pela Europa é fácil com opções como companhias aéreas de baixo custo, comboios de alta velocidade e uma rede extensa de autocarros. O passe Eurail é popular para viagens de comboio, proporcionando flexibilidade e conveniência para visitar vários países.",
+      "9_answer": "Sim, a Europa tem uma ampla gama de companhias aéreas de baixo custo, como Ryanair, EasyJet e Wizz Air, que oferecem voos para muitos destinos no continente. Estas companhias oferecem tarifas acessíveis e serviço frequente entre as principais cidades.",
+      "10_answer": "As diretrizes de saúde e segurança para viajar para a Europa podem variar por país, especialmente com alterações devido ao COVID-19. Certifique-se de verificar as regulamentações de cada país, incluindo requisitos de vacinação e testes, antes de reservar.",
+      "11_answer": "A TICKETS.PT oferece atualizações frequentes sobre ofertas de voos de última hora para a Europa. Continue a verificar o nosso site, inscreva-se na nossa newsletter e configure alertas de tarifas para obter as melhores ofertas de última hora.",
+      "12_answer": "Para uma viagem confortável à Europa, leve essenciais como um adaptador universal, sapatos confortáveis, roupas adequadas ao clima e os seus documentos de viagem. Não se esqueça do seguro de viagem para maior tranquilidade.",
+      "13_answer": "Para reduzir os custos de alojamento, considere ficar em hotéis económicos, hostels ou alugar casas de curta duração. Reserve com antecedência e procure opções em bairros menos turísticos para obter melhores tarifas.",
+      "14_answer": "As companhias aéreas populares para voos de longa distância de Portugal para a Europa incluem Lufthansa, British Airways e KLM. Conhecidas pelo conforto e excelente serviço, estas companhias oferecem voos diretos e de ligação por toda a Europa.",
+      "15_answer": "Os voos diretos de Portugal para destinos europeus variam, com voos de curta distância que geralmente demoram de 1 a 3 horas, dependendo da cidade. Por exemplo, um voo de Lisboa para Madrid demora aproximadamente 1 hora e 20 minutos.",
+      "16_answer": "Economize nas viagens para a Europa ao reservar com antecedência, usar transporte público, comer em locais frequentados por locais e explorar atrações gratuitas. Viajar fora das épocas altas e ficar em acomodações económicas também ajuda a reduzir custos.",
+      "17_answer": "Estão amplamente disponíveis voos diretos de Portugal para a Europa, facilitando o acesso a cidades como Madrid, Paris e Londres. Grandes companhias aéreas oferecem rotas diretas frequentes para destinos europeus populares.",
+      "18_answer": "A Europa tem belos destinos costeiros, como a Costa Amalfitana na Itália, o Algarve em Portugal e a Costa del Sol em Espanha. Estes locais são perfeitos para relaxar à beira-mar, desportos aquáticos e explorar a cultura local.",
+      "19_answer": "Junte-se a programas de milhas com companhias aéreas que servem a Europa, como TAP Miles&Go, Lufthansa Miles & More ou Flying Blue. Acumule pontos para resgatar em voos futuros, upgrades e muito mais.",
+      "20_answer": "Os preços dos voos de Portugal para a Europa variam dependendo da estação, destino e tempo de reserva. Geralmente, tarifas de ida e volta variam de €50 a €300. Reserve com antecedência e monitore as promoções para encontrar as melhores ofertas."
+    }
+  }
+}

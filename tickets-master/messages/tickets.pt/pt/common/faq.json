@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Perguntas Frequentes sobre Voos para {{continent}}",
+    "faq": {
+      "1": "Quais são os principais destinos para visitar em {{title}}?",
+      "2": "Como posso encontrar voos económicos para {{title}}?",
+      "3": "Qual é a melhor época para reservar voos para {{title}}?",
+      "4": "Quais companhias aéreas oferecem mais voos para {{title}}?",
+      "5": "Como posso garantir voos acessíveis para {{title}} durante os períodos de maior procura?",
+      "6": "Quais documentos de viagem são necessários para entrar nos países em {{title}}?",
+      "7": "Quais atrações imperdíveis existem em {{title}}?",
+      "8": "Quais são as melhores opções para viajar entre países em {{title}}?",
+      "9": "Existem companhias aéreas de baixo custo que oferecem voos para {{title}}?",
+      "10": "Quais são as últimas orientações de saúde e segurança para voos para {{title}}?",
+      "11": "Onde posso encontrar ofertas de voos de última hora para {{title}}?",
+      "12": "Quais itens essenciais devo levar ao viajar para {{title}}?",
+      "13": "Como posso reduzir os custos de alojamento ao visitar {{title}}?",
+      "14": "Quais companhias aéreas são as melhores para voos de longa distância para {{title}}?",
+      "15": "Quanto tempo dura o voo de Portugal para {{title}}?",
+      "16": "Quais são as melhores dicas de viagem para uma viagem económica para {{title}}?",
+      "17": "Existem voos diretos de Portugal para {{title}}?",
+      "18": "Quais são os melhores locais costeiros para explorar em {{title}}?",
+      "19": "Como posso acumular recompensas de viagem em voos para {{title}}?",
+      "20": "Qual é a faixa de preço típica para voos para {{title}}?"
+    }
+  }
+}

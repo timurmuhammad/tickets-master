@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Jelajahi {{appName}}",
+    "hero_sub": "Rencanakan perjalanan Anda dengan mulus melalui penawaran penerbangan eksklusif di seluruh Indonesia dan dunia",
+    "hero_imgAlt": "Temukan manfaat dari {{appName}}",
+
+    "content": "Di {{appName}}, kami berkomitmen untuk mengubah cara Anda bepergian. Platform agregator penerbangan kami memungkinkan Anda untuk menemukan, membandingkan, dan memesan pilihan penerbangan terbaik dengan mudah. Dengan berbagai penerbangan lokal dan internasional, kami memastikan perencanaan perjalanan Anda berjalan lancar, hemat biaya, dan sesuai dengan kebutuhan Anda. Apakah Anda bepergian untuk liburan singkat atau petualangan global, {{appName}} menghubungkan Anda dengan maskapai dan penyedia terbaik untuk pengalaman perjalanan yang benar-benar mulus.",
+
+    "quote": "Janji kami: Memberikan pengalaman pencarian dan pemesanan penerbangan yang tak tertandingi. Mulailah perjalanan Anda dengan {{appName}} hari ini.",
+    "quote_imgAlt": "Wisatawan bahagia memegang koper dan tiket di bandara",
+
+    "content_title": "Mengapa Memilih {{appName}}",
+    "content_sub": "Mitra Perjalanan Tepercaya Anda untuk Setiap Destinasi",
+    "content_description_1": "{{appName}} menyederhanakan kompleksitas pencarian penerbangan dengan mengumpulkan semua detail penting dalam satu tempat. Dari harga tiket dan jadwal penerbangan hingga kebijakan bagasi dan layanan di dalam pesawat, Anda mendapatkan gambaran lengkap untuk membuat keputusan yang tepat. Baik Anda menjelajahi keindahan Indonesia atau bepergian ke luar negeri, kami menyediakan opsi yang dipersonalisasi untuk memenuhi preferensi dan anggaran Anda.",
+    "content_description_2": "Teknologi mutakhir kami memastikan Anda dapat membandingkan penerbangan dari berbagai maskapai dan penyedia perjalanan terkemuka. Hemat waktu, hemat biaya, dan temukan penawaran terbaik dengan mudah menggunakan {{appName}}. Dari opsi pemesanan yang fleksibel hingga pembaruan real-time, kami ada untuk membuat setiap langkah perjalanan Anda bebas stres dan menyenangkan.",
+    "content_imgAlt": "Peta yang menyoroti Indonesia dengan rute penerbangan global yang menghubungkan kota-kota besar",
+
+    "counter_1": "Mitra Maskapai Terbaik",
+    "counter_2": "Destinasi Lokal dan Global",
+    "counter_3": "Pencarian yang Memuaskan Setiap Tahun",
+    "counter_4": "Dukungan Pelanggan 24/7"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Encontre e Compare Voos Baratos de/para Portugal ✈️ TICKETS.PT",
+      "description": "Descubra ofertas incríveis em voos de/para Portugal e além. Use o TICKETS.PT para comparar preços, reservar de forma fácil e economizar na sua próxima viagem.",
+      "img_alt": "Voos Acessíveis de/para Portugal | TICKETS.PT"
+    },
+    "flights": {
+      "title": "Compare e Reserve Voos Acessíveis para Destinos Populares em Portugal ✈️ TICKETS.PT",
+      "description": "Pesquise e compare facilmente voos para destinos populares em Portugal e internacionais. Encontre ofertas imbatíveis e planeie a sua viagem com o TICKETS.PT.",
+      "img_alt": "Voos Baratos para as Principais Cidades de Portugal | TICKETS.PT"
+    },
+    "destinations": {
+      "title": "Explore Destinos Globais com TICKETS.PT ✈️ Voos Acessíveis para Todo o Lado",
+      "description": "Reserve voos para destinos populares em todo o mundo a preços acessíveis. Com o TICKETS.PT, encontre e reserve voos baratos para começar a sua aventura por menos.",
+      "img_alt": "Voos Internacionais Acessíveis | TICKETS.PT"
+    },
+    "continent": {
+      "title": "Poupe em Voos por Toda a {{continent}} ✈️ Reserve Agora com TICKETS.PT",
+      "description": "Encontre as melhores ofertas em voos por toda a {{continent}}. O TICKETS.PT oferece ótimos preços para explorar destinos deslumbrantes na {{continent}}.",
+      "img_alt": "Voos Acessíveis em {{continent}} | TICKETS.PT"
+    },
+    "country": {
+      "title": "Voos de Baixo Custo para {{country}} ✈️ Descubra com o TICKETS.PT",
+      "description": "Explore ofertas incríveis em voos dentro de {{country}}. Reserve voos acessíveis para cidades populares e lugares escondidos com o TICKETS.PT.",
+      "img_alt": "Voos Acessíveis para {{country}} | TICKETS.PT"
+    },
+    "city": {
+      "title": "Voos Baratos para {{city}} a partir de €20 ✈️ Reserve Agora no TICKETS.PT",
+      "title_1": "Encontre Voos Econômicos para {{city}} | Tarifas a Partir de €20 ✈️ TICKETS.PT",
+      "description": "À procura de voos baratos para {{city}}? O TICKETS.PT facilita a comparação de tarifas e a obtenção dos melhores preços para as suas datas preferidas.",
+      "description_1": "Descubra ofertas exclusivas em voos para {{city}}. O TICKETS.PT ajuda-o a encontrar as melhores tarifas com as nossas ferramentas avançadas de comparação.",
+      "img_alt": "Voos Acessíveis para {{city}} | TICKETS.PT"
+    },
+    "about": {
+      "title": "Sobre o TICKETS.PT | A Sua Plataforma de Comparação de Voos Confiável",
+      "description": "Saiba mais sobre o TICKETS.PT, a principal plataforma para comparar e reservar voos acessíveis. Ajudamos os viajantes a encontrar as melhores ofertas de voos em todo o mundo.",
+      "img_alt": "Sobre Nós | TICKETS.PT"
+    },
+    "contact": {
+      "title": "Contacte o TICKETS.PT | Obtenha Suporte para os Seus Planos de Viagem",
+      "description": "Precisa de ajuda com reservas de voos ou dúvidas sobre viagens? Entre em contacto com a equipa de suporte do TICKETS.PT para obter ajuda especializada para as suas necessidades de viagem.",
+      "img_alt": "Obtenha Suporte de Viagem | TICKETS.PT"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "{{appName}} App",
+    "banner_description": "Temukan penawaran penerbangan luar biasa dengan {{appName}}! Aplikasi kami yang ramah pengguna mempermudah perencanaan perjalanan Anda dengan membandingkan tarif dari ratusan maskapai dan platform perjalanan, memastikan Anda selalu mendapatkan harga terbaik untuk petualangan berikutnya.",
+    "banner_img_alt": "{{appName}} App",
+    "banner_button": "App Store"
+  }
+}

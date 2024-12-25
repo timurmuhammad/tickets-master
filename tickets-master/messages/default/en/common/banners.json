@@ -1,0 +1,8 @@
+{
+  "app_banner": {
+    "banner_title": "{{appName}} App",
+    "banner_description": "Our {{appName}} iOS app scans thousands of flight deals from hundreds of airlines and providers, delivering the best global travel offers directly to your fingertips.",
+    "banner_img_alt": "{{appName}} App",
+    "banner_button": "App Store"
+  }
+}

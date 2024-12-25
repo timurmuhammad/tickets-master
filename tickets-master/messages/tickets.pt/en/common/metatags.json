@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Find & Compare Cheap Flights to/from Portugal ✈️ TICKETS.PT",
+      "description": "Discover amazing deals on flights to/from Portugal and beyond. Use TICKETS.PT to compare prices, book seamlessly, and save on your next journey",
+      "img_alt": "Affordable Flights to/from Portugal | TICKETS.PT"
+    },
+    "flights": {
+      "title": "Compare and Book Affordable Flights to Top Destinations in Portugal ✈️ TICKETS.PT",
+      "description": "Easily search and compare flights to popular Portuguese and international destinations. Find unbeatable deals and plan your travel with TICKETS.PT.",
+      "img_alt": "Cheap Flights to Portugal’s Top Cities | TICKETS.PT"
+    },
+    "destinations": {
+      "title": "Explore Global Destinations with TICKETS.PT ✈️ Affordable Flights Everywhere",
+      "description": "Book flights to top destinations worldwide at affordable prices. With TICKETS.PT, find and book cheap flights to start your adventure for less.",
+      "img_alt": "Cheap International Flights | TICKETS.PT"
+    },
+    "continent": {
+      "title": "Save on Flights Across {{continent}} ✈️ Book Now with TICKETS.PT",
+      "description": "Find the best deals on flights across {{continent}}. TICKETS.PT offers great prices to explore stunning destinations in {{continent}}.",
+      "img_alt": "Affordable Flights in {{continent}} | TICKETS.PT"
+    },
+    "country": {
+      "title": "Low-Cost Flights to {{country}} ✈️ Discover with TICKETS.PT",
+      "description": "Explore incredible deals on flights within {{country}}. Book affordable flights to popular cities and hidden gems with TICKETS.PT.",
+      "img_alt": "Affordable Flights to {{country}} | TICKETS.PT"
+    },
+    "city": {
+      "title": "Cheap Flights to {{city}} from €20 ✈️ Book Now on TICKETS.PT",
+      "title_1": "Find Budget Flights to {{city}} | Fares Starting at €20 ✈️ TICKETS.PT",
+      "description": "Looking for cheap flights to {{city}}? TICKETS.PT makes it easy to compare fares and secure the best prices for your preferred dates.",
+      "description_1": "Discover exclusive deals on flights to {{city}}. TICKETS.PT helps you find the best rates with our advanced comparison tools.",
+      "img_alt": "Affordable Flights to {{city}} | TICKETS.PT"
+    },
+    "about": {
+      "title": "About TICKETS.PT | Your Trusted Flight Comparison Platform",
+      "description": "Learn more about TICKETS.PT, the leading platform for comparing and booking affordable flights. We help travelers find the best flight deals worldwide.",
+      "img_alt": "About Us | TICKETS.PT"
+    },
+    "contact": {
+      "title": "Contact TICKETS.PT | Get Support for Your Travel Plans",
+      "description": "Need assistance with flight bookings or travel questions? Reach out to the TICKETS.PT support team for expert help with your travel needs.",
+      "img_alt": "Get Travel Support | TICKETS.PT"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explorá {{continent}} con {{domain}} ✈️",
+      "description": "Planificá la aventura definitiva por {{continent}} con {{domain}}. Encontrá consejos de viaje sobre destinos imperdibles, experiencias culturales, opciones económicas, gastronomía local, consejos de seguridad, atracciones que no podés perderte y más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubrí {{title}} desde Argentina",
+    "banner_sub": "Descubrí ofertas de viaje exclusivas, guías de expertos y actividades emocionantes en {{title}}",
+    
+    "intro_title": "Guía de Viaje por {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-5°C a 15°C",
+    "winter_fahrenheit": "23°F a 59°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "15°C a 25°C",
+    "autumn_fahrenheit": "59°F a 77°F",
+
+    "timezone_range": "UTC-10 a UTC-3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "37 millones",
+    "tourists_note": "Datos previos a COVID-19",
+    "demographics_countries": "12",
+    "demographics_population": "432 millones",
+    "heritage_range": "100",
+    "heritage_note": "Sitios Patrimonio de la Humanidad por la UNESCO",
+
+    "destinations_title": "Encontrá las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explorá rutas económicas y destinos únicos en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier aventurero",
+
+    "faq": {
+      "1_answer": "Sudamérica está llena de paisajes diversos y sitios culturales únicos. No te pierdas destinos icónicos como Machu Picchu en Perú, las playas de Río de Janeiro en Brasil, la vibrante ciudad de Buenos Aires en Argentina, la Cordillera de los Andes en Chile y la increíble Selva Amazónica, que se extiende por varios países. Cada uno ofrece una experiencia única que te sumerge en historia, naturaleza y cultura local.",
+      "2_answer": "Para encontrar vuelos económicos a Sudamérica, utilizá TICKETS.AR para comparar tarifas de aerolíneas principales y de bajo costo. Las fechas flexibles y las reservas anticipadas pueden ayudar a reducir costos. Activá alertas para recibir notificaciones sobre caídas de precios o promociones especiales en vuelos a Sudamérica.",
+      "3_answer": "La mejor época para visitar Sudamérica depende de la región. De diciembre a marzo es ideal para explorar la Patagonia, mientras que de mayo a septiembre es perfecto para aventuras en el Amazonas. Las zonas costeras son vibrantes todo el año, pero para mejores ofertas, considerá viajar durante las temporadas bajas, como abril u octubre.",
+      "4_answer": "Varias aerolíneas principales vuelan frecuentemente a Sudamérica, incluyendo LATAM Airlines, Avianca, American Airlines, Delta y Copa Airlines. Aerolíneas de bajo costo como Sky Airline y JetSMART también ofrecen rutas regionales asequibles.",
+      "5_answer": "Para conseguir las mejores ofertas durante las temporadas altas, reservá vuelos con anticipación y utilizá la herramienta de comparación de precios de TICKETS.AR. Los vuelos temprano en la mañana o tarde en la noche suelen ofrecer tarifas más bajas. Las fechas flexibles también pueden ayudarte a encontrar opciones más económicas.",
+      "6_answer": "Los requisitos de entrada varían según el país, pero generalmente necesitarás un pasaporte válido. Algunos países pueden requerir una visa, prueba de viaje de salida o certificados de vacunación, especialmente para la fiebre amarilla. Consultá los requisitos específicos de tu destino antes de viajar.",
+      "7_answer": "Los sitios imperdibles incluyen las Cataratas del Iguazú en la frontera entre Argentina y Brasil, el salar de Uyuni en Bolivia, el encanto colonial de Cartagena en Colombia y las Islas Galápagos en Ecuador. Cada destino ofrece una visión única de las maravillas naturales y culturales de Sudamérica.",
+      "8_answer": "Viajar entre países en Sudamérica es conveniente con vuelos de LATAM, Avianca y aerolíneas de bajo costo como Sky Airline. Los autobuses también son una opción escénica y económica para distancias cortas, con rutas a través de fronteras y dentro de los países.",
+      "9_answer": "Sí, varias aerolíneas de bajo costo operan dentro de y hacia Sudamérica, incluyendo JetSMART, Sky Airline y Flybondi. Estas aerolíneas brindan opciones económicas para conectar ciudades populares y destinos turísticos.",
+      "10_answer": "Las pautas de COVID-19 varían según el país e incluyen requisitos de vacunación, pruebas o cuarentena. Recomendamos verificar el sitio oficial de salud de cada país o tu aerolínea para conocer las últimas restricciones y requisitos antes de tu viaje.",
+      "11_answer": "Para ofertas de vuelos de último momento, TICKETS.AR ofrece acceso rápido a vuelos disponibles con tarifas competitivas. La flexibilidad en las fechas de viaje y los destinos puede ayudarte a encontrar las mejores ofertas de última hora.",
+      "12_answer": "Esenciales para Sudamérica incluyen ropa cómoda para climas variados, zapatos resistentes, un adaptador de viaje y repelente de insectos. Para aventuras al aire libre, llevá una campera impermeable, protector solar y las vacunas requeridas para ciertas áreas.",
+      "13_answer": "Ahorra en alojamiento explorando hostels, casas de huéspedes y hoteles económicos, que están ampliamente disponibles. Reservar con anticipación en TICKETS.AR puede ayudar a asegurar ofertas, y considerá alternativas como alquileres vacacionales o opciones de alojamiento compartido.",
+      "14_answer": "LATAM, American Airlines y Delta son conocidas por ofrecer vuelos de larga distancia de calidad a Sudamérica, con opciones desde importantes centros internacionales, asientos cómodos y servicios a bordo para vuelos de larga duración.",
+      "15_answer": "Los tiempos de vuelo dentro de Sudamérica desde Argentina varían según el destino. Los vuelos regionales a países vecinos como Chile o Brasil pueden tomar entre 2 y 4 horas, mientras que los vuelos más largos a países del norte, como Colombia, pueden tomar alrededor de 6 a 7 horas.",
+      "16_answer": "Para ahorrar dinero, viajá durante la temporada baja, usá transporte local y comé en lugares locales. Reservá vuelos con anticipación a través de TICKETS.AR y explorá alojamientos económicos como hostels o casas de huéspedes para mayores ahorros.",
+      "17_answer": "Sí, podés reservar vuelos directos desde Argentina a muchos destinos de Sudamérica. Usá TICKETS.AR para encontrar vuelos directos operados por aerolíneas como Aerolíneas Argentinas, LATAM y Avianca a las principales ciudades del continente.",
+      "18_answer": "Los principales destinos costeros incluyen la playa de Copacabana en Brasil, las playas caribeñas de Cartagena en Colombia y Punta del Este en Uruguay. La costa de Lima en Perú también ofrece una gran belleza escénica y cultura vibrante a lo largo del Océano Pacífico.",
+      "19_answer": "Unite a programas de viajero frecuente ofrecidos por aerolíneas como LATAM Pass, Aerolíneas Plus o Avianca LifeMiles. Al reservar con TICKETS.AR, podés elegir vuelos que te permitan acumular puntos y canjearlos para futuros viajes.",
+      "20_answer": "Los precios de los vuelos varían según la temporada y el destino, con boletos que generalmente oscilan entre 300 y 1,000 USD. Para las mejores ofertas, reservá con anticipación y utilizá TICKETS.AR para comparar precios entre varias aerolíneas."
+    }
+  }
+}

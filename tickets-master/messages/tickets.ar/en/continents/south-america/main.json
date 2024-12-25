@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-5°C to 15°C",
+    "winter_fahrenheit": "23°F to 59°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC-10 to UTC-3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "37 million",
+    "tourists_note": "Pre COVID-19 data",
+    "demographics_countries": "12",
+    "demographics_population": "432 million",
+    "heritage_range": "100",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+
+		"faq": {
+	    "1_answer": "South America is rich with diverse landscapes and cultural landmarks. Don’t miss iconic destinations like Machu Picchu in Peru, the beaches of Rio de Janeiro in Brazil, the vibrant cityscape of Buenos Aires in Argentina, the Andes Mountains in Chile, and the awe-inspiring Amazon Rainforest spread across multiple countries. Each offers a unique experience that immerses you in history, nature, and local culture.",
+	    "2_answer": "To find affordable flights to South America, use TICKETS.AR to compare fares from major airlines and low-cost carriers. Flexible dates and early bookings can help reduce costs. Set up alerts to be notified of price drops or special promotions on flights to South America.",
+	    "3_answer": "The best time to visit South America depends on the region. December to March is ideal for exploring Patagonia, while May to September is perfect for Amazon adventures. Coastal areas are vibrant year-round, but for better deals, consider traveling during shoulder seasons like April or October.",
+	    "4_answer": "Several major airlines frequently fly to South America, including LATAM Airlines, Avianca, American Airlines, Delta, and Copa Airlines. Budget airlines like Sky Airline and JetSMART also offer affordable regional routes.",
+	    "5_answer": "To secure the best deals during peak seasons, book flights well in advance and use TICKETS.AR’s price comparison tool. Early morning or late-night flights often offer lower fares. Flexible dates can also help you spot more affordable options.",
+	    "6_answer": "Entry requirements vary by country, but typically you'll need a valid passport. Some countries may require a visa, proof of onward travel, or vaccination certificates, especially for Yellow Fever. Check the specific entry requirements for your destination before you travel.",
+	    "7_answer": "Must-see spots include the Iguazu Falls on the Argentina-Brazil border, Salar de Uyuni salt flats in Bolivia, Cartagena’s colonial charm in Colombia, and the Galápagos Islands in Ecuador. Each destination offers a unique glimpse into South America's natural and cultural wonders.",
+	    "8_answer": "Traveling between countries in South America is convenient with flights from LATAM, Avianca, and low-cost carriers like Sky Airline. Bus travel is also a scenic and affordable option for shorter distances, offering routes across borders and within countries.",
+	    "9_answer": "Yes, several low-cost airlines operate within and to South America, including JetSMART, Sky Airline, and Flybondi. These carriers provide budget-friendly options to connect you across popular cities and tourist destinations.",
+	    "10_answer": "COVID-19 guidelines vary by country and may include requirements for vaccination, testing, or quarantine. We recommend checking each country’s official health site or your airline for the latest travel restrictions and requirements before your trip.",
+	    "11_answer": "For last-minute flight deals, TICKETS.AR provides quick access to available flights at competitive rates. Flexibility with travel dates and destinations can help you find the best last-minute deals.",
+	    "12_answer": "Essentials for South America include comfortable clothing for varying climates, sturdy shoes, a travel adapter, and insect repellent. For outdoor adventures, pack a rain jacket, sunscreen, and any required vaccinations for certain areas.",
+	    "13_answer": "Save on accommodation by exploring hostels, guesthouses, and budget hotels, which are widely available. Booking in advance on TICKETS.AR can help secure deals, and consider alternatives like vacation rentals or shared accommodation options.",
+	    "14_answer": "LATAM, American Airlines, and Delta are known for providing quality long-haul flights to South America, offering options from major international hubs with comfortable seating and in-flight amenities for long-distance travel.",
+	    "15_answer": "Flight times within South America from Argentina vary by destination. Regional flights to neighboring countries like Chile or Brazil can take 2-4 hours, while longer flights to countries further north, such as Colombia, may take around 6-7 hours.",
+	    "16_answer": "To save money, travel during the off-peak season, use local transportation, and dine at local eateries. Book flights early through TICKETS.AR and explore budget-friendly accommodations like hostels or guesthouses for further savings.",
+	    "17_answer": "Yes, you can book non-stop flights from Argentina to many South American destinations. Use TICKETS.AR to find direct flights operated by airlines like Aerolineas Argentinas, LATAM, and Avianca to major cities within the continent.",
+	    "18_answer": "Top coastal spots include Brazil’s Copacabana Beach, Colombia’s Caribbean beaches in Cartagena, and Uruguay’s Punta del Este. Peru’s Lima coastline also offers scenic beauty and vibrant culture along the Pacific Ocean.",
+	    "19_answer": "Join frequent flyer programs offered by airlines such as LATAM Pass, Aerolineas Plus, or Avianca LifeMiles. By booking with TICKETS.AR, you can choose flights that allow you to accumulate points and redeem them for future travel.",
+	    "20_answer": "Flight prices vary by season and destination, with tickets generally ranging from $300 to $1,000 USD. For the best deals, book in advance and use TICKETS.AR to compare prices across multiple airlines."
+	  }
+	}
+}

@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through {{continent}} with {{domain}} ✈️",
+      "description": "Plan the ultimate adventure across {{continent}} with {{domain}}. Get travel tips on top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more"
+    }
+  },
+  "continent": {
+    "banner_title": "Discover {{title}} from Argentina",
+    "banner_sub": "Uncover exclusive travel deals, expert guides, and exciting activities across {{title}}",
+
+    "intro_title": "{{continent}} Travel Handbook",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C to 5°C",
+    "winter_fahrenheit": "14°F to 41°F",
+    "spring_celsius": "5°C to 20°C",
+    "spring_fahrenheit": "41°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "5°C to 15°C",
+    "autumn_fahrenheit": "41°F to 59°F",
+
+    "timezone_range": "UTC-1 to UTC+3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "743.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 million",
+    "heritage_range": "445",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Find the Best Flight Deals to {{continent}}",
+    "destinations_description": "Explore budget-friendly routes and off-the-beaten-path destinations throughout {{continent}} with our handpicked travel options, perfect for any explorer",
+    
+    "faq": {
+      "1_answer": "Europe offers countless incredible destinations. Must-visit spots include Paris for its art and romance, Rome for ancient history, Barcelona for stunning architecture, and Amsterdam for its picturesque canals. Don't miss the beauty of the Swiss Alps or the scenic coastline of Greece and Croatia, which are perfect for both relaxation and adventure.",
+      "2_answer": "To find affordable flights to Europe, start by booking in advance, using flexible dates, and setting up fare alerts with TICKETS.AR. Compare prices from multiple airlines and consider nearby airports to maximize savings on your journey to Europe.",
+      "3_answer": "The ideal time to visit Europe depends on your interests. Spring (April to June) and fall (September to October) offer pleasant weather, fewer crowds, and lower prices. Summer is peak season, perfect for beach destinations, while winter is ideal for visiting Christmas markets and ski resorts.",
+      "4_answer": "Popular airlines flying from Argentina to Europe include Iberia, Air France, Lufthansa, and British Airways. Many offer convenient connections and a range of amenities, making it easy to reach various European destinations.",
+      "5_answer": "Finding deals during peak seasons can be challenging, but booking early and using flexible dates can help. Set up fare alerts on TICKETS.AR and consider mid-week flights, which are often more affordable than weekend options. Also, keep an eye out for seasonal promotions.",
+      "6_answer": "For most European countries, you'll need a valid passport with at least six months' validity. Some countries may require a Schengen visa for entry. Be sure to check specific visa requirements based on your itinerary, as they can vary by country.",
+      "7_answer": "Top tourist spots in Europe include the Eiffel Tower in Paris, the Colosseum in Rome, Sagrada Familia in Barcelona, and Big Ben in London. Nature lovers should explore Norway’s fjords, while art enthusiasts will enjoy the museums in Amsterdam and Florence.",
+      "8_answer": "Traveling between European countries is easy with options like high-speed trains, budget airlines, and convenient bus services. The Eurail pass offers extensive train travel across multiple countries, making it ideal for those looking to explore several destinations.",
+      "9_answer": "Yes, Europe has several low-cost airlines, such as Ryanair, EasyJet, and Wizz Air, which offer affordable flights between major cities and popular tourist destinations. Be sure to book early for the best prices and review baggage policies.",
+      "10_answer": "COVID-19 guidelines for Europe vary by country and are updated frequently. Check each country’s health and entry requirements before you travel. Many nations still require proof of vaccination or a recent negative test, so it's essential to stay informed about current regulations.",
+      "11_answer": "To find last-minute flight offers to Europe, check TICKETS.AR regularly as we update deals from top airlines. Signing up for newsletters and fare alerts can also help you grab spontaneous offers on flights.",
+      "12_answer": "For a trip to Europe, pack essentials such as a universal power adapter, travel-sized toiletries, comfortable walking shoes, weather-appropriate clothing, and your passport. Travel insurance and a small first-aid kit are also highly recommended.",
+      "13_answer": "To save on accommodation, consider staying in hostels, budget hotels, or short-term rentals. Booking in advance and exploring off-peak times can also help. Platforms like Airbnb and Booking.com offer affordable lodging options throughout Europe.",
+      "14_answer": "Airlines like Lufthansa, British Airways, and KLM offer highly-rated long-distance flights from Argentina to Europe, known for their comfort, excellent service, and in-flight amenities. Many also provide direct or one-stop connections to major European hubs.",
+      "15_answer": "The flight time from Argentina to Europe varies depending on the destination. Direct flights to cities like Madrid typically take around 12–13 hours, while one-stop flights to other parts of Europe may take 15 hours or more.",
+      "16_answer": "For budget-friendly travel in Europe, consider using public transportation, eating at local markets, and exploring free attractions like parks and museums. Traveling off-peak and using budget airlines or rail passes can help stretch your budget further.",
+      "17_answer": "Yes, non-stop flights from Argentina to Europe are available, mainly to Madrid, with airlines like Aerolineas Argentinas and Iberia. Non-stop flights offer the quickest route, ideal for those looking to save time on their journey.",
+      "18_answer": "Europe boasts stunning coastal spots like the Amalfi Coast in Italy, the French Riviera, Spain’s Costa Brava, and the Greek Islands. These areas are famous for their beautiful beaches, turquoise waters, and charming towns, perfect for a seaside escape.",
+      "19_answer": "Many airlines offer frequent flyer programs, allowing you to earn points on flights to Europe. Programs like Lufthansa’s Miles & More and Air France-KLM’s Flying Blue provide rewards that can be redeemed for future travel, upgrades, and more.",
+      "20_answer": "The typical price range for flights to Europe from Argentina varies based on the season, destination, and booking time. On average, round-trip fares range from $800 to $1,200 USD. Booking in advance and keeping an eye out for promotions can help reduce costs."
+    }
+  }
+}

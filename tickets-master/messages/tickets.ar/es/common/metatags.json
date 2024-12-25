@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Encuentra y Compara Vuelos Baratos en Argentina ✈️ | {{domain}}",
+      "description": "Descubre ofertas imbatibles en vuelos dentro de Argentina y más allá. Usa {{domain}} para comparar precios, reservar fácilmente y ahorrar en tu próxima aventura.",
+      "img_alt": "Vuelos Asequibles en Argentina | {{domain}}"
+    },
+    "flights": {
+      "title": "Vuelos Económicos a los Mejores Destinos de Argentina ✈️ | {{domain}}",
+      "description": "Busca y compara vuelos económicos a destinos populares en Argentina y en el extranjero. Encuentra las mejores ofertas de viaje con {{domain}}.",
+      "img_alt": "Vuelos Baratos a las Principales Ciudades de Argentina | {{domain}}"
+    },
+    "destinations": {
+      "title": "Explora Destinos en Todo el Mundo con Vuelos Asequibles ✈️ | {{domain}}",
+      "description": "Reserva vuelos a los principales destinos globales a precios inmejorables. Con {{domain}}, encuentra vuelos baratos y comienza tu viaje por menos.",
+      "img_alt": "Vuelos Internacionales Económicos | {{domain}}"
+    },
+    "continent": {
+      "title": "Vuelos Asequibles a través de {{continent}} ✈️ | Reserva Ahora con {{domain}}",
+      "description": "Ahorra en vuelos por {{continent}}. {{domain}} te trae las mejores opciones para explorar ciudades emocionantes y paisajes impresionantes en {{continent}}.",
+      "img_alt": "Vuelos Baratos en {{continent}} | {{domain}}"
+    },
+    "country": {
+      "title": "Vuelos Económicos a {{country}} ✈️ | Explora con {{domain}}",
+      "description": "Descubre grandes ofertas en vuelos por {{country}}. Con {{domain}}, reserva vuelos económicos a las principales ciudades y joyas ocultas en {{country}}.",
+      "img_alt": "Vuelos Asequibles a {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Vuelos Baratos a {{city}} desde Solo $20 ✈️ | Reserva Ahora con {{domain}}",
+      "title_1": "Encuentra Vuelos Económicos a {{city}} | Tarifas desde $20 ✈️ {{domain}}",
+      "description": "¿Buscas vuelos baratos a {{city}}? {{domain}} hace fácil comparar tarifas y encontrar los mejores precios para tus fechas preferidas.",
+      "description_1": "Descubre ofertas exclusivas en vuelos a {{city}}. {{domain}} te ayuda a conseguir las mejores tarifas con nuestra herramienta de comparación inteligente.",
+      "img_alt": "Vuelos Asequibles a {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "Acerca de {{domain}} | Cómo Encontramos las Mejores Ofertas de Vuelos",
+      "description": "Conoce más sobre {{domain}}, tu plataforma de confianza para comparar y reservar vuelos a precios bajos. Ayudamos a los viajeros a encontrar vuelos económicos en todo el mundo.",
+      "img_alt": "Sobre Nosotros | {{domain}}"
+    },
+    "contact": {
+      "title": "Contacto {{domain}} | Obtén Ayuda para Tus Planes de Viaje",
+      "description": "¿Necesitas ayuda con reservas o consultas de viaje? Contacta al equipo de soporte de {{domain}} para obtener asesoramiento y ayuda experta con tus necesidades de vuelo.",
+      "img_alt": "Obtén Soporte de Viaje | {{domain}}"
+    }
+  }
+}

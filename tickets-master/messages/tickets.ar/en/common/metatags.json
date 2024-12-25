@@ -1,0 +1,46 @@
+{
+  "metatags": {
+    "home": {
+      "title": "Find & Compare Cheap Flights Across Argentina ✈️ | {{domain}}",
+      "description": "Discover unbeatable deals on flights within Argentina and beyond. Use {{domain}} to compare prices, book easily, and save on your next adventure.",
+      "img_alt": "Affordable Flights Across Argentina | {{domain}}"
+    },
+    "flights": {
+      "title": "Budget-Friendly Flights to Top Destinations in Argentina ✈️ | {{domain}}",
+      "description": "Search and compare affordable flights to popular destinations in Argentina and beyond. Find the best travel deals with {{domain}}.",
+      "img_alt": "Cheap Flights to Argentina’s Top Cities | {{domain}}"
+    },
+    "destinations": {
+      "title": "Explore Worldwide Destinations with Affordable Flights ✈️ | {{domain}}",
+      "description": "Book flights to top global destinations at unbeatable prices. With {{domain}}, find cheap flights and start your journey for less.",
+      "img_alt": "Cheap International Flights | {{domain}}"
+    },
+    "continent": {
+      "title": "Affordable Flights Across {{continent}} ✈️ | Book Now with {{domain}}",
+      "description": "Save on flights across {{continent}}. {{domain}} brings you the best options to explore exciting cities and stunning landscapes in {{continent}}.",
+      "img_alt": "Cheap Flights in {{continent}} | {{domain}}"
+    },
+    "country": {
+      "title": "Low-Cost Flights to {{country}} ✈️ | Explore with {{domain}}",
+      "description": "Discover great deals on flights across {{country}}. With {{domain}}, book affordable flights to major cities and hidden gems in {{country}}.",
+      "img_alt": "Affordable Flights to {{country}} | {{domain}}"
+    },
+    "city": {
+      "title": "Cheap Flights to {{city}} from Just $20 ✈️ | Book Now with {{domain}}",
+      "title_1": "Find Budget Flights to {{city}} | Fares Starting at $20 ✈️ {{domain}}",
+      "description": "Looking for cheap flights to {{city}}? {{domain}} makes it easy to compare fares and find the best prices for your preferred dates.",
+      "description_1": "Discover exclusive deals on flights to {{city}}. {{domain}} helps you secure the best rates with our smart comparison tool.",
+      "img_alt": "Affordable Flights to {{city}} | {{domain}}"
+    },
+    "about": {
+      "title": "About {{domain}} | How We Find the Best Flight Deals",
+      "description": "Learn more about {{domain}}, your go-to platform for comparing and booking flights at low prices. We help travelers find affordable flights worldwide.",
+      "img_alt": "About Us | {{domain}}"
+    },
+    "contact": {
+      "title": "Contact {{domain}} | Get Help with Your Travel Plans",
+      "description": "Need assistance with bookings or travel queries? Contact the {{domain}} support team for expert advice and help with your flight needs.",
+      "img_alt": "Get Travel Support | {{domain}}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "contact": {
+    "invalid_email_address": "Por favor, insira um endereço de e-mail válido",
+    "please_fill_all_fields": "Certifique-se de que todos os campos estão preenchidos",
+    "please_complete_form": "Por favor, complete o formulário completamente antes de enviá-lo novamente",
+    "thanks_for_contact": "Obrigado por entrar em contato! Se houver um problema genuíno, entraremos em contato em breve.",
+    "something_went_wrong": "Ops, algo deu errado. Tente novamente.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Enviar mensagem",
+    "your_name": "Seu Nome",
+    "email": "Seu E-mail",
+    "subject": "Assunto",
+    "your_message": "Sua Mensagem",
+    "submit": "Enviar",
+    "get_in_touch": "Entre em Contato",
+    "our_registration_address": "Nosso endereço de registro",
+    "address": "71-75 Shelton Street, Londres WC2H 9JQ, Reino Unido",
+    "customer_support": "Assistência ao Cliente",
+    "partner_contact": "Consultas de Negócios",
+    "social_follow": "Conecte-se conosco nas redes sociais",
+    "title_faq": "Perguntas Frequentes",
+    "subtitle_faq": "Encontre respostas para perguntas comuns aqui"
+  },
+  "faq": {
+    "1": "Como posso pesquisar voos no TICKETS.PT?",
+    "1_answer": "Basta inserir suas cidades de partida e chegada junto com as datas de viagem. O TICKETS.PT pesquisará e comparará ofertas das principais companhias aéreas para ajudá-lo a encontrar as melhores ofertas.",
+
+    "2": "Posso reservar voos para destinos domésticos e internacionais?",
+    "2_answer": "Sim! O TICKETS.PT permite que você pesquise voos dentro de Portugal, assim como destinos internacionais em todo o mundo, facilitando o planejamento de qualquer viagem.",
+
+    "3": "Existem taxas ocultas ao reservar no TICKETS.PT?",
+    "3_answer": "Não, garantimos transparência. Os preços que você vê são exibidos diretamente dos nossos parceiros, e quaisquer opções adicionais, como bagagem ou upgrades, são mostradas claramente no momento do checkout.",
+
+    "4": "Quais métodos de pagamento são aceitos?",
+    "4_answer": "As opções de pagamento variam de acordo com nossos parceiros. Os métodos mais comuns incluem cartões de crédito, PayPal e outras soluções de pagamento digital.",
+
+    "5": "Posso alterar ou cancelar meu voo após a reserva?",
+    "5_answer": "Alterações ou cancelamentos dependem da política da companhia aérea. Recomendamos revisar os termos da companhia aérea antes de reservar, pois taxas podem ser aplicadas para modificações.",
+
+    "6": "Preciso de uma conta para reservar voos no TICKETS.PT?",
+    "6_answer": "Não, você não precisa criar uma conta para pesquisar ou reservar voos no TICKETS.PT. No entanto, alguns parceiros podem exigir uma conta para gerenciamento de bilhetes.",
+
+    "7": "Qual é a melhor maneira de encontrar voos baratos no TICKETS.PT?",
+    "7_answer": "Para as melhores ofertas, considere reservar com antecedência e usar datas flexíveis, se possível. O TICKETS.PT ajuda você a comparar preços entre várias companhias aéreas para encontrar as opções mais acessíveis.",
+
+    "8": "Como sei se minha reserva está confirmada?",
+    "8_answer": "Após a reserva, você receberá um e-mail de confirmação da companhia aérea ou do fornecedor de viagens com os detalhes do seu bilhete. Este e-mail serve como confirmação de reserva.",
+
+    "9": "Posso selecionar meu assento durante o processo de reserva?",
+    "9_answer": "A seleção de assento depende da companhia aérea. Se a seleção de assento estiver disponível, você verá as opções durante o processo de reserva, permitindo que você escolha seu assento preferido.",
+
+    "10": "Qual é a política de bagagem para voos reservados no TICKETS.PT?",
+    "10_answer": "As franquias de bagagem variam de acordo com a companhia aérea e o tipo de bilhete. Verifique os detalhes específicos da política de bagagem fornecidos durante o processo de reserva para evitar taxas inesperadas.",
+
+    "11": "Posso reservar acomodações em hotéis ou alugar carros pelo TICKETS.PT?",
+    "11_answer": "Sim, o TICKETS.PT oferece opções de viagem adicionais, como acomodações em hotéis e aluguel de carros por meio de nossos parceiros de confiança, permitindo que você complete seus planos de viagem com conveniência.",
+
+    "12": "O que devo fazer se meu voo for atrasado ou cancelado?",
+    "12_answer": "Em caso de atrasos ou cancelamentos, entre em contato diretamente com a companhia aérea para assistência. Eles fornecerão informações sobre remarcação ou compensação, se aplicável.",
+
+    "13": "Há promoções ou descontos exclusivos no TICKETS.PT?",
+    "13_answer": "Sim! Frequentemente, apresentamos promoções e descontos especiais de nossas companhias aéreas parceiras. Visite o TICKETS.PT regularmente para aproveitar as últimas ofertas e promoções.",
+
+    "14": "O TICKETS.PT oferece seguro de viagem?",
+    "14_answer": "Alguns de nossos parceiros oferecem opções de seguro de viagem no checkout, proporcionando mais tranquilidade para sua jornada. Revise as opções disponíveis durante a reserva.",
+
+    "15": "Quais documentos são necessários para viagens internacionais?",
+    "15_answer": "Você precisará de um passaporte válido e de quaisquer vistos exigidos para o seu destino. Verifique os requisitos oficiais de entrada do país que você está visitando antes de reservar seu voo."
+  }
+}

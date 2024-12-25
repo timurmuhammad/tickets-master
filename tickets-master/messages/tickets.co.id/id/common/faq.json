@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Panduan Anda untuk Terbang ke {{continent}} dengan TICKETS",
+    "faq": {
+      "1": "Bagaimana cara menemukan penerbangan termurah ke {{title}} dengan TICKETS?",
+      "2": "Kapan waktu terbaik untuk memesan penerbangan ke {{title}} dengan harga terendah?",
+      "3": "Maskapai apa saja yang menyediakan penerbangan langsung ke {{title}}?",
+      "4": "Apakah ada maskapai berbiaya rendah yang terjangkau untuk terbang ke {{title}}?",
+      "5": "Kapan musim perjalanan tersibuk untuk mengunjungi {{title}}?",
+      "6": "Berapa lama waktu yang biasanya dibutuhkan untuk penerbangan ke {{title}}?",
+      "7": "Apa saja destinasi wisata terbaik di {{title}}?",
+      "8": "Apakah saya memerlukan dokumen khusus untuk bepergian ke {{title}}?",
+      "9": "Apa saja kebijakan bagasi yang paling penting untuk penerbangan ke {{title}}?",
+      "10": "Bisakah saya memesan penerbangan multi-destinasi di seluruh {{title}} menggunakan TICKETS?",
+      "11": "Bagaimana cara menemukan penawaran penerbangan menit terakhir ke {{title}} di TICKETS?",
+      "12": "Maskapai apa yang terbaik untuk penerbangan jarak jauh ke {{title}}?",
+      "13": "Apakah asuransi perjalanan direkomendasikan untuk perjalanan ke {{title}}?",
+      "14": "Apa saja persyaratan visa terbaru untuk wisatawan yang menuju ke {{title}}?",
+      "15": "Apakah penerbangan non-stop ke {{title}} tersedia melalui TICKETS?",
+      "16": "Apa saja atraksi wajib yang harus dikunjungi di {{title}}?",
+      "17": "Bagaimana cara menemukan penerbangan terjangkau ke {{title}} selama musim permintaan tinggi?",
+      "18": "Apa saja pembaruan terkait peringatan perjalanan atau pembatasan untuk {{title}}?",
+      "19": "Rute penerbangan mana yang menawarkan pemandangan paling indah saat bepergian ke {{title}}?",
+      "20": "Bandara mana yang paling nyaman saat terbang ke {{title}}?"
+    }
+  }
+}

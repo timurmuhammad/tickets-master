@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planifica la aventura definitiva a través de {{continent}} con {{domain}}. Obtén consejos de viaje sobre los principales destinos, experiencias culturales, opciones económicas, gastronomía local, consejos de seguridad, atracciones imperdibles y mucho más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Descubre ofertas exclusivas de viajes, guías de expertos y emocionantes actividades en {{title}}",
+
+    "intro_title": "Manual de Viajes por {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-20°C a 10°C",
+    "winter_fahrenheit": "-4°F a 50°F",
+    "spring_celsius": "0°C a 20°C",
+    "spring_fahrenheit": "32°F a 68°F",
+    "summer_celsius": "20°C a 35°C",
+    "summer_fahrenheit": "68°F a 95°F",
+    "autumn_celsius": "10°C a 20°C",
+    "autumn_fahrenheit": "50°F a 68°F",
+
+    "timezone_range": "UTC-10 a UTC-3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "137,9 millones",
+    "tourists_note": "Turistas Internacionales, 2019",
+    "demographics_countries": "23",
+    "demographics_population": "579 millones",
+    "heritage_range": "23",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos fuera de lo común en {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+
+    "faq": {
+      "1_answer": "Cuando visites América del Norte, asegúrate de explorar destinos icónicos como la Ciudad de Nueva York, el Gran Cañón, el Parque Nacional Yellowstone y las Cataratas del Niágara. Cada lugar ofrece experiencias únicas, desde la bulliciosa vida urbana hasta impresionantes maravillas naturales.",
+      "2_answer": "Para encontrar vuelos económicos a América del Norte, usa {{domain}} para comparar precios entre varias aerolíneas, configurar alertas de tarifas y considera reservar en temporadas bajas, cuando los precios suelen ser más bajos.",
+      "3_answer": "La mejor época para viajar a América del Norte depende de tu destino. Para disfrutar de un clima más cálido, considera viajar entre mayo y septiembre. Los aficionados a los deportes de invierno deberían planear su viaje entre diciembre y febrero para disfrutar del esquí y el snowboard en regiones como Colorado y Canadá.",
+      "4_answer": "Las principales aerolíneas que vuelan a América del Norte incluyen American Airlines, Delta, United, Air Canada y Avianca. Estas aerolíneas ofrecen numerosos vuelos que conectan ciudades a lo largo del continente.",
+      "5_answer": "Durante las temporadas altas, la mejor manera de encontrar buenas ofertas es reservar con anticipación, utilizar herramientas de comparación de tarifas como {{domain}} y ser flexible con las fechas y horarios de viaje.",
+      "6_answer": "Para ingresar a la mayoría de los países de América del Norte, los viajeros necesitarán un pasaporte válido. Dependiendo de tu nacionalidad, también puede ser necesario un visado o Autorización Electrónica de Viaje (ETA), como un ESTA para EE. UU. o un ETA para Canadá.",
+      "7_answer": "En América del Norte, los lugares turísticos imperdibles incluyen la Estatua de la Libertad, el Strip de Las Vegas, Disney World, el Puente Golden Gate y el Monte Rushmore, que ofrecen una mezcla de experiencias históricas y de entretenimiento.",
+      "8_answer": "Viajar entre países en América del Norte es fácil con numerosas conexiones de vuelos. Además, puedes explorar opciones de transporte terrestre como trenes, autobuses y alquiler de autos para viajes cortos, especialmente entre EE. UU. y Canadá.",
+      "9_answer": "Varias aerolíneas de bajo costo operan vuelos hacia América del Norte, incluidas Spirit Airlines, Frontier Airlines, Southwest Airlines y JetBlue. Estas aerolíneas ofrecen opciones económicas con comodidades limitadas a bordo.",
+      "10_answer": "Las pautas actuales sobre COVID-19 para América del Norte varían según el país. Asegúrate de verificar las regulaciones de salud y seguridad de cada país, como los requisitos de vacunación o pruebas, antes de reservar tu viaje.",
+      "11_answer": "Para ofertas de vuelos de última hora a América del Norte, revisa regularmente {{domain}} para obtener ofertas relámpago, tarifas con descuento y promociones de aerolíneas. Ser flexible con las fechas de salida también puede ayudar a conseguir una gran oferta.",
+      "12_answer": "Para un viaje a América del Norte, empaca lo esencial como zapatos cómodos para caminar, adaptadores de viaje (especialmente para EE. UU. y Canadá), un pasaporte válido y las visas requeridas. También es recomendable tener moneda local o una tarjeta de crédito aceptada en todo el mundo.",
+      "13_answer": "Para ahorrar en costos de alojamiento, considera reservar hoteles económicos, alquileres vacacionales o albergues. También puedes buscar promociones en {{domain}} o utilizar puntos de lealtad para reducir tus gastos.",
+      "14_answer": "Aerolíneas como Avianca, American Airlines y Delta ofrecen excelentes vuelos de larga distancia a América del Norte desde Colombia, con opciones de vuelos directos y comodidades a bordo para un viaje cómodo.",
+      "15_answer": "Un vuelo desde Colombia a América del Norte generalmente tarda entre 5 y 7 horas, dependiendo de tu destino. Los vuelos hacia el sur de los EE. UU. son más cortos, mientras que los viajes a regiones del norte o del oeste de América del Norte pueden durar más.",
+      "16_answer": "Para viajar de manera económica en América del Norte, considera usar el transporte público, comer en restaurantes locales y reservar vuelos y alojamientos con anticipación. Visitar durante la temporada baja también puede resultar en ahorros significativos.",
+      "17_answer": "Sí, hay vuelos directos desde Colombia a varios destinos en América del Norte, incluidas ciudades importantes como Miami, Nueva York y Ciudad de México, que pueden reservarse a través de {{domain}}.",
+      "18_answer": "Algunos de los mejores lugares costeros para visitar en América del Norte incluyen Miami Beach, Cancún, la costa de Vancouver y las playas del Pacífico de California, que ofrecen paisajes impresionantes y actividades recreativas.",
+      "19_answer": "Para ganar recompensas de aerolíneas mientras vuelas a América del Norte, inscríbete en programas de viajero frecuente como LifeMiles de Avianca, AAdvantage de American o SkyMiles de Delta. Muchas aerolíneas también ofrecen tarjetas de crédito asociadas para obtener recompensas adicionales en compras.",
+      "20_answer": "Los precios de los vuelos a América del Norte varían considerablemente, pero puedes esperar que los boletos de ida y vuelta desde Colombia comiencen alrededor de los 300 USD, con precios que aumentan durante las temporadas de mayor demanda y dependiendo de la aerolínea y el destino."
+    }
+  }
+}

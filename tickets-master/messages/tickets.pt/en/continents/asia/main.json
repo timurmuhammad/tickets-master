@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore Asia with TICKETS ✈️",
+      "description": "Embark on an unforgettable journey to Asia with TICKETS.PT. Discover top destinations, amazing travel deals, cultural experiences, budget options, and travel tips all in one place!"
+    }
+  },
+  "continent": {
+    "banner_title": "Uncover Asia from Portugal",
+    "banner_sub": "Explore exclusive deals and unforgettable adventures with TICKETS.PT, your travel partner for discovering Asia.",
+    
+    "intro_title": "Asia Travel Guide",
+    "intro_content": "Asia offers a diverse range of travel experiences, from vibrant cities and serene temples to breathtaking natural wonders. With TICKETS.PT, explore Asia's top destinations, compare flight options, and secure the best prices to make your travel dreams come true. Discover local insights and create memorable journeys tailored to your interests.",
+
+    "winter_celsius": "-10°C to 10°C",
+    "winter_fahrenheit": "14°F to 50°F",
+    "spring_celsius": "10°C to 25°C",
+    "spring_fahrenheit": "50°F to 77°F",
+    "summer_celsius": "25°C to 40°C",
+    "summer_fahrenheit": "77°F to 104°F",
+    "autumn_celsius": "10°C to 20°C",
+    "autumn_fahrenheit": "50°F to 68°F",
+
+    "timezone_range": "UTC+4 to UTC+10",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "348.5 million",
+    "tourists_note": "International Tourists in 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4.64 billion",
+    "heritage_range": "705",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Explore Top Destinations Across Asia",
+    "destinations_description": "Dive into unique adventures in Asia with TICKETS.PT. Whether you're looking for bustling cities, serene beaches, or cultural landmarks, our platform connects you with budget-friendly flights and top travel tips to plan the perfect getaway.",
+
+    "faq": {
+      "1_answer": "Asia is known for its iconic destinations. From Tokyo’s dynamic energy to the beaches of Bali and the ancient ruins of Angkor Wat, there’s something for every traveler. Other must-sees include the Great Wall in China, the Taj Mahal in India, and the serene temples of Kyoto.",
+      "2_answer": "Use TICKETS.PT to compare fares across multiple airlines and providers. Look for flights during the off-peak season, book well in advance, and set up alerts for the latest deals.",
+      "3_answer": "For most parts of Asia, the best travel months are from November to March when the weather is mild. Avoid peak summer to secure more budget-friendly fares.",
+      "4_answer": "Top airlines for flights from Portugal to Asia include Emirates, Qatar Airways, Turkish Airlines, and Singapore Airlines, known for their quality service and extensive Asian networks.",
+      "5_answer": "Booking early or flying on weekdays can help secure affordable prices even during peak seasons. Set alerts on TICKETS.PT and consider nearby airports for additional savings.",
+      "6_answer": "Portuguese travelers need a passport, and many Asian countries require a visa. Always verify specific entry requirements before booking.",
+      "7_answer": "Asia is home to extraordinary attractions such as Kyoto’s temples, the beaches of Thailand, Ha Long Bay in Vietnam, and the modern metropolises of Tokyo and Hong Kong.",
+      "8_answer": "Traveling within Asia is convenient with options like budget airlines, high-speed trains, and ferries. Consider AirAsia for flights and Japan's bullet trains for scenic journeys.",
+      "9_answer": "Yes, budget airlines like AirAsia and Scoot offer affordable travel within and to Asia. Check TICKETS.PT for the latest deals.",
+      "10_answer": "Health and safety guidelines vary by country. Stay informed about COVID-19 regulations, including potential quarantine or testing requirements.",
+      "11_answer": "TICKETS.PT regularly highlights last-minute deals, so check often for discounts and special fares.",
+      "12_answer": "Travel essentials for Asia include a power adapter, comfortable footwear, weather-appropriate clothing, and a secure travel bag for documents.",
+      "13_answer": "Save on accommodations by using hostels, short-term rentals, or budget hotels. Booking outside main tourist hubs often yields better rates.",
+      "14_answer": "For long-haul flights, top carriers like Emirates and Qatar Airways offer excellent service and comfort, making the journey from Portugal to Asia smooth and enjoyable.",
+      "15_answer": "Flights from Portugal to Asia typically take between 12 to 18 hours depending on layovers. Direct options are limited, so plan for stopovers.",
+      "16_answer": "To make travel affordable, opt for street food, use public transport, and explore free attractions. Hostels or budget accommodations are also widely available.",
+      "17_answer": "Non-stop flights are limited, but many routes offer one or two stopovers through hubs like Dubai and Istanbul.",
+      "18_answer": "Asia has countless coastal spots, including Thailand’s Phuket, Indonesia’s Bali, and the Philippines’ Boracay, ideal for beach enthusiasts.",
+      "19_answer": "Earn travel rewards by joining loyalty programs like Qatar Privilege Club or Emirates Skywards, and by using travel credit cards to accumulate points.",
+      "20_answer": "Flight prices from Portugal to Asia start around €600 for round trips, varying with season and availability. Monitor fares on TICKETS.PT for the best deals."
+    }
+  }
+}

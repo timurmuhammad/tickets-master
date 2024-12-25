@@ -1,0 +1,76 @@
+{
+  "header": {
+    "header_banner_text": "Expanding Your Travel Horizons with TICKETS.AR",
+    "bonus_title": "Unlock More Savings ✈️ with TICKETS Rewards",
+    "bonus_sub": "Earn points on every booking and enjoy exclusive rewards 🎉 for your travels with TICKETS.AR!"
+  },
+  "home": {
+    "h1": "Find the Best Deals on Flights Across Argentina and Worldwide",
+    "top_destinations": "Top 2024 Travel Destinations in Argentina",
+    "top_destinations_sub": "Book flights effortlessly and enjoy unbeatable prices on popular routes",
+    "city_card_hover": "Curious about flight prices from {{destinationFrom}} to {{destinationTo}}? Click here! 🚀",
+    "counter_subtitle": "With TICKETS.AR, explore and compare flights from all major airlines. Our intuitive platform makes finding the best flight deals easy and quick for your next journey",
+
+    "flights_near_you": "Find Affordable Flights from Your Local Airports",
+    "flights_near_you_sub": "Our smart search engine shows the best flights from nearby airports, featuring top destinations in Argentina, Latin America, and beyond",
+    "loading_affordable_flights": "Searching for the top flight deals near you...",
+    "no_flights_to_destination": "We couldn’t find flights from {{destination1}} to {{destination2}}. Check out options from {{destination3}} instead",
+
+    "continent_destinations_title": "Explore Flights to International Destinations",
+    "continent_destinations_sub": "Discover fantastic prices on intercontinental flights, complete with route details and airline options",
+
+    "partners_title": "Trusted Partners: Connecting You with Leading Airlines Worldwide",
+
+    "about_title": "Effortless Booking with TICKETS.AR: Flights, Hotels, and More",
+    "about_sub": "Planning your next trip has never been easier. Find flights at the lowest prices, secure the best hotel deals, and let us take care of your journey.",
+    "cheap_destinations_title": "Unmissable Flight Deals to Popular Destinations",
+    "cheap_destinations_sub": "Discover exclusive offers on flights to your favorite cities across Argentina and Latin America"
+  },
+  "flights": {
+    "flights_title": "Find and Book the Best Flight for Your Journey",
+    "intro_title": "Travel Smart, Save Big",
+    "intro_descr": "With TICKETS.AR, finding your perfect flight is simple. Compare top airlines, select your best fit, and book with confidence."
+  },
+  "destinations": {
+    "destinations_title_part_1": "Discover",
+    "destinations_title_part_2": "Your Next Destination",
+    "destinations_img_alt": "Explore Global Destinations with TICKETS.AR",
+    "destinations_sub": "Uncover hidden gems and iconic destinations worldwide, and find affordable flights to suit your budget!",
+    "seo_title": "Find Cheap Flights in Argentina and Beyond",
+    "seo_sub": "Unlock unbeatable deals on flights across Argentina, Latin America, and global destinations.",
+    "seo_text_1": "Searching for affordable flights across Argentina? TICKETS.AR brings you the lowest prices, whether you're traveling to major cities or off-the-beaten-path locations.",
+    "seo_text_2": "TICKETS.AR offers exclusive deals for flights across Argentina, from Patagonia to the Andes. Enjoy cost-effective travel through our seamless flight comparison tool.",
+    "seo_text_3": "Get travel tips, explore budget-friendly locations, and make the most of your journey with TICKETS.AR—your reliable source for affordable flights.",
+    "seo_text_4": "Whether you’re planning a city getaway to Buenos Aires or a nature adventure in Bariloche, TICKETS.AR has the top flight deals ready for you.",
+    "continents_title": "Explore Affordable Flights Across the Globe",
+    "continents_sub": "Discover cost-effective flights to top destinations on every continent, including Latin America and beyond.",
+    "flights_title": "Flights for Every Type of Adventure",
+    "flights_sub": "Use our advanced search filters to personalize your travel experience and find the best flight deals worldwide."
+  },
+  "destinations_country": {
+    "destinations_title": "Top Flights to {{country}}",
+    "destinations_description": "Discover budget-friendly flights to {{country}} with tailored recommendations for an unforgettable trip."
+  },
+  "destinations_city": {
+    "flights_search_banner": {
+      "banner_title": "Find the Best Flight Deals to {{destination}}",
+      "banner_description": "Browse over 1,200 airlines to secure the most competitive prices for your trip to {{destination}}."
+    },
+    "destinations_desc": "Plan your journey to {{city}} with our exclusive flight deals and take advantage of our calendar for optimal dates and rates."
+  },
+  "404": {
+    "title": "Oops! Page Not Found",
+    "subtitle": "Sorry, we can't locate the page. Try searching or check out our menu options."
+  },
+  "alert": {
+    "best_price_guarantee_title": "Guaranteed Best Prices with TICKETS.AR",
+    "best_price_guarantee_sub": "Book with peace of mind, knowing you're getting top deals on flights, hotels, and more."
+  },
+  "pagination": {
+    "show_more_expensive_dates": "See Flights for Different Dates"
+  },
+  "call_to_actions": {
+    "signup_title": "Stay Updated with the Best Flight Deals",
+    "signup_sub": "Sign up now to receive exclusive offers and save on your next travel adventure."
+  }
+}

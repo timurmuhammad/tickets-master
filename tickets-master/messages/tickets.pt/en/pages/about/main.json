@@ -1,0 +1,23 @@
+{
+  "about": {
+    "hero_title": "Top Flight Deals with {{appName}}",
+    "hero_sub": "A seamless booking experience for flights in Portugal and beyond",
+    "hero_imgAlt": "Explore more about {{appName}}",
+
+    "content": "At {{appName}}, we’re dedicated to making travel planning simple, affordable, and accessible for everyone in Portugal. Our platform connects you with the best flight options, allowing you to search, compare, and book flights all in one place. Whether your journey takes you to a nearby city or halfway around the world, {{appName}} provides a smooth, intuitive booking experience, saving you time and ensuring you get the best value. Find the flight that suits your budget, schedule, and preferences with ease on {{appName}}.",
+
+    "quote": "Our mission: To empower travelers by offering a transparent, easy, and affordable way to find the perfect flight. Let {{appName}} guide you on your next adventure!",
+    "quote_imgAlt": "Excited traveler with boarding pass and suitcase at the airport",
+
+    "content_title": "Why Trust {{appName}} for Your Next Trip?",
+    "content_sub": "Portugal’s Premier Platform for Flight Search and Comparison",
+    "content_description_1": "Finding the right flight can be overwhelming, with so many options to consider. At {{appName}}, we streamline this process by gathering data from Portugal's top airlines and international providers, presenting you with easy-to-compare options for any destination. Whether you’re traveling domestically or internationally, {{appName}} ensures you can find the best flights at unbeatable prices.",
+    "content_description_2": "Our advanced search features aggregate results from a vast network of airline and travel partners, so you can compare not only prices but also conditions, times, and amenities. With {{appName}}, you’ll always have the most convenient and affordable options at your fingertips, backed by a platform that values your travel experience and peace of mind.",
+    "content_imgAlt": "Map illustrating global flight routes and connections from Portugal",
+
+    "counter_1": "Top Providers",
+    "counter_2": "Destinations Worldwide",
+    "counter_3": "Annual Searches",
+    "counter_4": "Support 24/7"
+  }
+}

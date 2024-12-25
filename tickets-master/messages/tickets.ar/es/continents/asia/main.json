@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva en {{continent}} con {{domain}}. Encuentra consejos de viaje sobre los principales destinos, experiencias culturales, opciones económicas, gastronomía local, consejos de seguridad, atracciones imprescindibles y mucho más"
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}} desde Argentina",
+    "banner_sub": "Descubre ofertas exclusivas de viaje, guías expertas y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viaje de {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-10°C a 10°C",
+    "winter_fahrenheit": "14°F a 50°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "10°C a 20°C",
+    "autumn_fahrenheit": "50°F a 68°F",
+
+    "timezone_range": "UTC+4 a UTC+10",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "348.5 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "49",
+    "demographics_population": "4.64 mil millones",
+    "heritage_range": "705",
+    "heritage_note": "Sitios de Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las Mejores Ofertas de Vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos fuera de lo común en {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+
+    "faq": {
+      "1_answer": "Asia alberga una variedad de destinos impresionantes que no debes perderte. Desde las bulliciosas ciudades de Tokio y Bangkok hasta las playas serenas de Bali y las maravillas históricas de Angkor Wat en Camboya, cada lugar ofrece una experiencia única. No te pierdas lugares como la Gran Muralla en China, los templos de Kioto en Japón o el Taj Mahal en India para recuerdos inolvidables.",
+      "2_answer": "Para encontrar vuelos económicos a Asia, comienza buscando con anticipación y utilizando las herramientas de comparación de precios de TICKETS.AR. Busca vuelos en temporadas bajas y considera reservar en días de semana. La flexibilidad en las fechas puede llevar a opciones más económicas, y suscribirte a nuestras alertas asegura que no te pierdas ofertas exclusivas.",
+      "3_answer": "El mejor momento para visitar Asia depende de tu destino. Para la mayoría de las regiones, de noviembre a marzo ofrece un clima suave y agradable. El sudeste asiático es ideal en los meses de invierno, mientras que países del norte como Japón y Corea del Sur son hermosos en primavera y otoño.",
+      "4_answer": "Varias aerolíneas importantes operan vuelos frecuentemente desde Argentina a Asia, incluidas Emirates, Qatar Airways, Turkish Airlines y LATAM. Estas aerolíneas son conocidas por su servicio de calidad y amplias redes que conectan las principales ciudades asiáticas.",
+      "5_answer": "Durante las temporadas altas, encontrar una buena oferta puede ser complicado. Usa TICKETS.AR para configurar alertas de tarifas para tus rutas preferidas, reserva lo antes posible y considera volar a mitad de semana. La flexibilidad con aeropuertos cercanos también puede ayudar a asegurar mejores tarifas.",
+      "6_answer": "Para ingresar a la mayoría de los países asiáticos, necesitarás un pasaporte válido, y algunos pueden requerir una visa o permiso de viaje dependiendo de tu nacionalidad. Siempre verifica los requisitos de entrada para tu destino específico para asegurar un viaje sin problemas.",
+      "7_answer": "Asia cuenta con numerosos lugares imprescindibles. Desde los monumentos culturales de Kioto y las animadas calles de Bangkok hasta el paraíso tropical de las Maldivas y los paisajes místicos de Bagan en Myanmar, hay algo para cada viajero. No te olvides de lugares como la bahía de Ha Long en Vietnam y la vibrante vida de la ciudad en Seúl.",
+      "8_answer": "Viajar entre países en Asia es conveniente con opciones como aerolíneas de bajo costo, trenes de alta velocidad e incluso servicios de ferry para destinos cercanos. Aerolíneas como AirAsia y Scoot ofrecen vuelos asequibles, mientras que los trenes en Japón, China y el sudeste asiático ofrecen rutas panorámicas.",
+      "9_answer": "Sí, Asia tiene varias aerolíneas de bajo costo, incluidas AirAsia, Scoot y Jetstar, que ofrecen vuelos económicos dentro de Asia y hacia ella. Usa TICKETS.AR para encontrar opciones de bajo costo y comparar precios para obtener las mejores ofertas.",
+      "10_answer": "Las directrices de COVID-19 varían según el país e incluyen posibles requisitos de vacunación, pruebas o cuarentena a la llegada. Consulta los avisos de viaje oficiales para obtener las actualizaciones más recientes y prepárate con la documentación y medidas de seguridad necesarias.",
+      "11_answer": "Para ofertas de última hora, consulta TICKETS.AR con frecuencia, ya que destacamos cualquier tarifa con descuento disponible cerca de la fecha de viaje. Las aplicaciones de reservas y las alertas son útiles para obtener ofertas de última hora a destinos populares en Asia.",
+      "12_answer": "Lo esencial para un viaje a Asia incluye un adaptador de corriente, calzado cómodo, ropa adecuada para el clima y suministros médicos básicos. Asegúrate de llevar una bolsa segura, copias de documentos de viaje y los medicamentos necesarios, ya que ciertos artículos pueden ser difíciles de encontrar localmente.",
+      "13_answer": "Para ahorrar en alojamiento en Asia, considera hoteles económicos, hostales o alquileres a corto plazo. Aplicaciones como Airbnb o Agoda a menudo ofrecen descuentos, y alojarte en áreas menos turísticas puede resultar en ahorros significativos.",
+      "14_answer": "Las principales aerolíneas para vuelos de larga distancia a Asia incluyen Emirates, Qatar Airways y Turkish Airlines. Estas aerolíneas ofrecen excelentes comodidades, opciones de escala y servicios para un viaje cómodo desde Argentina a Asia.",
+      "15_answer": "El tiempo de vuelo desde Argentina a Asia varía según el destino y las escalas, pero generalmente oscila entre 24 y 30 horas. Los vuelos directos son limitados, por lo que se esperan al menos una o dos escalas en la mayoría de las rutas.",
+      "16_answer": "Para viajar de manera económica en Asia, come en lugares locales, usa el transporte público y explora atracciones gratuitas o de bajo costo como mercados, templos y playas. Además, negocia los precios en los mercados y considera alojamientos económicos como hostales o casas de huéspedes.",
+      "17_answer": "Actualmente, hay pocos vuelos sin escalas desde Argentina a Asia, pero muchas aerolíneas ofrecen rutas con una o dos escalas a través de centros como Doha, Estambul o Dubái, lo que facilita y, a menudo, hace más asequible el viaje.",
+      "18_answer": "Las joyas costeras de Asia incluyen Phuket en Tailandia, las playas de Bali en Indonesia y las impresionantes islas de Filipinas, como Palawan y Boracay. Da Nang en Vietnam y Okinawa en Japón también son hermosos destinos junto al mar.",
+      "19_answer": "Para ganar recompensas de aerolíneas al volar a Asia, únete a programas de viajero frecuente como Emirates Skywards, Qatar Privilege Club o LATAM Pass. Muchas aerolíneas también ofrecen puntos a través de tarjetas de crédito asociadas, lo que facilita la acumulación de millas.",
+      "20_answer": "El rango de precios para vuelos a Asia desde Argentina varía según la temporada, la demanda y las escalas, pero espera que las tarifas comiencen alrededor de los $1,000 USD para viajes de ida y vuelta. Usa TICKETS.AR para monitorear precios y asegurar la mejor oferta para tu viaje."
+    }
+  }
+}

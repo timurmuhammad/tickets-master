@@ -1,0 +1,27 @@
+{
+  "continent": {
+    "faq_title": "Usein kysytyt kysymykset lennoista kohteeseen {{continent}}",
+    "faq": {
+      "1": "Mitkä ovat parhaat matkakohteet {{title}}?",
+      "2": "Miten löydän halvat lennot kohteeseen {{title}}?",
+      "3": "Milloin on paras aika vierailla kohteessa {{title}}?",
+      "4": "Mitkä ovat suosituimmat lentoyhtiöt, jotka lentävät kohteeseen {{title}}?",
+      "5": "Miten voin varata monikaupunkilennon ympäri {{title}}?",
+      "6": "Mitkä ovat viisumivaatimukset matkustettaessa maihin kohteessa {{title}}?",
+      "7": "Mitkä ovat suosituimmat turistinähtävyydet kohteessa {{title}}?",
+      "8": "Miten voin matkustaa maiden välillä kohteessa {{title}}?",
+      "9": "Onko budjettilentoyhtiöitä, jotka lentävät kohteeseen {{title}}?",
+      "10": "Mitkä ovat COVID-19-matkustusrajoitukset kohteeseen {{title}}?",
+      "11": "Miten löydän viime hetken lentotarjouksia kohteeseen {{title}}?",
+      "12": "Mitä minun pitäisi pakata matkalle kohteeseen {{title}}?",
+      "13": "Miten voin säästää majoituksessa kohteessa {{title}}?",
+      "14": "Mitkä ovat parhaat lentoyhtiöt pitkän matkan lennoille kohteeseen {{title}}?",
+      "15": "Kuinka kauan kestää lentää kohteeseen {{title}} Ruotsista?",
+      "16": "Miten voin tutkia {{title}} budjetilla?",
+      "17": "Onko suoria lentoja Ruotsista kohteeseen {{title}}?",
+      "18": "Mitkä ovat parhaat rantalomakohteet kohteessa {{title}}?",
+      "19": "Miten voin ansaita lentopisteitä matkustettaessa kohteeseen {{title}}?",
+      "20": "Mikä on lentojen keskihinta kohteeseen {{title}}?"
+    }
+  }
+}

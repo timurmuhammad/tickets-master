@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "invalid_email_address": "Harap masukkan alamat email yang valid",
+    "please_fill_all_fields": "Pastikan semua kolom terisi",
+    "please_complete_form": "Harap lengkapi formulir sepenuhnya sebelum mengirim ulang",
+    "thanks_for_contact": "Terima kasih telah menghubungi kami! Jika ada masalah yang perlu ditangani, kami akan segera menghubungi Anda.",
+    "something_went_wrong": "Ups, terjadi kesalahan. Silakan coba lagi.",
+    "email_customer_support": "info@ttm.org",
+    "email_partner_contact": "partner@ttm.org",
+    "send_message": "Kirim Pesan",
+    "your_name": "Nama Anda",
+    "email": "Email Anda",
+    "subject": "Subjek",
+    "your_message": "Pesan Anda",
+    "submit": "Kirim",
+    "get_in_touch": "Hubungi Kami",
+    "our_registration_address": "Alamat registrasi kami",
+    "address": "71-75 Shelton Street, London WC2H 9JQ, Inggris",
+    "customer_support": "Bantuan Pelanggan",
+    "partner_contact": "Kontak Bisnis",
+    "social_follow": "Terhubung dengan kami di media sosial",
+    "title_faq": "Pertanyaan yang Sering Diajukan",
+    "subtitle_faq": "Temukan jawaban atas pertanyaan umum di sini"
+  },
+  "faq": {
+    "1": "Bagaimana cara mencari penerbangan di TICKETS.CO.ID?",
+    "1_answer": "Masukkan kota keberangkatan, tujuan, tanggal perjalanan, dan jumlah penumpang. TICKETS.CO.ID akan segera membandingkan penerbangan dari maskapai dan penyedia terkemuka untuk memberikan opsi terbaik yang sesuai dengan kebutuhan Anda.",
+
+    "2": "Apa yang saya perlukan untuk memesan penerbangan di TICKETS.CO.ID?",
+    "2_answer": "TICKETS.CO.ID tidak menjual tiket secara langsung. Sebagai gantinya, kami membantu Anda menemukan opsi terbaik dan termurah yang tersedia. Setelah memilih penerbangan yang diinginkan, Anda akan diarahkan ke halaman pembayaran aman dari penyedia untuk menyelesaikan pemesanan.",
+
+    "3": "Apakah ada biaya tersembunyi saat memesan penerbangan?",
+    "3_answer": "TICKETS.CO.ID menjamin transparansi harga penuh. Semua harga yang ditampilkan sudah termasuk pajak dan biaya dari mitra kami, dan biaya tambahan seperti bagasi atau pemilihan kursi akan dijelaskan dengan jelas selama proses pembayaran.",
+
+    "4": "Bisakah saya mengubah atau membatalkan pemesanan penerbangan saya?",
+    "4_answer": "Perubahan dan pembatalan bergantung pada kebijakan maskapai. Periksa syarat dan ketentuan mereka selama proses pemesanan untuk detail dan biaya yang mungkin dikenakan.",
+
+    "5": "Metode pembayaran apa yang tersedia di TICKETS.CO.ID?",
+    "5_answer": "Mitra kami menawarkan berbagai metode pembayaran, termasuk kartu kredit utama, transfer bank, dan dompet digital seperti GoPay dan OVO, memastikan kenyamanan bagi pelancong Indonesia.",
+
+    "6": "Bisakah saya memesan hotel dan sewa mobil di TICKETS.CO.ID?",
+    "6_answer": "Ya, TICKETS.CO.ID menyediakan akses mudah ke penawaran hotel dan sewa mobil melalui mitra terpercaya kami untuk mempermudah perencanaan perjalanan Anda.",
+
+    "7": "Bagaimana saya akan menerima konfirmasi tiket saya?",
+    "7_answer": "Setelah menyelesaikan pemesanan, Anda akan menerima email dari mitra kami dengan detail penerbangan dan konfirmasi. Selalu periksa folder spam jika tidak ada di kotak masuk Anda.",
+
+    "8": "Apa yang harus saya lakukan jika penerbangan saya tertunda atau dibatalkan?",
+    "8_answer": "Untuk penundaan atau pembatalan, hubungi maskapai langsung menggunakan detail yang tercantum dalam konfirmasi pemesanan Anda. Maskapai biasanya menawarkan opsi penjadwalan ulang atau kompensasi sesuai kebijakan mereka.",
+
+    "9": "Apakah TICKETS.CO.ID menawarkan diskon untuk pelancong yang sering bepergian?",
+    "9_answer": "Meskipun TICKETS.CO.ID tidak memiliki program loyalitas, kami secara teratur menampilkan promosi dan diskon dari maskapai terbaik. Pastikan untuk berlangganan buletin kami untuk pembaruan tentang penawaran spesial.",
+
+    "10": "Apakah saya perlu akun untuk mencari atau memesan penerbangan?",
+    "10_answer": "Anda dapat mencari dan membandingkan penerbangan tanpa akun. Namun, membuat akun dengan mitra kami mungkin diperlukan untuk mengelola pemesanan dan mengakses penawaran eksklusif.",
+
+    "11": "Apa kebijakan bagasi untuk penerbangan di TICKETS.CO.ID?",
+    "11_answer": "Kebijakan bagasi bergantung pada maskapai dan kelas tiket. Periksa detail bagasi selama proses pemesanan untuk menghindari biaya tambahan yang tidak diinginkan.",
+
+    "12": "Siapa yang harus saya hubungi untuk bantuan selama perjalanan?",
+    "12_answer": "Untuk masalah selama perjalanan, hubungi maskapai atau penyedia perjalanan langsung. Detail kontak mereka dapat ditemukan dalam email konfirmasi Anda.",
+
+    "13": "Apakah ada pembatasan perjalanan yang perlu saya ketahui?",
+    "13_answer": "Periksa pembatasan perjalanan dan persyaratan visa terkini dengan sumber resmi pemerintah untuk tujuan Anda. TICKETS.CO.ID tidak memberikan nasihat hukum atau visa.",
+
+    "14": "Bisakah saya memilih kursi saya saat memesan penerbangan?",
+    "14_answer": "Banyak maskapai menawarkan opsi pemilihan kursi selama proses pemesanan. Jika tersedia, Anda akan melihat opsi ini saat memilih penerbangan Anda.",
+
+    "15": "Langkah kesehatan dan keselamatan apa yang diterapkan untuk penerbangan?",
+    "15_answer": "Maskapai mengikuti protokol kesehatan ketat untuk memastikan keselamatan penumpang. Detail tentang langkah-langkah seperti sanitasi dan kebijakan masker tersedia di situs web maskapai.",
+
+    "16": "Apakah ada promosi atau penawaran menit terakhir di TICKETS.CO.ID?",
+    "16_answer": "Ya! Kami sering menampilkan tarif diskon dan penawaran eksklusif. Kunjungi TICKETS.CO.ID secara rutin atau berlangganan buletin kami untuk pembaruan.",
+
+    "17": "Kapan sebaiknya saya memesan penerbangan untuk mendapatkan penawaran terbaik?",
+    "17_answer": "Untuk harga terendah, pesan penerbangan Anda lebih awal dan hindari musim perjalanan puncak. Gunakan TICKETS.CO.ID untuk memantau tren harga dan mendapatkan penawaran terbaik.",
+
+    "18": "Apakah TICKETS.CO.ID menyediakan asuransi perjalanan?",
+    "18_answer": "Beberapa mitra kami menawarkan opsi asuransi perjalanan selama proses pemesanan. Tinjau pilihan yang tersedia untuk keamanan tambahan.",
+
+    "19": "Dokumen identifikasi apa yang diperlukan untuk perjalanan internasional?",
+    "19_answer": "Pastikan Anda memiliki paspor yang masih berlaku dan visa yang diperlukan untuk tujuan Anda. Periksa persyaratan masuk terbaru untuk Indonesia dan negara tujuan Anda sebelum keberangkatan.",
+
+    "20": "Bagaimana saya bisa memeriksa status penerbangan saya?",
+    "20_answer": "Gunakan situs web atau aplikasi maskapai untuk memantau status penerbangan Anda secara real-time. Hubungi layanan pelanggan mereka untuk bantuan lebih lanjut jika diperlukan."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Journey through Australia and Oceania with TICKETS.CO.ID ✈️",
+      "description": "Plan the ultimate adventure across Australia and Oceania with TICKETS.CO.ID. Discover travel tips, top destinations, cultural experiences, budget-friendly options, local cuisine, safety advice, must-see attractions, and more."
+    }
+  },
+  "continent": {
+    "banner_title": "Discover Australia and Oceania with TICKETS.CO.ID",
+    "banner_sub": "Unlock exclusive travel deals, expert guides, and unforgettable experiences across Australia and Oceania.",
+
+    "intro_title": "Your Comprehensive Travel Handbook to Australia and Oceania",
+    "intro_content": "Explore the diverse beauty of Australia and Oceania with TICKETS.CO.ID. From iconic landmarks to pristine beaches, our platform ensures a seamless travel experience with competitive prices, flexible options, and expert travel tips.",
+
+    "winter_celsius": "5°C to 20°C",
+    "winter_fahrenheit": "41°F to 68°F",
+    "spring_celsius": "15°C to 25°C",
+    "spring_fahrenheit": "59°F to 77°F",
+    "summer_celsius": "25°C to 35°C",
+    "summer_fahrenheit": "77°F to 95°F",
+    "autumn_celsius": "15°C to 25°C",
+    "autumn_fahrenheit": "59°F to 77°F",
+
+    "timezone_range": "UTC+8 to UTC+10",
+    "timezone_note": "Multiple time zones across the region",
+    "tourists_range": "Varies by destination",
+    "tourists_note": "Australia welcomes 9.3 million visitors annually.",
+    "demographics_countries": "14",
+    "demographics_population": "41 million",
+    "heritage_range": "35",
+    "heritage_note": "UNESCO World Heritage Sites to explore",
+
+    "destinations_title": "Explore the Best Flight Deals to Australia and Oceania",
+    "destinations_description": "Discover the magic of Australia and Oceania with unbeatable flight deals. Whether you're looking for cultural landmarks, breathtaking nature, or vibrant cityscapes, TICKETS.CO.ID has you covered.",
+
+    "faq": {
+      "1_answer": "To find the cheapest flights to Australia and Oceania, use TICKETS.CO.ID's search feature to compare prices from top airlines. Flexible travel dates and booking in advance can help you save significantly.",
+      "2_answer": "The best time to book flights to Australia and Oceania is during off-peak travel seasons. For lower prices, avoid peak holiday months and use TICKETS.CO.ID to monitor price drops and grab the best deals.",
+      "3_answer": "Airlines offering direct flights to Australia and Oceania include Qantas, Air New Zealand, and Virgin Australia. Check TICKETS.CO.ID for the latest schedules and route options.",
+      "4_answer": "Budget airlines like Jetstar, Scoot, and Virgin Australia provide affordable travel options to destinations across Australia and Oceania. Book early to secure the lowest fares.",
+      "5_answer": "The peak travel season varies by region. Summer months (December to February) are popular in Australia, while New Zealand attracts visitors in spring and fall. Tropical islands see higher demand during dry seasons (April to October).",
+      "6_answer": "Flight durations to Australia and Oceania depend on the route and origin. From Southeast Asia, flights typically range from 6 to 12 hours, while intercontinental travel may take 15 to 20 hours.",
+      "7_answer": "Top destinations in Australia and Oceania include Sydney, Melbourne, Auckland, Fiji, Bora Bora, and the Great Barrier Reef. Each location offers unique attractions for travelers to enjoy.",
+      "8_answer": "Traveling to Australia and Oceania often requires a valid passport and, for some countries, a visa. Ensure your travel documents meet the entry requirements of your destination.",
+      "9_answer": "Baggage policies vary by airline, but most budget carriers have strict allowances for carry-on and checked luggage. Use TICKETS.CO.ID to review baggage options when booking flights.",
+      "10_answer": "Yes! With TICKETS.CO.ID, you can easily book multi-destination flights across Australia and Oceania. Compare airlines and routes to create the perfect travel itinerary.",
+      "11_answer": "Check TICKETS.CO.ID's last-minute deals section to find affordable flights to Australia and Oceania. Sign up for alerts to stay updated on sudden price drops.",
+      "12_answer": "Airlines such as Qantas and Air New Zealand are ideal for long-haul flights to Australia and Oceania, offering superior comfort, entertainment, and services.",
+      "13_answer": "Travel insurance is highly recommended for trips to Australia and Oceania. Protect yourself from unexpected expenses, including medical emergencies or trip cancellations.",
+      "14_answer": "Visa requirements differ by country within Australia and Oceania. Visit official government websites to confirm the necessary travel documents for your trip.",
+      "15_answer": "Non-stop flights are available to major destinations in Australia and Oceania. Use TICKETS.CO.ID to check the availability of direct routes for a more convenient journey.",
+      "16_answer": "Must-see attractions include the Great Barrier Reef, Sydney Opera House, Fiordland National Park in New Zealand, and the picturesque beaches of Fiji. Each destination is rich with natural beauty and cultural experiences.",
+      "17_answer": "For affordable flights during high-demand seasons, book early and use flexible date options on TICKETS.CO.ID. Consider alternative routes or lesser-known airports to save on costs.",
+      "18_answer": "Stay updated on travel advisories by checking the official websites of your destination. Use TICKETS.CO.ID to access links and resources for the latest travel information.",
+      "19_answer": "Routes offering stunning views include flights over the Great Barrier Reef, New Zealand’s Southern Alps, and the Pacific islands. Select window seats to enjoy the breathtaking scenery.",
+      "20_answer": "Convenient airports in Australia and Oceania include Sydney Airport (SYD), Auckland Airport (AKL), and Nadi International Airport (NAN) in Fiji. Use TICKETS.CO.ID to find flights to these major hubs."
+    }
+  }
+}

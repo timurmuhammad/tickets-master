@@ -1,0 +1,37 @@
+{
+  "continent": {
+    "faq_title": "Preguntas Frecuentes Sobre Vuelos a {{continent}}",
+    "faq": {
+      "1": "¿Cuáles son los vuelos más baratos a {{title}}?",
+      "2": "¿Con cuánta anticipación debo reservar vuelos a {{title}} para obtener las mejores ofertas?",
+      "3": "¿Qué aerolíneas ofrecen vuelos directos a {{title}}?",
+      "4": "¿Hay aerolíneas de bajo costo que vuelen a {{title}}?",
+      "5": "¿Cuál es la mejor época del año para visitar {{title}}?",
+      "6": "¿Cuánto dura el vuelo promedio a {{title}}?",
+      "7": "¿Cuáles son los destinos más populares en {{title}}?",
+      "8": "¿Hay requisitos especiales para viajar a {{title}}?",
+      "9": "¿Cuáles son las políticas de equipaje para los vuelos a {{title}}?",
+      "10": "¿Puedo reservar vuelos de múltiples destinos dentro de {{title}}?",
+      "11": "¿Cómo encuentro ofertas de vuelos de última hora a {{title}}?",
+      "12": "¿Cuáles son las mejores aerolíneas para vuelos de larga distancia a {{title}}?",
+      "13": "¿Es necesario un seguro de viaje para los vuelos a {{title}}?",
+      "14": "¿Cuáles son los requisitos de visa para visitar {{title}}?",
+      "15": "¿Hay vuelos sin escalas a {{title}}?",
+      "16": "¿Cuáles son las principales atracciones en {{title}}?",
+      "17": "¿Cómo puedo encontrar vuelos baratos a {{title}} durante la temporada alta?",
+      "18": "¿Cuáles son las restricciones de viaje por COVID-19 para {{title}}?",
+      "19": "¿Cuáles son las rutas de vuelo más pintorescas a {{title}}?",
+      "20": "¿Cuáles son los mejores aeropuertos para volar a {{title}}?",
+      "21": "¿Cómo puedo evitar largas escalas cuando vuelo a {{title}}?",
+      "22": "¿Cuáles son las aerolíneas más amigables para niños para vuelos a {{title}}?",
+      "23": "¿Puedo cambiar la fecha o la hora de mi vuelo después de reservar un boleto a {{title}}?",
+      "24": "¿Cuáles son las aerolíneas más lujosas para vuelos a {{title}}?",
+      "25": "¿Cómo encuentro vuelos con espacio adicional para las piernas a {{title}}?",
+      "26": "¿Hay alianzas de aerolíneas que ofrezcan vuelos a {{title}}?",
+      "27": "¿Cuáles son los mejores consejos para volar con mascotas a {{title}}?",
+      "28": "¿Cómo hago el check-in en línea para vuelos a {{title}}?",
+      "29": "¿Cuál es la mejor manera de llegar desde el aeropuerto a mi hotel en {{title}}?",
+      "30": "¿Hay aerolíneas que ofrezcan clase económica premium a {{title}}?"
+    }
+  }
+}

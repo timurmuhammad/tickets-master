@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Explore Europe with TICKETS ✈️",
+      "description": "Plan your next journey across Europe with TICKETS.PT. Discover budget-friendly options, local insights, exclusive deals, and travel tips for top European destinations."
+    }
+  },
+  "continent": {
+    "banner_title": "Discover Europe from Portugal",
+    "banner_sub": "Unlock incredible flight deals and expert travel insights with TICKETS.PT",
+
+    "intro_title": "Europe Travel Guide",
+    "intro_content": "Dive into the beauty of Europe with TICKETS.PT as your travel companion. From vibrant cities to charming villages, our platform helps you explore it all with ease and affordability. Compare flights, find exclusive deals, and plan your dream getaway with one click.",
+
+    "winter_celsius": "-10°C to 5°C",
+    "winter_fahrenheit": "14°F to 41°F",
+    "spring_celsius": "5°C to 20°C",
+    "spring_fahrenheit": "41°F to 68°F",
+    "summer_celsius": "20°C to 35°C",
+    "summer_fahrenheit": "68°F to 95°F",
+    "autumn_celsius": "5°C to 15°C",
+    "autumn_fahrenheit": "41°F to 59°F",
+
+    "timezone_range": "UTC-1 to UTC+3",
+    "timezone_note": "Multiple time zones",
+    "tourists_range": "743.1 million",
+    "tourists_note": "International Tourists, 2019",
+    "demographics_countries": "44",
+    "demographics_population": "747 million",
+    "heritage_range": "445",
+    "heritage_note": "UNESCO World Heritage Sites",
+
+    "destinations_title": "Best Flight Deals to Europe",
+    "destinations_description": "Explore top destinations across Europe with unbeatable rates and exclusive offers from TICKETS.PT. Find the best routes to iconic cities, hidden gems, and everything in between.",
+
+    "faq": {
+      "1_answer": "Europe has endless amazing destinations, from the romantic charm of Paris and the historic allure of Rome to the vibrant nightlife of Barcelona and the peaceful canals of Amsterdam. Whether you crave the Alpine adventure or the beaches of the Mediterranean, Europe has something for everyone.",
+      "2_answer": "Find affordable flights to Europe by booking early, using flexible travel dates, and setting up fare alerts with TICKETS.PT. Compare fares from different airlines to maximize your savings and consider off-peak travel to score the best prices.",
+      "3_answer": "Spring (April to June) and fall (September to October) offer great weather and fewer crowds, making them ideal seasons to book flights to Europe. Winter is perfect for Christmas markets and skiing, while summer is best for beach destinations.",
+      "4_answer": "Major airlines offering flights from Portugal to Europe include TAP Air Portugal, Ryanair, Lufthansa, and Air France. These airlines provide convenient options to a variety of European destinations, allowing for comfortable and reliable travel.",
+      "5_answer": "Booking well in advance, setting up fare alerts, and opting for mid-week flights can help you find affordable options during peak travel times. TICKETS.PT frequently updates deals from top airlines, so keep an eye out for seasonal offers.",
+      "6_answer": "Most European countries require a valid passport, and some may require a Schengen visa for entry. Make sure your passport has at least six months of validity, and check the visa requirements specific to each country in your itinerary.",
+      "7_answer": "Europe is rich with must-see attractions like the Eiffel Tower in Paris, the Colosseum in Rome, and the Sagrada Familia in Barcelona. For natural beauty, explore the fjords in Norway or the beaches of the Greek islands.",
+      "8_answer": "Traveling across Europe is easy with options like budget airlines, high-speed trains, and extensive bus networks. The Eurail pass is popular for train travel, providing flexibility and convenience for visiting multiple countries.",
+      "9_answer": "Yes, Europe has a wide range of budget airlines like Ryanair, EasyJet, and Wizz Air that offer flights to many destinations across the continent. These airlines provide affordable fares and frequent service between major cities.",
+      "10_answer": "Health and safety guidelines for traveling to Europe may vary by country, especially with changes due to COVID-19. Ensure to check each country's regulations, including vaccination and testing requirements, before booking.",
+      "11_answer": "TICKETS.PT offers frequent updates on last-minute flight deals to Europe. Keep checking our website, sign up for our newsletter, and set up fare alerts to grab the best last-minute offers.",
+      "12_answer": "For a comfortable trip to Europe, pack essentials like a universal adapter, comfortable walking shoes, weather-appropriate clothing, and your travel documents. Don't forget travel insurance for peace of mind.",
+      "13_answer": "To reduce accommodation costs, consider staying in budget hotels, hostels, or booking short-term rentals. Book in advance and look for options in less touristy neighborhoods for better rates.",
+      "14_answer": "Popular airlines for long-haul flights from Portugal to Europe include Lufthansa, British Airways, and KLM. Known for their comfort and excellent service, these airlines offer direct and connecting flights across major European hubs.",
+      "15_answer": "Direct flights from Portugal to European destinations vary, with short-haul flights often taking 1–3 hours, depending on the city. For example, a flight from Lisbon to Madrid takes approximately 1 hour 20 minutes.",
+      "16_answer": "Save on travel to Europe by booking early, using public transport, eating at local eateries, and exploring free attractions. Off-peak travel and staying in budget accommodations can also help reduce costs.",
+      "17_answer": "Non-stop flights are widely available from Portugal to Europe, making it easy to reach cities like Madrid, Paris, and London. Major airlines offer frequent, direct routes to popular European destinations.",
+      "18_answer": "Europe has beautiful coastal destinations like the Amalfi Coast in Italy, Portugal’s Algarve, and Spain's Costa del Sol. These locations are perfect for seaside relaxation, water sports, and exploring local culture.",
+      "19_answer": "Join frequent flyer programs with airlines that service Europe, like TAP Miles&Go, Lufthansa Miles & More, or Flying Blue. Accumulate points to redeem on future flights, upgrades, and more.",
+      "20_answer": "Flight prices from Portugal to Europe vary depending on the season, destination, and booking time. Generally, round-trip fares range from €50 to €300. Book early and monitor promotions for the best deals."
+    }
+  }
+}

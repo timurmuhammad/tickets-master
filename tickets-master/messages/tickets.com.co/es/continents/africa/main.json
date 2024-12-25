@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva por {{continent}} con {{domain}}. Obtén consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, cocina local, recomendaciones de seguridad, atracciones imperdibles y mucho más."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Descubre ofertas de viaje exclusivas, guías expertas y actividades emocionantes en {{title}}",
+
+    "intro_title": "Guía de Viaje de {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "5°C a 20°C",
+    "winter_fahrenheit": "41°F a 68°F",
+    "spring_celsius": "15°C a 30°C",
+    "spring_fahrenheit": "59°F a 86°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "15°C a 30°C",
+    "autumn_fahrenheit": "59°F a 86°F",
+
+    "timezone_range": "UTC-1 a UTC+4",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "67.1 millones",
+    "tourists_note": "Turistas internacionales, 2019",
+    "demographics_countries": "54",
+    "demographics_population": "1.37 mil millones",
+    "heritage_range": "154",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las mejores ofertas de vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos poco conocidos en {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier explorador",
+
+    "faq": {
+      "1_answer": "Cuando visites África, asegúrate de explorar lugares icónicos como las pirámides de Egipto, las sabanas de Kenia, Ciudad del Cabo en Sudáfrica y los impresionantes paisajes de Marruecos. Cada región ofrece una experiencia única que muestra la rica cultura y belleza natural de África.",
+      "2_answer": "Para encontrar vuelos económicos a África, utiliza herramientas de comparación de vuelos, reserva con anticipación o aprovecha ofertas y promociones especiales en TICKETS. Los vuelos a mitad de semana y evitar las temporadas altas también te ayudarán a encontrar mejores precios.",
+      "3_answer": "El momento ideal para visitar África depende del país, pero en general, las estaciones secas (de junio a octubre en África oriental y meridional) son las mejores para safaris, mientras que el norte de África es más agradable en los meses más frescos, de octubre a abril.",
+      "4_answer": "Las principales aerolíneas que vuelan frecuentemente a África incluyen Ethiopian Airlines, South African Airways, Kenya Airways y Qatar Airways. Estas aerolíneas ofrecen vuelos directos y conexiones a varios destinos en el continente.",
+      "5_answer": "Comienza reservando temprano, ya que los precios tienden a subir cerca de la fecha de viaje. Usa el comparador de vuelos TICKETS para comparar precios de múltiples aerolíneas y configura alertas de precios para recibir notificaciones sobre cualquier caída. Considera volar entre semana, cuando las tarifas suelen ser más bajas, y explora vuelos con escalas en lugar de rutas directas para ahorrar dinero.",
+      "6_answer": "Los viajeros a los países africanos generalmente necesitan un pasaporte válido y, en algunos casos, una visa. Además, algunos países pueden requerir pruebas de vacunación, como la fiebre amarilla. Es esencial revisar los requisitos de entrada para cada destino antes de viajar.",
+      "7_answer": "Los lugares turísticos imperdibles en África incluyen el Parque Nacional del Serengeti en Tanzania, las Cataratas Victoria en la frontera entre Zambia y Zimbabue, la Gran Esfinge de Guiza y las impresionantes playas de Zanzíbar.",
+      "8_answer": "Las mejores opciones para viajar entre países en África son los vuelos regionales o el uso de servicios de autobuses interpaís. Algunos países también tienen sistemas ferroviarios bien desarrollados. TICKETS ofrece varias opciones de vuelos regionales para facilitar el viaje entre naciones africanas.",
+      "9_answer": "Sí, aerolíneas de bajo costo como FlySafair, Fastjet y Jambojet operan en varios países africanos, ofreciendo vuelos económicos hacia y dentro del continente.",
+      "10_answer": "Las directrices de COVID-19 para los viajeros a África varían según el país, pero generalmente incluyen la prueba de vacunación o un resultado negativo de la prueba PCR. Asegúrate de consultar las últimas regulaciones para tu destino específico en TICKETS antes de reservar tu viaje.",
+      "11_answer": "Para ofertas de vuelos de última hora a África, consulta TICKETS para obtener descuentos y promociones en tiempo real. Las ofertas de última hora suelen estar disponibles para los viajeros flexibles que pueden salir en poco tiempo.",
+      "12_answer": "Cuando viajes a África, es esencial llevar artículos como protector solar, repelente de insectos, un botiquín de primeros auxilios, ropa cómoda y zapatos resistentes para caminar. Dependiendo de la región, también puede que necesites ropa de abrigo para las noches más frías y destinos de gran altitud.",
+      "13_answer": "Para reducir los costos de alojamiento en África, considera hospedarte en hoteles económicos, casas de huéspedes o albergues. También puedes buscar paquetes de viaje que combinen vuelos y alojamiento en TICKETS para obtener mejores ahorros.",
+      "14_answer": "Para vuelos de larga distancia a África, aerolíneas como Emirates, Turkish Airlines y Qatar Airways ofrecen rutas cómodas y bien conectadas desde Colombia con servicios de alta calidad a bordo.",
+      "15_answer": "El tiempo de vuelo a África desde Colombia varía según tu destino. Los vuelos directos son raros, pero con conexiones, generalmente toma entre 16 y 24 horas llegar a las principales ciudades de África.",
+      "16_answer": "Viajar por África con un presupuesto reducido puede lograrse reservando vuelos con anticipación, alojándote en casas de huéspedes locales, viajando en transporte público y comiendo en mercados locales. Usar TICKETS para comparar vuelos también puede ayudarte a ahorrar dinero en pasajes aéreos.",
+      "17_answer": "Los vuelos directos desde Colombia a África son poco comunes, pero hay muchas conexiones disponibles a través de grandes centros en Europa y el Medio Oriente. Usa TICKETS para encontrar las rutas más eficientes para tu viaje.",
+      "18_answer": "Algunos de los mejores lugares costeros para visitar en África incluyen las playas prístinas de Seychelles, los arrecifes de coral de Mauricio y las pintorescas costas de la Ruta Jardín en Sudáfrica. Estos destinos ofrecen vistas impresionantes y experiencias relajantes junto al mar.",
+      "19_answer": "Para ganar recompensas de aerolíneas mientras vuelas a África, únete a programas de viajero frecuente como Qatar Airways Privilege Club, Turkish Airlines Miles&Smiles o South African Airways Voyager. Muchos de estos programas ofrecen puntos que pueden canjearse por futuros vuelos reservados en TICKETS.",
+      "20_answer": "Los precios de los vuelos a África varían según la temporada y el destino, pero el rango de precios típico desde Colombia a África está entre $800 y $1,500 para clase económica, dependiendo de la aerolínea y el momento de la reserva."
+    }
+  }
+}

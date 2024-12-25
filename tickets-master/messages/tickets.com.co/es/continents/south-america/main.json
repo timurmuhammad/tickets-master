@@ -1,0 +1,59 @@
+{
+  "metatags": {
+    "continent": {
+      "title": "Viaja por {{continent}} con {{domain}} ✈️",
+      "description": "Planea la aventura definitiva por {{continent}} con {{domain}}. Obtén consejos de viaje sobre los mejores destinos, experiencias culturales, opciones económicas, gastronomía local, consejos de seguridad, atracciones imperdibles y mucho más."
+    }
+  },
+  "continent": {
+    "banner_title": "Descubre {{title}}",
+    "banner_sub": "Encuentra ofertas exclusivas de viajes, guías expertas y emocionantes actividades en {{title}}",
+
+    "intro_title": "Guía de Viaje para {{continent}}",
+    "intro_content": "",
+
+    "winter_celsius": "-5°C a 15°C",
+    "winter_fahrenheit": "23°F a 59°F",
+    "spring_celsius": "10°C a 25°C",
+    "spring_fahrenheit": "50°F a 77°F",
+    "summer_celsius": "25°C a 40°C",
+    "summer_fahrenheit": "77°F a 104°F",
+    "autumn_celsius": "15°C a 25°C",
+    "autumn_fahrenheit": "59°F a 77°F",
+
+    "timezone_range": "UTC-10 a UTC-3",
+    "timezone_note": "Múltiples zonas horarias",
+    "tourists_range": "37 millones",
+    "tourists_note": "Datos previos al COVID-19",
+    "demographics_countries": "12",
+    "demographics_population": "432 millones",
+    "heritage_range": "100",
+    "heritage_note": "Sitios del Patrimonio Mundial de la UNESCO",
+
+    "destinations_title": "Encuentra las mejores ofertas de vuelos a {{continent}}",
+    "destinations_description": "Explora rutas económicas y destinos poco conocidos en todo {{continent}} con nuestras opciones de viaje seleccionadas, perfectas para cualquier aventurero",
+
+    "faq": {
+      "1_answer": "En Sudamérica, definitivamente debes visitar lugares icónicos como Machu Picchu en Perú, la Selva Amazónica, el Cristo Redentor en Brasil, el Desierto de Atacama en Chile y las Cataratas del Iguazú en la frontera entre Argentina y Brasil. Cada destino ofrece una experiencia cultural y natural única.",
+      "2_answer": "Las formas más fáciles de encontrar vuelos económicos a Sudamérica incluyen el uso de herramientas de comparación de vuelos como TICKETS, reservar con anticipación y estar atento a ofertas especiales durante las temporadas bajas. Configura alertas de precios para aprovechar las mejores tarifas.",
+      "3_answer": "El momento ideal para viajar a Sudamérica depende de tu destino. Para el Amazonas, es mejor ir entre mayo y septiembre. Para la Patagonia, visita entre diciembre y marzo. Las regiones andinas son ideales de junio a agosto, mientras que las playas de Brasil son mejores entre diciembre y marzo.",
+      "4_answer": "Las principales aerolíneas que vuelan con frecuencia a Sudamérica incluyen Avianca, LATAM, Copa Airlines, American Airlines e Iberia. Estas aerolíneas ofrecen vuelos directos y conexiones desde muchos centros globales a las principales ciudades del continente.",
+      "5_answer": "Para encontrar las mejores ofertas de vuelos a Sudamérica durante las temporadas altas, comienza a buscar con meses de anticipación, utiliza fechas de viaje flexibles y busca ofertas especiales de aerolíneas de bajo costo. Considera volar a mitad de semana para obtener precios más bajos.",
+      "6_answer": "La mayoría de los países de Sudamérica requieren un pasaporte válido para ingresar. Algunos países, como Brasil y Argentina, pueden requerir una visa para ciertas nacionalidades. Verifica los requisitos de entrada específicos de cada país antes de reservar tu viaje.",
+      "7_answer": "Los lugares turísticos imperdibles en Sudamérica incluyen Machu Picchu, las Islas Galápagos, las playas de Río de Janeiro, el Parque Nacional Torres del Paine y el Salar de Uyuni en Bolivia. Estos puntos de referencia muestran los paisajes diversos y el rico patrimonio del continente.",
+      "8_answer": "Las mejores opciones para viajar entre países en Sudamérica incluyen vuelos, autobuses de larga distancia y, en algunos casos, viajes en bote por el Río Amazonas. Las aerolíneas regionales ofrecen conexiones asequibles entre las principales ciudades.",
+      "9_answer": "Sí, aerolíneas de bajo costo como Wingo, Viva Air y JetSmart operan vuelos hacia y dentro de Sudamérica. Estas compañías ofrecen opciones económicas tanto para rutas nacionales como internacionales en todo el continente.",
+      "10_answer": "Las pautas actuales de COVID-19 para los viajeros a Sudamérica pueden variar según el país. Es importante verificar las últimas restricciones de viaje, requisitos de vacunación y protocolos de prueba para cada destino antes de la salida.",
+      "11_answer": "Para ofertas de vuelos de último minuto a Sudamérica, consulta TICKETS para ver promociones actualizadas, suscríbete a boletines de aerolíneas y monitorea las bajadas de precios unos días antes de tu fecha de viaje prevista.",
+      "12_answer": "Los elementos esenciales para un viaje a Sudamérica incluyen un pasaporte válido, ropa cómoda para diferentes climas, seguro de viaje, repelente de insectos para áreas de selva, protección solar y un adaptador de corriente para tus dispositivos electrónicos.",
+      "13_answer": "Para reducir los costos de alojamiento en Sudamérica, considera hospedarte en hostales, reservar a través de plataformas como Airbnb o elegir hoteles económicos. Viajar fuera de temporada también puede ayudarte a encontrar mejores ofertas en alojamiento.",
+      "14_answer": "Las aerolíneas que ofrecen los mejores vuelos de larga distancia a Sudamérica incluyen LATAM, Avianca, American Airlines e Iberia. Estas aerolíneas proporcionan vuelos internacionales cómodos con una variedad de comodidades para los viajeros de larga distancia.",
+      "15_answer": "El tiempo de vuelo desde Colombia a las principales ciudades de Sudamérica varía. Por ejemplo, de Bogotá a Buenos Aires toma alrededor de 6 horas, mientras que un vuelo a Río de Janeiro tarda aproximadamente 5 horas. La duración del vuelo depende de tu destino específico.",
+      "16_answer": "Los mejores consejos para viajar con presupuesto limitado en Sudamérica incluyen reservar vuelos y alojamiento con anticipación, viajar en autobús entre destinos, comer en restaurantes locales y evitar las temporadas turísticas altas para obtener mejores precios.",
+      "17_answer": "Sí, puedes reservar vuelos directos desde Colombia a muchos destinos de Sudamérica, incluidas ciudades como Buenos Aires, Santiago y Lima. Las principales aerolíneas como Avianca y LATAM ofrecen rutas directas a ciudades clave en todo el continente.",
+      "18_answer": "Algunos de los mejores lugares costeros para visitar en Sudamérica incluyen las playas de Río de Janeiro, Brasil; las Islas Galápagos en Ecuador; el Parque Nacional Tayrona en Colombia; y Punta del Este en Uruguay.",
+      "19_answer": "Puedes ganar recompensas de aerolíneas mientras vuelas a Sudamérica al unirte a programas de viajero frecuente como LifeMiles de Avianca o LATAM Pass. Asegúrate de ingresar los detalles de tu membresía al reservar para acumular millas para futuros vuelos.",
+      "20_answer": "El rango de precios típico para vuelos a Sudamérica varía según la temporada y el destino. Los vuelos desde Colombia pueden comenzar alrededor de $300 USD para países cercanos y subir hasta $1,200 USD para destinos de larga distancia durante las temporadas altas."
+    }
+  }
+}
